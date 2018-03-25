@@ -1,0 +1,6161 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (MT)
+
+Name: res/drawable-nodpi/icon_close_gray.png
+SHA1-Digest: DarauqJVbYfevqCrqALukVSaE1Q=
+
+
+Name: res/drawable-nodpi/icon_delete_gray.png
+SHA1-Digest: qy5Ip5G4S01Op5cripqOArbtV60=
+
+
+Name: res/layout/spread_mall_head_layout.xml
+SHA1-Digest: ZnH/aOmk+Jsy/GuIXq0cIETPYOU=
+
+
+Name: res/layout/liveservice_orderlist_layout.xml
+SHA1-Digest: L78eaZCPsNWc3Ehgpr9vaIJZMyM=
+
+
+Name: res/layout/buy_productcommentlist_item.xml
+SHA1-Digest: AkZEQL267mebV4OeYv6AkzJxjl8=
+
+
+Name: assets/drawable-hdpi/timeline_relationship_icon_attention.png
+SHA1-Digest: m9Sl7cMNH0zKQUJbHGqdhFy2yso=
+
+
+Name: res/layout/item_liveservice_detail_home.xml
+SHA1-Digest: gk2c2BzntVhsDIhEvTjHHUlxJYw=
+
+
+Name: res/drawable-nodpi/image_editoricon8.png
+SHA1-Digest: nGMtjNpq6JejrjImxGM4rrYtG6o=
+
+
+Name: res/drawable-nodpi/btn_green.9.png
+SHA1-Digest: R6fkeFllg7kFpUEB21RadI24tUg=
+
+
+Name: res/drawable/progress_style.xml
+SHA1-Digest: uwSA0+1FWBkNe9FOjEp8CQQQgeo=
+
+
+Name: res/drawable/red_cornor_shape_btnbg.xml
+SHA1-Digest: ABJWeMkcSOIrJSjiBYtyL48SHSk=
+
+
+Name: res/drawable-nodpi/baidumap.png
+SHA1-Digest: yztWr+2+hkaH07tHGgeSCDa52NY=
+
+
+Name: res/drawable-nodpi/state_send.png
+SHA1-Digest: LA4hMnTCGfFCxmMpyGYXRLEtIk4=
+
+
+Name: res/layout/buy_productcommentsub.xml
+SHA1-Digest: 7I/yKo7/KHMSvR1jc2B1aUxviIE=
+
+
+Name: res/layout/hotel_orderdetail_pricedetail.xml
+SHA1-Digest: KqAiBR1sgGDjXQn+lGCFdwj7U4I=
+
+
+Name: res/drawable-nodpi/liveservice_address_down.png
+SHA1-Digest: bP7tU7gWaAkpeIU0RJmhmoOToEA=
+
+
+Name: res/drawable-nodpi/icon_signed.png
+SHA1-Digest: ZYfTJpHlnTkuQ9chte6lh5YXkTU=
+
+
+Name: res/drawable-nodpi/image_editoricon29.png
+SHA1-Digest: XqSMO9tbq8gyL0X1dGAgOrpo+xs=
+
+
+Name: res/drawable-nodpi/icon_liveservice_waitcomm.png
+SHA1-Digest: wfIDj3MDzuXopbA28bTJscudQO8=
+
+
+Name: res/drawable-nodpi/icon_help.png
+SHA1-Digest: Xs45+u+hHPeF6ebeY12pRXwooOk=
+
+
+Name: res/layout/soft_detail.xml
+SHA1-Digest: NeqGbGatzqsk6Te79lxqMcioojE=
+
+
+Name: res/drawable-nodpi/rank_bar_orange.png
+SHA1-Digest: 3n5upmfsLPBY9lWKe5k7Ddexwlo=
+
+
+Name: res/drawable-nodpi/buy_edit2.png
+SHA1-Digest: S7Fk6/seXOl5Xu4vUakSzu2c8WY=
+
+
+Name: res/drawable-nodpi/image_editoricon13.png
+SHA1-Digest: DyBx85wNUbsK1W28mkFh3wlO9pk=
+
+
+Name: res/layout/info_ninegridview_item.xml
+SHA1-Digest: 27B9kv92d+JfDpwhkSOKbmuxCcA=
+
+
+Name: res/drawable-nodpi/t_btn_addpic.png
+SHA1-Digest: vcGSZZnyOv2qBVEbh3iuKdjZsWU=
+
+
+Name: res/drawable-nodpi/liveservice_reservations_reduce.png
+SHA1-Digest: haRhInf/pN6fzsUN4bpbdPi45Lo=
+
+
+Name: res/layout/x_friendlist_item.xml
+SHA1-Digest: RNCvj0Fn6bSnFWvKERTAOVZ75sY=
+
+
+Name: res/layout/gridview.xml
+SHA1-Digest: vNV3n12uXm0PLCFDMb4FbwnObGs=
+
+
+Name: res/drawable/shape_liveservice_comm.xml
+SHA1-Digest: iwB4+DOULVgmutj8/SRKUVhJJ20=
+
+
+Name: res/layout/spread_grade_detail_layout.xml
+SHA1-Digest: I7Kt0vsm2RBv52CcbAFWyKe7t8g=
+
+
+Name: res/drawable-nodpi/btn_mask.9.png
+SHA1-Digest: N8bVkZ8twAMetjJFj9xuCgdJG2I=
+
+
+Name: res/layout/spread_order_list_item.xml
+SHA1-Digest: s/zvA2uLpXUNYgX3TiIYCWDzSeo=
+
+
+Name: res/drawable-nodpi/t_rfresh.png
+SHA1-Digest: poAiVHY8KP3TDIIgABwNHMzJtnk=
+
+
+Name: res/drawable-nodpi/buy_phone.png
+SHA1-Digest: HOgxW6V4D3HvQBo3m2UcTDvlK2Y=
+
+
+Name: assets/drawable-xxhdpi/weibosdk_navigationbar_back.png
+SHA1-Digest: rrZRPLbt7iEoPdHSnswMykWIMOI=
+
+
+Name: res/drawable-nodpi/t_floor_morebtn.png
+SHA1-Digest: pHZMOuqfluoenuDYl7skSohlSEg=
+
+
+Name: res/drawable-nodpi/zixun_fav_red.png
+SHA1-Digest: eK260xC5VIDqp5yjZCi4vWx/9BM=
+
+
+Name: res/drawable/dot_selected.xml
+SHA1-Digest: /nVlBEhmpI2spr8yNrsZwJHP2Ew=
+
+
+Name: res/anim/pop_exit.xml
+SHA1-Digest: mrDpu1qyh9uUGznIzhvAQqQM0/w=
+
+
+Name: assets/drawable-xhdpi/timeline_icon_add_friends.png
+SHA1-Digest: sM+Ydo+HOcu1dhRk5a69CPhzUPc=
+
+
+Name: res/drawable-nodpi/icon_mall_new.png
+SHA1-Digest: J7u1KUfurOsLcbCfiBsAxPKihTE=
+
+
+Name: res/layout/head_pull3.xml
+SHA1-Digest: nmrOGC4yREjqUnT+3roL4N3nDUc=
+
+
+Name: res/layout/buy_productcommentlist2.xml
+SHA1-Digest: w+C/BvdA0QiZg0zzgBA8mn4x7Ts=
+
+
+Name: res/layout/self_galleryitem4011.xml
+SHA1-Digest: oUijLEPAm0UKcUp5UDuvHqlQP/o=
+
+
+Name: res/drawable-nodpi/icon_emoji_normal.png
+SHA1-Digest: 12njh8Qsh7e3zunqGN8fBy4OWcg=
+
+
+Name: res/layout/self_galleryitem4012.xml
+SHA1-Digest: xb8dOQet8ZTscNHqZVvLKafvgxI=
+
+
+Name: res/drawable-nodpi/shareact.png
+SHA1-Digest: 4UTrQqt1n5wkau7hmk0gobsz1Hk=
+
+
+Name: res/drawable-nodpi/label_hot.png
+SHA1-Digest: pdHEiVsc14bWBgVewkzGpNtc9IM=
+
+
+Name: res/drawable-nodpi/searchimg.png
+SHA1-Digest: hQRRwvIw2PLoYVGIR+N1pKhdFxY=
+
+
+Name: res/layout/xf_friendcon_item.xml
+SHA1-Digest: 3C82U4/GM7khbWaU5DULzKal2UY=
+
+
+Name: res/drawable-nodpi/p_set.png
+SHA1-Digest: WrFGUswJy9f0q0vp6loP9/N77T8=
+
+
+Name: res/drawable-nodpi/liveservice_phone.png
+SHA1-Digest: twO8rf6enFCvpHDTF236eaHwvhU=
+
+
+Name: res/drawable-nodpi/liveservice_collect.png
+SHA1-Digest: XhF/jsWGBY/7EU8HOlyrFAqc6pM=
+
+
+Name: res/drawable-nodpi/liveservice_base_location.png
+SHA1-Digest: 86HlEfYrGpuK61NK32IEATEQVeQ=
+
+
+Name: res/drawable-nodpi/dyn_baseinfo_arrow.png
+SHA1-Digest: egSOHRouNByyB2u8lHLKaJLLpSg=
+
+
+Name: res/drawable-nodpi/buy_surereceive.png
+SHA1-Digest: icjiQxQt+af+0vnbg4GYzgOpNuI=
+
+
+Name: res/drawable-nodpi/image_editoricon7.png
+SHA1-Digest: NVJmPkehUDIcMO9ZhPv5GcbGpKg=
+
+
+Name: res/drawable/shape_bg_point_disable.xml
+SHA1-Digest: 2NxMv6Zqs4LOh94cx09g/Iw9Gcc=
+
+
+Name: res/layout/hotel_orderlist_item_layout.xml
+SHA1-Digest: 3hF3uAVTltypOUc0Vie9RDfYHTg=
+
+
+Name: res/layout/xf_blacklist.xml
+SHA1-Digest: /JEdbtWjAdTIBGkyN3Q7Nqc3DV8=
+
+
+Name: res/layout/buy_order_prefential_dyn_item.xml
+SHA1-Digest: mpY3nF2ZgVqhwluYgObaTqbbW/I=
+
+
+Name: res/drawable/shape_rect_btn_white.xml
+SHA1-Digest: sXuSYefvvuJKWohSDpjRbZGM3yY=
+
+
+Name: res/layout/spread_withdraw_history_item.xml
+SHA1-Digest: XDT1OD9DjAisHuEgs2SL2FYCRX0=
+
+
+Name: res/drawable-nodpi/icon_circle_next.png
+SHA1-Digest: TOnz8LWdvpm4EcNPvRNCqSat7+Q=
+
+
+Name: assets/initFiles/copyright.png
+SHA1-Digest: lvIfYEtPqaDjs/dpxQNN2EB+FE0=
+
+
+Name: assets/db_city.db
+SHA1-Digest: CwE3fTxYWPjl4tcS2/VJoSwZUbA=
+
+
+Name: res/layout/hotel_filterlist_item.xml
+SHA1-Digest: EFg+PAg7RO41r0I4P/OwAjhqPgo=
+
+
+Name: res/drawable-xhdpi/btn_selected.png
+SHA1-Digest: kHKlYrDB12qdSRFO3sNpyNTvR+A=
+
+
+Name: res/layout/hotel_search_hotel_layout.xml
+SHA1-Digest: THiOeIvsi2yLy9/DYP1cquTM6lI=
+
+
+Name: res/layout/dyn_rssdetail.xml
+SHA1-Digest: WGwhWz29LLQ7CLzk0Dne73lVaKk=
+
+
+Name: res/drawable-nodpi/image_editoricon17.png
+SHA1-Digest: TlSWu5KLqMqpaQWEc5mZHa5a0BE=
+
+
+Name: res/drawable/shape_gray_corner.xml
+SHA1-Digest: T+RqHXXN1bMlC0LqJN/FLI3I7FY=
+
+
+Name: res/drawable/play_seekbar_progress.xml
+SHA1-Digest: Qcf+IE/DvuxrsHA9kbXq694ifX8=
+
+
+Name: res/drawable-nodpi/image_editoricon47.png
+SHA1-Digest: +xH35eflPJKK+NSELqLv6HCRtTo=
+
+
+Name: res/drawable-nodpi/icon_arror.png
+SHA1-Digest: 7Af5NxkHVb2UXSYT+y/4RIPcpBg=
+
+
+Name: res/drawable-nodpi/icon_puase.png
+SHA1-Digest: lAqLOKdRbLBAneC30nR8XYJcvmQ=
+
+
+Name: res/drawable/shape_gray_stroke_bottom.xml
+SHA1-Digest: DA9ZyFXERgg55/kLnYN9Cp1yeD4=
+
+
+Name: res/drawable-nodpi/dialog_bg.9.png
+SHA1-Digest: TO9i8C1v3TLvuWsn8PI/Q+NUpCM=
+
+
+Name: res/drawable-nodpi/timg.jpg
+SHA1-Digest: na+rB2/hclovNCO2OLf1fIAMiWM=
+
+
+Name: res/drawable-nodpi/pop.png
+SHA1-Digest: PTKy69XjeGMzv6kXF+MFqZn0+iM=
+
+
+Name: res/drawable-nodpi/icon_emoji_normal_selected.png
+SHA1-Digest: rUJo5YMULgfWsm+BiBNyJoACGR4=
+
+
+Name: res/drawable-nodpi/buy_caculate.png
+SHA1-Digest: 2ydIvdf92mNWaqsRwH2EvGUej0E=
+
+
+Name: res/layout/dyn_search3012_productitem.xml
+SHA1-Digest: JDwwVtC4i760hz+nu88CPiQMHC4=
+
+
+Name: res/drawable-nodpi/dyn_msg_collection_sel.png
+SHA1-Digest: qCkfyz456+2MvyG1+fL7yWt9r6U=
+
+
+Name: res/drawable-nodpi/buy_img_address.png
+SHA1-Digest: zEnh3uIepGFpHk9jLZWBxBA9IJE=
+
+
+Name: assets/Icon_road_blue_arrow.png
+SHA1-Digest: iZ082ij5Px2QVyA4yuq8nZS8heM=
+
+
+Name: res/drawable-nodpi/icon_emoji.png
+SHA1-Digest: Ptbx75m+2JSnx0uUVSm5QrfW+GQ=
+
+
+Name: res/layout/mp4_controler.xml
+SHA1-Digest: Ft+phtGFSa/Mc9Hhu5cJvSiZpc4=
+
+
+Name: res/layout/dyn_paysource_video_detail.xml
+SHA1-Digest: qr/j6m3a9dRPZXVXnRuswchzm5U=
+
+
+Name: res/drawable-nodpi/t_del_emjo2.png
+SHA1-Digest: mPSqYLSZJpED2hQdaqo8BQb4rUA=
+
+
+Name: res/drawable-nodpi/share_weixin_c.png
+SHA1-Digest: xQiLVwrVbVFOWE/aThNNpot/c0g=
+
+
+Name: res/drawable-nodpi/p_getmsg.png
+SHA1-Digest: SHqEohiwS3aijbZw0CC+APe7Lhs=
+
+
+Name: res/layout/load_more.xml
+SHA1-Digest: 0aydigb16uxmKZFWybp1BFleizw=
+
+
+Name: res/drawable/circle_corner_location.xml
+SHA1-Digest: 248T3ZbEvUdRr05uD9yfbPrMVkI=
+
+
+Name: res/drawable-nodpi/t_hand2.png
+SHA1-Digest: qOihXJATc9Y6ZTHRwdkm5inoa/U=
+
+
+Name: res/drawable-nodpi/t_floor_more_bg.png
+SHA1-Digest: xWstjj8ZG+FRkS/xtrgb7KkqH9M=
+
+
+Name: res/drawable-nodpi/dyn_login.png
+SHA1-Digest: T/EJ88M4tYl6+XHPrx/pKu7og1k=
+
+
+Name: res/drawable-nodpi/item_deatils.png
+SHA1-Digest: lzoEr0H8S8ogm6t437Z0K2KDl0I=
+
+
+Name: res/layout/hotel_orderpay_layout.xml
+SHA1-Digest: X/s1/74DdP9xLLcd9liz7MJzt6c=
+
+
+Name: res/drawable-nodpi/image_editoricon1.png
+SHA1-Digest: Q5Z+PCiyFTOa6b74w9l27m0Qa3E=
+
+
+Name: res/layout/qweibo_webview.xml
+SHA1-Digest: CuSIoTQZf1FhfwjySet1IxWiGZg=
+
+
+Name: res/drawable-nodpi/point_red.png
+SHA1-Digest: xvmGeY5hhHtjG7lIX0NEZHCsaLE=
+
+
+Name: res/layout/buy_couponcard_item.xml
+SHA1-Digest: k61I5pwmoeh5NadCw/Bs1dFmVIg=
+
+
+Name: assets/initFiles/1521793794427_745110.png
+SHA1-Digest: PvggISzyVqcGO0BKni9FOinL/ZM=
+
+
+Name: assets/drawable-xhdpi/triangle.png
+SHA1-Digest: AqaZIVR5oWXN9+W+tblntaamdIE=
+
+
+Name: res/layout/dialog_twobtn.xml
+SHA1-Digest: bAKdbDZKUpbn2r+ejt9pvSey3do=
+
+
+Name: res/layout/dialog_loading.xml
+SHA1-Digest: JIBR2Yy6g6ouqJ8jaKPzYgUx+XQ=
+
+
+Name: res/drawable-nodpi/buy_btn_next.png
+SHA1-Digest: vawr8C9g3xyDGy2Xl95wKf6t424=
+
+
+Name: res/drawable-nodpi/soft_gallerybg.png
+SHA1-Digest: cW6Qj9KRAl/zBZJkKFAltqwFPEM=
+
+
+Name: res/layout/dyn_msgitem5011.xml
+SHA1-Digest: TX7Oks1OYVGPdUpTPSk26fAh9zE=
+
+
+Name: assets/cfg/l/DVDirectory.cfg
+SHA1-Digest: MLGsJRFZdWpB7xwTsOtISHu06yA=
+
+
+Name: res/layout/xf_myfriendlist_item.xml
+SHA1-Digest: OMgE6RugAVTU5N5w9LHJdjNC01k=
+
+
+Name: res/layout/spread_webview_layout.xml
+SHA1-Digest: cyDecj1ElLHVVp5X0kRHVpNYQZY=
+
+
+Name: res/drawable-nodpi/icon_mall_recommand.png
+SHA1-Digest: dv9c1jZzX6+Vve8J2se00JC1/ic=
+
+
+Name: res/drawable-nodpi/icon_spread.png
+SHA1-Digest: D0dRfPpInhY+q//QYm97ggZTgL0=
+
+
+Name: res/drawable-nodpi/t_posts_expression_n.png
+SHA1-Digest: VVfLJD7DpHCfQ4L0b5JhuHhlRNw=
+
+
+Name: res/drawable-nodpi/buy_btn_ok.png
+SHA1-Digest: iLW+VH9f9ROshen0QWIKGwXwpPs=
+
+
+Name: res/drawable-nodpi/buy_btn_cut.png
+SHA1-Digest: i0R5VY0hKRnydqdku8PM1OrTcTA=
+
+
+Name: res/layout/buy_addresslist.xml
+SHA1-Digest: RktL6/viORXXiKt7UNBNbuI1Ubo=
+
+
+Name: res/drawable-nodpi/icon_msg_sys.png
+SHA1-Digest: gPmDhd+KIZSDrR3GCL59rvIbRRE=
+
+
+Name: res/drawable-nodpi/buy_success.png
+SHA1-Digest: 5PaxD1dVGgymhrPALlDY7kjOdHk=
+
+
+Name: res/drawable-nodpi/state_cancel.png
+SHA1-Digest: BCImKzS5DO719xirsYC9FJ40+dI=
+
+
+Name: res/layout/dyn_personcenter_5060.xml
+SHA1-Digest: jx95PcLIYfgo4YZ/w3LP7BVi5ww=
+
+
+Name: res/drawable-nodpi/businessqualification.png
+SHA1-Digest: YF//uqmPOtKITJudXMeR0ZFCmNY=
+
+
+Name: res/layout/hotel_reserve_select_roomnum.xml
+SHA1-Digest: gRiRF8Aod9i6uUZHTIFfIzMBee0=
+
+
+Name: res/drawable-nodpi/login_layout_3_line_1.png
+SHA1-Digest: YpmYtIkIST1Qybqk1j/NzW5JJpQ=
+
+
+Name: res/drawable-nodpi/dyn_msg_comment.png
+SHA1-Digest: Vv1RoLd/qu0w9fGmtvXodZ8qXOA=
+
+
+Name: res/drawable-nodpi/image_editoricon46.png
+SHA1-Digest: JzNP5wNr2kkCyM+gLOUnGLoG98A=
+
+
+Name: res/drawable-nodpi/icon_hotel_notcomm.png
+SHA1-Digest: aN2cmJFQzL+50wntURxqafojxBg=
+
+
+Name: res/drawable-nodpi/buy_smail.png
+SHA1-Digest: 65XUJSGajAqGEeXv1lLi5MuXsuQ=
+
+
+Name: res/drawable-xhdpi/text_indicator.png
+SHA1-Digest: Alc2pGexjoJ8K50wJYuz9uzgj3Y=
+
+
+Name: res/drawable-nodpi/icon_info_success.png
+SHA1-Digest: AjCDiLbQu1Yt/zaSkhj2LM0q5Rk=
+
+
+Name: res/drawable-nodpi/empty.png
+SHA1-Digest: VKmLibbU2XwTJSweczcwl4NSaA8=
+
+
+Name: res/drawable-nodpi/icon_picture.png
+SHA1-Digest: fgKCCu/ZRl2GeCLb/JI5k8Ckq0g=
+
+
+Name: res/drawable-nodpi/reservation_quantity.png
+SHA1-Digest: JXVKzAfxojHtTqqHrO21OpDKDpw=
+
+
+Name: res/drawable-nodpi/image_editoricon37.png
+SHA1-Digest: f/CsNsZLPQdtm7iVstkmWOlI6S8=
+
+
+Name: assets/drawable-xxhdpi/weibosdk_navigationbar_back_highlighted.png
+SHA1-Digest: 3Pa0rbb9sw1jymAh/DrEu8uBrMU=
+
+
+Name: assets/drawable-mdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: ov4pulcGm12EZ0xXUY9KDK66rog=
+
+
+Name: res/drawable-nodpi/state_sure.png
+SHA1-Digest: H5GhFMr7OnLu78BBjcNxjA61zsE=
+
+
+Name: res/drawable-nodpi/more_user.png
+SHA1-Digest: 6KHStw8jsv4pVyg6ofDxkMlYYOY=
+
+
+Name: res/layout/select_hotelstart.xml
+SHA1-Digest: Wsr8iwP6CMpfLntV1M//QX0BXlw=
+
+
+Name: res/drawable-nodpi/bg_checkbox.png
+SHA1-Digest: ugMXbQevR9WHMZYqZpVY1AT8gVE=
+
+
+Name: res/layout/spread_center_layout.xml
+SHA1-Digest: 2bsiVtIk46P2CtBZHzuc1rxrvxI=
+
+
+Name: assets/drawable-xhdpi/weibosdk_navigationbar_back.png
+SHA1-Digest: HLDEfYFOy2AZtXztkw0MyygnBys=
+
+
+Name: res/layout/buy_productcommentdetail.xml
+SHA1-Digest: cpgDhncjy40koRXbCOuQyM6vtRc=
+
+
+Name: res/layout/buy_refundapply.xml
+SHA1-Digest: iHg1OEh+Wqsi7P6mj6C/f8vW3xU=
+
+
+Name: res/drawable/liveservice_reservations_bg.xml
+SHA1-Digest: Joivt8SPsvsjekkiugdN2aRPPWc=
+
+
+Name: res/drawable/lbsmsg_circle_corner.xml
+SHA1-Digest: 5BoqArdzNYRiOy7IGwHqCeOmeJc=
+
+
+Name: res/drawable-nodpi/menu_exit.png
+SHA1-Digest: eLpJStbotvKN/dAl3WA3d9QvxwY=
+
+
+Name: res/drawable-nodpi/image_editoricon16.png
+SHA1-Digest: reJAiwImP2+gn+eCK9G3tTLLeiU=
+
+
+Name: res/drawable-nodpi/icon_minus.png
+SHA1-Digest: ou62Ey5/5Q/m3cH8WdJG8ft1z/I=
+
+
+Name: assets/drawable-xhdpi/common_button_big_blue_disable.9.png
+SHA1-Digest: Zv/84ctPRlwdAgYKyGJC2EpkQOo=
+
+
+Name: res/drawable/blue_shape.xml
+SHA1-Digest: Zv4pgZvY81hGotU9KIK80YyPIEg=
+
+
+Name: res/layout/liveservice_allservice_out.xml
+SHA1-Digest: 7NRRWefQmuU1gjYP2amKNC1Zm5o=
+
+
+Name: res/layout/item_liveservice_myappointment_list.xml
+SHA1-Digest: JAR+R/gO1wOV5K30YJEUc5QDcP8=
+
+
+Name: res/drawable-nodpi/icon_shopping_rate.png
+SHA1-Digest: t63TYYBpHPkB2qHScykDMmr+CpI=
+
+
+Name: res/drawable/shape_liveservice_comm_big.xml
+SHA1-Digest: tIXsVEMMZdgm0e5btncPmYKRg/4=
+
+
+Name: res/drawable-nodpi/zixun_fav_tra.png
+SHA1-Digest: 5jTo0SXutGiKTYEE1G5K+X2SPA4=
+
+
+Name: res/drawable-nodpi/et_bg4.9.png
+SHA1-Digest: cfTh+1xleU7FMaAGCW2FUWGSrsI=
+
+
+Name: res/drawable-nodpi/icon_fav_goods.png
+SHA1-Digest: 7Zxmo+HLwVYaEbeGjamCcc2bhew=
+
+
+Name: res/drawable-nodpi/def_images_100_2.png
+SHA1-Digest: OVd1B/JJVjQVmd9qwugIrgLrMXU=
+
+
+Name: org.jivesoftware.smack.extensions/extensions.xml
+SHA1-Digest: SlP+zTE+Ll/OiATcIoeHFCtWXQk=
+
+
+Name: res/drawable/circle_corner_submsg.xml
+SHA1-Digest: sBYARS3IjazSMTkHm1QMrrdUAB8=
+
+
+Name: res/drawable-nodpi/t_more_report_n.png
+SHA1-Digest: EF5530A/tQGzzdpxNiXawFPzqjg=
+
+
+Name: res/layout/dyn_search5007_actitem.xml
+SHA1-Digest: 9uH5922q1Ilob8s9b7oz8f32E9s=
+
+
+Name: res/layout/spread_bingding_account_layout.xml
+SHA1-Digest: wAqv9oign/tA4lgP1iHPCT9c6kU=
+
+
+Name: res/layout/x_chat_item_out.xml
+SHA1-Digest: itIxN3lSaMA0aX7Io1fiddS1OLc=
+
+
+Name: res/layout/person_center_cell.xml
+SHA1-Digest: rd0ads7jqslxTl5g64Gphv0YV6A=
+
+
+Name: res/layout/info_subcategory_list.xml
+SHA1-Digest: Mhp194st+pAtMkjs5YhWZ2jTYgE=
+
+
+Name: res/layout/p_msgcenter_item.xml
+SHA1-Digest: Ks5wKf465TLyLGmANxZiuxVjeFU=
+
+
+Name: res/layout/infocategory_base.xml
+SHA1-Digest: WnoNnSLPOn0D2fNfdo8JApunAjE=
+
+
+Name: res/drawable-nodpi/bg_manber_card_2.png
+SHA1-Digest: sJVs7BLKSby4S5YNDIPHVzX0yAA=
+
+
+Name: res/drawable-nodpi/soft_iconbg.png
+SHA1-Digest: jObBnWOzpcpYWqB9dxMzkJo/yTw=
+
+
+Name: res/layout/p_login_sms.xml
+SHA1-Digest: Odb9gJKA2qDpZSJfuxrIH/QIjpI=
+
+
+Name: res/drawable-nodpi/buy_btn_add2.png
+SHA1-Digest: VkaZWOK+QcrwWcGznwRNQ5Ig1u8=
+
+
+Name: res/drawable/circle_cornertran.xml
+SHA1-Digest: P+tkouG42JxPa6NC1tk+MM7x2XQ=
+
+
+Name: assets/logo_l.png
+SHA1-Digest: WwqUEYbcRtro7LUcYuofXSP0AWc=
+
+
+Name: res/drawable-nodpi/icon_contact.png
+SHA1-Digest: eJnXgCCyR8mkeFZDbVn3r/gSmFk=
+
+
+Name: res/drawable-nodpi/loading_animation.xml
+SHA1-Digest: 1jRlV5CIXXR+FAeKkg0t8Z1SVPY=
+
+
+Name: res/layout/t_edit_emojicell.xml
+SHA1-Digest: xjmI6Ezgm9coSDwNDvwcOMYPCXc=
+
+
+Name: res/layout/t_commentlist.xml
+SHA1-Digest: uMHcnpo7x2FMsGe1ngAcUGzCVPo=
+
+
+Name: res/layout/s_product_item5032.xml
+SHA1-Digest: pDb4evomE+X/DbAyun60JiDZzGA=
+
+
+Name: res/layout/pushwebview.xml
+SHA1-Digest: 3u3Nd62xT1ZVw1iVGwpE6EnXy28=
+
+
+Name: res/drawable-nodpi/icon_shopping_address.png
+SHA1-Digest: QqhDp10B/5FXUnEpVrBr4t0ky5Q=
+
+
+Name: assets/main_bottombtn_up.9.png
+SHA1-Digest: cnDEMs+/85gASUt7/RfvYFY3rr4=
+
+
+Name: res/drawable-nodpi/label_success.png
+SHA1-Digest: +DAm0eO5GtpXfITp/vBnkSwX++g=
+
+
+Name: res/layout/shop_detail_fragment_layout.xml
+SHA1-Digest: aYImxwnEd20Jah+2Lf1XmOLPfEI=
+
+
+Name: res/layout/dyn_product5004.xml
+SHA1-Digest: OWx489dB1CzS6pyQQfEqaQ1vMLg=
+
+
+Name: res/layout/item_deatil_base_more.xml
+SHA1-Digest: fTly2Uw4Vjr/NKoKgcY1aSPMyNM=
+
+
+Name: res/layout/imagepreview.xml
+SHA1-Digest: JAFjmSGIQ8xBjYl1iVMvl1Ql9oM=
+
+
+Name: assets/initFiles/1521793578788_687042.jpg
+SHA1-Digest: eCWxONdLiVwoytnogsEbxq/162U=
+
+
+Name: res/drawable-nodpi/buy_virtual_address.png
+SHA1-Digest: SyCxZv9KdNpe5pGYJZr2XHvRAqA=
+
+
+Name: res/drawable-nodpi/dyn_collectionnull2.png
+SHA1-Digest: FXiO14cSd+MvSwtEFbsMW0TmWBI=
+
+
+Name: res/drawable-nodpi/p_msg.png
+SHA1-Digest: 18dqI2sDODDXha00Hk7AgXctnMw=
+
+
+Name: res/drawable-nodpi/label_check.png
+SHA1-Digest: ijumHR2G6rCyFfQHTPBcBKvpwiI=
+
+
+Name: assets/emoji.xml
+SHA1-Digest: YZBQssD976ua1VMujDx8WWyGk/o=
+
+
+Name: res/drawable-nodpi/close2x.png
+SHA1-Digest: RJ7OB2Ag7UrcQ7hwVDKF63eIQKY=
+
+
+Name: res/layout/s_type_left.xml
+SHA1-Digest: a61PCTSHeZgvWcER53S9sStnPWE=
+
+
+Name: res/layout/person_center_cell_collection.xml
+SHA1-Digest: SOue/hRB3J9CC+8rWLl2jc0D8PY=
+
+
+Name: res/layout/dyn_msgsubmit3011.xml
+SHA1-Digest: qSRYRIRI0gcycFliKp524AwrbLI=
+
+
+Name: res/layout/liveservice_check_singlecomm.xml
+SHA1-Digest: Lh1tAxyHKHl0CghfnRZCfqAtw1k=
+
+
+Name: lib/armeabi/libijkplayer.so
+SHA1-Digest: a+6KxnCCBycCDS7HlfTZccCn5vA=
+
+
+Name: res/drawable-nodpi/icon_discuss.png
+SHA1-Digest: KwGfTFG5OU0TfXkpzi347S1rwVU=
+
+
+Name: assets/cfg/l/DVVersion.cfg
+SHA1-Digest: 9pfF9wKLomealta8UpHDj/lteYI=
+
+
+Name: res/drawable-nodpi/share_sinalogo.png
+SHA1-Digest: X85d8rvqfwg0RQyHJVNtHhOvWt8=
+
+
+Name: res/drawable-nodpi/icon_spread_baike.png
+SHA1-Digest: CkPZtIsvctBoV39/TtLMFu+++3I=
+
+
+Name: res/drawable-nodpi/buy_sold_out.png
+SHA1-Digest: QxEpWZjsbpoz2iSoUbFYFnk/E+8=
+
+
+Name: res/layout/x_chat_item_in.xml
+SHA1-Digest: g2DWc8Ab5ufyl2qvibR+Vm0QSLk=
+
+
+Name: assets/cfg/l/DVHotcity.cfg
+SHA1-Digest: jinm74DNd8BUC0KVMsSbJL6oy5w=
+
+
+Name: res/layout/s_product_item5031.xml
+SHA1-Digest: mDTx378Jk3YAOGYh8TcZDPPg/lQ=
+
+
+Name: res/layout/dyn_msgitem5012.xml
+SHA1-Digest: kB6r6zWzfUNW7P+peoOClpjbe2Y=
+
+
+Name: res/drawable-nodpi/webviewtab_forward_pressed.png
+SHA1-Digest: z1TdrpVYnk9cjvRKrOE6Vwbol+k=
+
+
+Name: res/layout/dialog_iphone_press.xml
+SHA1-Digest: FyVHSpmk1ZUsOTbZwDPezBI21A8=
+
+
+Name: res/drawable-nodpi/icon_collect_red_check.png
+SHA1-Digest: 4NsMIIUy5T2mVFRDTJTxgSwzus0=
+
+
+Name: assets/Icon_road_red_arrow.png
+SHA1-Digest: uEoDWUsxaFh/8MDvT6kB9z0jAO0=
+
+
+Name: assets/initFiles/page_f4fbf9d0-1621-42d1-b3f9-7a8d8b361db7.json
+SHA1-Digest: 85EdL0UWNKn71JpSckumzlVXHg0=
+
+
+Name: res/drawable-nodpi/icon_no_service.png
+SHA1-Digest: ZWAP/vmDtQ6Mhvv7ywsgMsIgLjM=
+
+
+Name: res/drawable-nodpi/gps_grey.png
+SHA1-Digest: gbU7DEhc3eflkOjKcaB3ZEV2CCw=
+
+
+Name: res/layout/liveservice_list_home.xml
+SHA1-Digest: 5N5eSaapLBQkQEaSH4u0FWYhvG4=
+
+
+Name: res/drawable-nodpi/webviewtab_bg.png
+SHA1-Digest: ppEDLCEz3hYAkfY4LKdv8YWdGQs=
+
+
+Name: res/drawable-nodpi/icon_shopping_member.png
+SHA1-Digest: xxwSWjsJSl8g5zwnTmTO3ksGOYg=
+
+
+Name: res/drawable-nodpi/icon_mall_category.png
+SHA1-Digest: pVGSeMn8aqp87upiHHpzpBPGCr0=
+
+
+Name: res/drawable-nodpi/icon_calendar.png
+SHA1-Digest: e+uYq0urD9yy0EYK0jNAeSyLQXo=
+
+
+Name: res/layout/soft_detail_gallery.xml
+SHA1-Digest: imnhjbJ4UPmLPAsuPSb1FvBklUA=
+
+
+Name: res/layout/locationpois_item.xml
+SHA1-Digest: udj8jB3KeeymGqiCsbD/XLCz0M0=
+
+
+Name: res/drawable-nodpi/soft_more.png
+SHA1-Digest: +jpBN27cm5v0/yPJHaqoXK0kEHo=
+
+
+Name: res/drawable-nodpi/icon_emoji_good.png
+SHA1-Digest: wy9C3sBFjsjYgMU71GvycQodV6Q=
+
+
+Name: res/drawable-nodpi/buy_img_arrow.png
+SHA1-Digest: ZUrd20rQWMe6AjtRCKrRwTvM4vw=
+
+
+Name: res/drawable/shape_red_top_cornor.xml
+SHA1-Digest: fgO8oDeh+SYMW1RNdLF8m+GBghA=
+
+
+Name: res/drawable-nodpi/t_bg.png
+SHA1-Digest: BcNXyPRnFoDna9Fzrl9xz4HC4l4=
+
+
+Name: assets/drawable-xhdpi/timeline_icon_attention.png
+SHA1-Digest: giughSSJUj97DA+wQLoTR7DF/P4=
+
+
+Name: res/layout/s_together_top.xml
+SHA1-Digest: d1fKxRNVUtOkX2ET0sztt4BPWqA=
+
+
+Name: res/layout/time_preference.xml
+SHA1-Digest: JM1jARPZLnI90vK43bV3D9A/Dzk=
+
+
+Name: res/drawable-nodpi/share_qq_n.png
+SHA1-Digest: lNPYEPFg6gMZ1vsj8GDAZiKNy74=
+
+
+Name: res/drawable-nodpi/icon_tieba_msg.png
+SHA1-Digest: 3Zw7ezFv/rIhyG61jFzQdMMuYBM=
+
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+
+Name: res/layout/p_reg.xml
+SHA1-Digest: i+Rj6DDP/EXPCr1Dkhk/VcI7sLg=
+
+
+Name: res/drawable-nodpi/soft_mustsel.png
+SHA1-Digest: 0Q4mU6x8Q4UT1QLbeUVOBnlFiXs=
+
+
+Name: res/layout/info_member_detail.xml
+SHA1-Digest: oZhwhhdG+qh6+4GU+3gOxNYdZAQ=
+
+
+Name: res/drawable-nodpi/image_editoricon14.png
+SHA1-Digest: by3ORoYuij74AZtPebi85q5xGYA=
+
+
+Name: res/drawable-nodpi/dialog_button.png
+SHA1-Digest: OLg3RD4VvLJfE7KlTcCgTP8jZ3I=
+
+
+Name: res/layout/free.xml
+SHA1-Digest: RW19Ud9cJK08NNQSFtwwf3S3Niw=
+
+
+Name: res/drawable-nodpi/menu_line1.png
+SHA1-Digest: Tkfj8bsgz26EKSrhlTRM2glFD2A=
+
+
+Name: assets/drawable-hdpi/weibosdk_navigationbar_background.9.png
+SHA1-Digest: m/0EvbVMJK3wZiScHZrhyRQJtZo=
+
+
+Name: res/layout/buy_msgcomment.xml
+SHA1-Digest: D5eAo30fYIspQaDTcr27trGtsL4=
+
+
+Name: res/drawable-nodpi/soft_close.png
+SHA1-Digest: CjP/TTZJTte3+YZw21yOGvTjR18=
+
+
+Name: res/drawable-nodpi/soft_blackpoint.png
+SHA1-Digest: pqyv1jbVtwj1wpnz00peMcQMNik=
+
+
+Name: res/drawable-nodpi/p_vertifyphone.png
+SHA1-Digest: fEYG8m5m5iy7ncc5dTc1AXuLoaA=
+
+
+Name: res/drawable-nodpi/circle_green.png
+SHA1-Digest: VZazUfBPzC5XI74rBW7e2ETQhP8=
+
+
+Name: res/layout/p_login.xml
+SHA1-Digest: dbuNqSnhNwqxy6LvKOs+4j/SjXc=
+
+
+Name: res/drawable-nodpi/icon_emoji_best_selected.png
+SHA1-Digest: xgio/BXgInDAP+9ZVVT7V3l1aLM=
+
+
+Name: res/drawable-nodpi/icon_fav_info.png
+SHA1-Digest: /oJ/Gs8ULlPappgGDJ1dSYfU+m0=
+
+
+Name: res/drawable-nodpi/icon_collect_red.png
+SHA1-Digest: gyYlyZpsEK9DkNCRJ9R9OQl1EbM=
+
+
+Name: res/layout/dyn_search3012.xml
+SHA1-Digest: oznOv6cxVs2JifOU+MumcCSkr5Q=
+
+
+Name: res/drawable/checkbox_bg.xml
+SHA1-Digest: Yt4hgg8qbCkikfU46x07nUe2VVg=
+
+
+Name: res/drawable-nodpi/icon_liveserviec_shutdown.png
+SHA1-Digest: znL7StcHdgLJl8/nduJ5bl43hbo=
+
+
+Name: res/drawable-nodpi/p_nochecksel.png
+SHA1-Digest: KZmk0cxfSVZFhoEie3JRPX+iAbc=
+
+
+Name: res/drawable/icon_call_white.png
+SHA1-Digest: cF7JS0LVELYXNsvY3+o4qYsNMbM=
+
+
+Name: res/drawable/liveservice_detail_weather_bg.xml
+SHA1-Digest: rtEwaRI4Gnx9oyl+9uX3AMp2sJI=
+
+
+Name: res/drawable-nodpi/play_start.png
+SHA1-Digest: 6a+vpklWgbm+x7s/38terNHzTO0=
+
+
+Name: res/drawable-nodpi/circle_red.png
+SHA1-Digest: ylf8gkxu4bsxPrDZ9iEisVQpkQc=
+
+
+Name: assets/Icon_mark7.png
+SHA1-Digest: sKKD7pJZIL+05Zj8WfN2Iu+BqSU=
+
+
+Name: res/menu/mainmenu.xml
+SHA1-Digest: KHa0LmwTaNrk/KLXI0zfkJ5tFJQ=
+
+
+Name: res/drawable-nodpi/triangle_down.png
+SHA1-Digest: jJJCp5C3ikY5AYjNdlRrYXIWQKY=
+
+
+Name: res/drawable-nodpi/xf_male.png
+SHA1-Digest: 8wg9fQYObDDZ2ser63JVxave3us=
+
+
+Name: res/layout/buy_personinfo.xml
+SHA1-Digest: LTDSfVhyEVwuGY/qoUeAod75/HM=
+
+
+Name: res/layout/buy_temporder.xml
+SHA1-Digest: aquSqae9qan9g1ESaHnkcBECwuE=
+
+
+Name: res/drawable-nodpi/label_rebate.png
+SHA1-Digest: SNcIVKFAchzooFwmolYDfBywnrI=
+
+
+Name: res/drawable-nodpi/bg_personcenter_nospread.png
+SHA1-Digest: H1cMY5u2RcekIbppHfwmhAaI7CQ=
+
+
+Name: res/layout/dyn_gather_product_item5054.xml
+SHA1-Digest: VaSTzMeEXdSuTcWodLk0+nHdlp0=
+
+
+Name: res/layout/dyn_search5007_actitem2.xml
+SHA1-Digest: AkkYR3wgPehQ3nmarLkc4nSWl3Y=
+
+
+Name: res/drawable-nodpi/icon_liveservice_ordercancel.png
+SHA1-Digest: 823JpJKUqvibrhaeGhGlJKChHeY=
+
+
+Name: res/drawable/loading_image6.png
+SHA1-Digest: qdMOfihVluKoYLYeejEK9QOe2Yo=
+
+
+Name: res/drawable-nodpi/icon_address_yellow.png
+SHA1-Digest: nYq3WK/DEqOH8rYrMxtoOJ1WKX0=
+
+
+Name: res/layout/s_type_cell_top.xml
+SHA1-Digest: 8J70gb91YuJUWZ+4hCKUZ2NcS+0=
+
+
+Name: res/drawable-nodpi/mp4_vol.png
+SHA1-Digest: YONvWzH+x63ur4r83uJRElifzBI=
+
+
+Name: org.jivesoftware.smack/smack-config.xml
+SHA1-Digest: mpnJs/cGVUww7jdh5ArBdWckzW0=
+
+
+Name: res/drawable-nodpi/p_new_1.png
+SHA1-Digest: vBiFrxpiFXUk4iTopGxnMaNFyQw=
+
+
+Name: res/layout/selfview_banner_item.xml
+SHA1-Digest: 4l3mNJOUkZGbQUcilmKzJWFXLkw=
+
+
+Name: res/drawable-nodpi/dyn_menubg.png
+SHA1-Digest: ILI2b0hiRTs6smRgrRX6fnboEJ4=
+
+
+Name: res/layout/shop_comm_fragment_layout.xml
+SHA1-Digest: 3GV56Jiv3e0vXMxY/gw/10ZysqI=
+
+
+Name: res/drawable-nodpi/p_bg_1.jpg
+SHA1-Digest: boXGgPQzsqGgO3S14Wmsvtdugk0=
+
+
+Name: res/layout/mp4_video.xml
+SHA1-Digest: t3js/58hwkSvHRM9GdFq83OSk1o=
+
+
+Name: res/drawable-nodpi/loading.png
+SHA1-Digest: Pf/hYQpXE+8SfG5OL6ImoJEuSYo=
+
+
+Name: res/drawable-nodpi/icon_help_gray.png
+SHA1-Digest: NqyL+ZvOmmXKoz+Cx31qy0+SgHg=
+
+
+Name: res/drawable-nodpi/soft_recom.png
+SHA1-Digest: v6fCHdv0ihN7H/n/6K8P2eztjRM=
+
+
+Name: res/drawable-nodpi/bg_manber_card_1.png
+SHA1-Digest: 3by82nHt7SyR9zuUIhxVai+d9Eo=
+
+
+Name: res/drawable-nodpi/dyn_menubg2.png
+SHA1-Digest: FLUV6GUywyorbO/09DGu+FEHtuI=
+
+
+Name: res/drawable-nodpi/icon_greebsearch.png
+SHA1-Digest: P6ReSjaHHtH13LxLP4mPP80AmbM=
+
+
+Name: res/drawable-nodpi/mp4_forward.png
+SHA1-Digest: vCts9b2UaYT+vlgaTwAVoyPdQ0c=
+
+
+Name: res/layout/video_fullscreen.xml
+SHA1-Digest: gMP8oouckWPXq8sZuTpint4LZyc=
+
+
+Name: res/drawable-nodpi/checkbox_true.png
+SHA1-Digest: oCtQDGzyXspfVeabxbLf+W+Sdiw=
+
+
+Name: res/drawable-nodpi/image_editoricon23.png
+SHA1-Digest: HSnz3i0z5Gqs/KYeWQ620BpfZLc=
+
+
+Name: res/drawable-nodpi/label_complain.png
+SHA1-Digest: Ve3e0JUKb4XWiZ5piTiZfZ55M1U=
+
+
+Name: res/drawable-nodpi/qzone_logo.png
+SHA1-Digest: RE0BjoT6LWUyw7l6IazOLtFmIMY=
+
+
+Name: res/drawable/shape_orange_frame.xml
+SHA1-Digest: Zr+PZDwYsWXRlJQdU/sexfCGalo=
+
+
+Name: res/anim/dd_mask_in.xml
+SHA1-Digest: hdA+bIfJxRmw97bG4Njy73T/J7w=
+
+
+Name: res/layout/datatimepicker.xml
+SHA1-Digest: 4i8W5n6jQKC30iPH7lYk6Z1XVJM=
+
+
+Name: res/drawable-nodpi/user_avatar.png
+SHA1-Digest: AZaOwNSwFG85y8ryXwUzpJjQhiA=
+
+
+Name: res/layout/dialog_native.xml
+SHA1-Digest: w8F6ywo5phbEk/0vaPHLx0UvCKU=
+
+
+Name: res/drawable-nodpi/sort_common_up.png
+SHA1-Digest: 18fOdCJJ9y9dV9rFGMl2sjS7U58=
+
+
+Name: res/layout/liveservice_myaddress.xml
+SHA1-Digest: t2vUgaeqRhSACErE95VM6mI+U/Y=
+
+
+Name: res/layout/hotel_orderdetail_layout.xml
+SHA1-Digest: 1odOk6sCIe0IqlOL83EvButn+0Y=
+
+
+Name: res/layout/dyn_search3012_newsitem.xml
+SHA1-Digest: YA09qpW3pW10RLjWMs6yVbuhCuM=
+
+
+Name: res/drawable-nodpi/buy_personinfobg.png
+SHA1-Digest: r0QG/0Jqv2SMqi/5mKjFcYDkp+w=
+
+
+Name: assets/initFiles/1521792855769_973900.png
+SHA1-Digest: lvIfYEtPqaDjs/dpxQNN2EB+FE0=
+
+
+Name: res/layout/myedittext2.xml
+SHA1-Digest: c13tLQrf22+2dN6DiN5iBFPDCo0=
+
+
+Name: res/drawable-nodpi/image_editoricon33.png
+SHA1-Digest: mr1LDy/wdmKDt8NnWy9wkK+/LD8=
+
+
+Name: res/layout/self_grid_item4008.xml
+SHA1-Digest: kNx+r2hC6Jok/OZ1iZlVXcW6jUY=
+
+
+Name: res/drawable-nodpi/image_editoricon50.png
+SHA1-Digest: bY9NpvD4k1Ges7YBT20EmUkfPCs=
+
+
+Name: res/drawable-nodpi/soft_menubg.png
+SHA1-Digest: UEPKLhq5ZXyFxvf+m4NI6YmguwQ=
+
+
+Name: res/layout/reserve_hotel_basehead.xml
+SHA1-Digest: IjTxuB6JOUd562J6/SewcFHXfrI=
+
+
+Name: assets/drawable-xhdpi/login_top_background.9.png
+SHA1-Digest: aSZA5p+azee155Z71xK0aOd8ccc=
+
+
+Name: res/drawable-nodpi/bg_city_btn.9.png
+SHA1-Digest: R2Q15BcT4+4NLAx9tFhKyh4MfGk=
+
+
+Name: res/drawable-nodpi/icon_info_yellow_circle.png
+SHA1-Digest: b8SWk4/LfaKaD6gFyYOk36U35/M=
+
+
+Name: res/drawable-nodpi/image_editoricon40.png
+SHA1-Digest: kNOiYXsTXJ95SoRzPXKuCOy4YAs=
+
+
+Name: res/drawable-nodpi/loading_image0.png
+SHA1-Digest: u+mc3oG5RDLD6aomgiusbY4SJfs=
+
+
+Name: res/drawable-nodpi/icon_updata.png
+SHA1-Digest: EXIi7PQZHilqYlUn6Bcah1ecfiE=
+
+
+Name: res/drawable-nodpi/icon_spread_address.png
+SHA1-Digest: KiABaSXP9BjUVclHX2OnDV9Ar+U=
+
+
+Name: res/layout/buy_viewhistory.xml
+SHA1-Digest: D5N45HgPV+Aof4apfX4z7aoBt1Q=
+
+
+Name: assets/drawable-xhdpi/weibosdk_navigationbar_back_highlighted.png
+SHA1-Digest: QrrJ31P7z9FdLBllQ9OkFY5hSg0=
+
+
+Name: assets/drawable-hdpi/timeline_relationship_icon_addattention.png
+SHA1-Digest: BO0M6PgawA6N064obadO9CMxSow=
+
+
+Name: res/layout/buy_temporder_item.xml
+SHA1-Digest: qPOXEm5CO31LxCIf0PCwYTucElM=
+
+
+Name: res/drawable-nodpi/merchant_picture.png
+SHA1-Digest: 721oaYUdWgnnyoFe6tiA5h76Cfw=
+
+
+Name: res/drawable/oval_shape_white.xml
+SHA1-Digest: nc5Lecpi+xsM2wCxZYG0aJeHX5c=
+
+
+Name: res/drawable-nodpi/dialog.png
+SHA1-Digest: Hd9oBHuzUOgPcy9H98miWOgHXi8=
+
+
+Name: res/layout/xf_update_remark.xml
+SHA1-Digest: q+hQHL9wxTYtMw7wir0vfjzGQOo=
+
+
+Name: res/drawable-nodpi/soft_view.png
+SHA1-Digest: 25UEiMfcNPtoxnjrpWyBL1oz4IM=
+
+
+Name: res/drawable-nodpi/icon_virtual_overdue.png
+SHA1-Digest: 4X0Bux1+ExlUrgFYSh4DyjdQ+pQ=
+
+
+Name: res/drawable-nodpi/buy_btn_validatesure.png
+SHA1-Digest: HT6Wpt0YLQQcdDjk+dhACtbSKss=
+
+
+Name: res/layout/spread_point_detail_layout.xml
+SHA1-Digest: A11ENQUof8EwkNZTW6WqJHj3ZyQ=
+
+
+Name: assets/cfg/a/trafficstyle.sty
+SHA1-Digest: tgj3Jym/FLI5ewalS5MyKcRUs4o=
+
+
+Name: res/drawable-nodpi/buy_logo_zhifubao.png
+SHA1-Digest: T53sAOzEt0ZSVsaz8Ih3P6F5KBc=
+
+
+Name: res/layout/hotel_cancelorder_layout.xml
+SHA1-Digest: QWnMc4wp39TFWu0RVuAvDLtv0RA=
+
+
+Name: res/drawable-nodpi/t_hand.png
+SHA1-Digest: Y5WQDNB/in9AG+ngIEQN84+hNV0=
+
+
+Name: assets/drawable-xxhdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: yHpKqBvMV3I2kZglNBXmZEpRqf0=
+
+
+Name: res/drawable-nodpi/person_icon_msg.png
+SHA1-Digest: yiPais4zODjfWVD3kj5P878/nSw=
+
+
+Name: res/layout/self_listitem4003.xml
+SHA1-Digest: 9WNiiMUYFhapde5rlXo1zOapmks=
+
+
+Name: res/drawable/shape_gray_cornor_frame.xml
+SHA1-Digest: KDAJeIWizVhGCo12zq5e/wXzt0c=
+
+
+Name: res/drawable-nodpi/icon_add.png
+SHA1-Digest: al+jqtGSloDOJa75MYN74JWTdc0=
+
+
+Name: res/layout/p_blacklist.xml
+SHA1-Digest: d3ezi2A2L+jU5dOk6skMHiXbl2c=
+
+
+Name: res/drawable-nodpi/share_weixin_f.png
+SHA1-Digest: glcMYuMyXUGNIms/kaYxzPJPJ58=
+
+
+Name: res/drawable-nodpi/icon_play_big.png
+SHA1-Digest: Y76aSCx1YnGxZkiYVX8Zt9KfeDU=
+
+
+Name: res/layout/dyn_commentitem.xml
+SHA1-Digest: iQr+EjmSgQtRkO1JltnREgXz/yM=
+
+
+Name: res/drawable-nodpi/icon_sex_m.png
+SHA1-Digest: qWJrbNOYT1RAvngfoUd4RYmP5Lo=
+
+
+Name: assets/initFiles/1521793582093_635526.jpg
+SHA1-Digest: U0Ls7+SFiCfz7RI1hQFw9cQwt6U=
+
+
+Name: res/drawable-nodpi/buy_downup.png
+SHA1-Digest: 2/5wphS2fMW/gVFk5hN48Jb6Ejg=
+
+
+Name: res/layout/liveservice_reservations_sure.xml
+SHA1-Digest: X+MXgWNtY08ywPOmG5PaT7PUz4s=
+
+
+Name: assets/drawable-hdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: 7v+7iEkPEQGf3r3HtAH6uZ76aRQ=
+
+
+Name: res/drawable-nodpi/soft_share.png
+SHA1-Digest: jUd4vLpKbYJlbtptPzLxBnAdgV4=
+
+
+Name: res/drawable-nodpi/liveservice_free_reservation.png
+SHA1-Digest: REI1QsRTRFbWd+1JWIOIM8Ni7RQ=
+
+
+Name: res/layout/infocategory_base_head.xml
+SHA1-Digest: aLV0ek/j3YvaSM8cHqNILjWmTZI=
+
+
+Name: res/drawable-nodpi/dyn_sina.png
+SHA1-Digest: eHV5VZFgNRM2vmwN3VpxQ32c6mc=
+
+
+Name: res/drawable-nodpi/icon_tieba_fav.png
+SHA1-Digest: k3fd1xJtlIBd0fu+/yCTobv/hgg=
+
+
+Name: assets/cfg/h/DVDirectory.cfg
+SHA1-Digest: MLGsJRFZdWpB7xwTsOtISHu06yA=
+
+
+Name: res/drawable-nodpi/t_more.png
+SHA1-Digest: 12A/n01/IVbxHhCE1CN9ONfCnzA=
+
+
+Name: res/layout/dyn_paysource_orderpay.xml
+SHA1-Digest: GToPIUhtXfpuyDXW/pnfNVk19lY=
+
+
+Name: res/drawable-nodpi/gohome_service.png
+SHA1-Digest: R7nkESlPuJj2HOPyRSVkKxqTdaQ=
+
+
+Name: res/drawable-nodpi/icon_liveservice_orderdelete.png
+SHA1-Digest: rBu0WtJ7HCxXAkseiIOgJSZECLU=
+
+
+Name: res/layout/persion_setinfo.xml
+SHA1-Digest: bRXG0PUi4mdNT/rlNT3pnQdMfzg=
+
+
+Name: res/drawable-nodpi/chekbox.png
+SHA1-Digest: 7vm2KmZkVBbdgcbSjSVwCQ/gNKk=
+
+
+Name: res/layout/hotel_gallery.xml
+SHA1-Digest: 4MpcRns0CtqAfses+0YxS1ePKl8=
+
+
+Name: res/layout/p_login_4.xml
+SHA1-Digest: aFfN1kGlHrscDQ0tQBWzI1j0Cu0=
+
+
+Name: res/layout/dyn_msgdetail.xml
+SHA1-Digest: f6QZDIaRJ63T7nXEWWNXO8JZoQs=
+
+
+Name: res/drawable-nodpi/btn_show.png
+SHA1-Digest: Jw/QMsiE3KcRVg2l/YX0kbL/dl0=
+
+
+Name: res/layout/spread_unact_member_list.xml
+SHA1-Digest: GWBo1lxFe6uKiiEhx9LsZj80cWg=
+
+
+Name: res/drawable-nodpi/liveservice_price_change.png
+SHA1-Digest: ODwpnIqApnh+/8fL/i/cgOzPXbA=
+
+
+Name: res/layout/x_friendlist.xml
+SHA1-Digest: zR2mYD7vaQrOIJCQgyY7nzPjv8Y=
+
+
+Name: res/layout/mylistview.xml
+SHA1-Digest: yTgfsiVv7kOQdhPFK9XT0UbaE4Y=
+
+
+Name: res/drawable-nodpi/def_pic.png
+SHA1-Digest: gvNgs2tYwsQC+6staOEadVloOf8=
+
+
+Name: assets/main_topbtn_up.9.png
+SHA1-Digest: HKN7QK3DzAt8bykPXCYKgsWj1Mc=
+
+
+Name: res/drawable-xhdpi/asv.png
+SHA1-Digest: Rt8ecO9vIEPfxIj5A4ojBI0PsGI=
+
+
+Name: lib/armeabi/libsaturn.so
+SHA1-Digest: SUXPJcoPHZweUlAliSvQ+9Z3dcc=
+
+
+Name: res/layout/pop_shopcar_et_num.xml
+SHA1-Digest: SeydTWQ8Skgnpl6zwfgGu8No8FM=
+
+
+Name: res/drawable-nodpi/buy_topmenubg.png
+SHA1-Digest: zlwEjD+MgP0FO8l4ZAxuwEwakp8=
+
+
+Name: res/drawable/alimama_shape.xml
+SHA1-Digest: J49eGk9WdjSe1DywF8W41KhVWdo=
+
+
+Name: res/drawable-nodpi/soft_btn_soft.png
+SHA1-Digest: k5deUu0Isfj/8fUmvzKLQ2EPCEk=
+
+
+Name: res/layout/buy_addresslist_item.xml
+SHA1-Digest: GrxA4Ijup3a+yFNZF8z6zPOlWck=
+
+
+Name: res/layout/self_grid_item.xml
+SHA1-Digest: KUAslCeqrGgVE/dt4wuIujZQ67A=
+
+
+Name: res/drawable-nodpi/image_editoricon15.png
+SHA1-Digest: 93T1Hqkt88r8sa79EOQng2viaxU=
+
+
+Name: res/layout/s_msg_item5022.xml
+SHA1-Digest: cFP6WUKVrb0ppEnF6l4kS3XxFIE=
+
+
+Name: res/layout/buy_temporderlist_footview.xml
+SHA1-Digest: TnL0mvkLgMb5BajfYLVmvtG82ec=
+
+
+Name: res/drawable-nodpi/buy_searchbg.png
+SHA1-Digest: ga+UDg7q6jdsLQtTxheLA7y6jNs=
+
+
+Name: res/drawable-nodpi/icon_virtual_used.png
+SHA1-Digest: J5fLz0z5OBlFaRj/YNsTKrK1Rec=
+
+
+Name: assets/initFiles/page_6c0ddf6f-60cf-4327-8fe0-7b2dd84626d0.json
+SHA1-Digest: ft+u5zxPpoPbLnAtg83lyO0RSbI=
+
+
+Name: res/drawable-nodpi/btn_red.9.png
+SHA1-Digest: 0PkmfqBBaNZSF+YxmuOeyKFKjXo=
+
+
+Name: res/layout/buy_msgcommentrep.xml
+SHA1-Digest: ZdmJBgqJeueWd4ijxnygiGYcbBw=
+
+
+Name: res/layout/imageview.xml
+SHA1-Digest: hy+Et9at9nts1OUMAYls2gK1u8g=
+
+
+Name: res/drawable-nodpi/ico_admin.png
+SHA1-Digest: ImeEp1OfsCzAhyXEOamr6HBgBzQ=
+
+
+Name: res/layout/buy_ordermanagerlist_item.xml
+SHA1-Digest: BhP68DRJ8xmJpPLr10vg4+y2Bn8=
+
+
+Name: res/layout/soft_recom.xml
+SHA1-Digest: k+eM5IzGrdtW21MNTMmj0JyPxbI=
+
+
+Name: res/drawable-nodpi/icon_mall_order.png
+SHA1-Digest: cfApoL4R3XSMGB8Tj32z6sGnG9s=
+
+
+Name: assets/drawable-xhdpi/search_clear_btn_down.png
+SHA1-Digest: VhkBzUj0uUv1SqxxSyaXr5AfUlE=
+
+
+Name: res/layout/dyn_product_item5014.xml
+SHA1-Digest: p0JinsVM8klCZwPwCTAVvSq6Yc0=
+
+
+Name: assets/Icon_mark8.png
+SHA1-Digest: vJHMIXsi8SPI0zapgfknlq2wAkE=
+
+
+Name: res/layout/selfview_banner_layout.xml
+SHA1-Digest: gQ76pl9LYq5abC8g7TzV9DSWryc=
+
+
+Name: res/drawable-nodpi/liveservice_smiles.png
+SHA1-Digest: mMtuTpvh/GPfXvHjd9gRQFjx0+Y=
+
+
+Name: res/drawable-nodpi/bg_goods_discount_bar_time.png
+SHA1-Digest: l9zkReNdLARJAVElCkgCG+3FpWk=
+
+
+Name: res/drawable-nodpi/liveservice_reservations_right.png
+SHA1-Digest: XwjUtWhxXmAWay0Z99dlDzfrRvU=
+
+
+Name: res/drawable-nodpi/buy_img_seladdress.png
+SHA1-Digest: gSnpENvnE8YP4FfemdH+dYRqOzM=
+
+
+Name: res/drawable-nodpi/p_hot.png
+SHA1-Digest: E9eXzsgyLydhKsbqUnEv3Qs9yww=
+
+
+Name: res/drawable-nodpi/login_layout_2_icon_3.png
+SHA1-Digest: uueG/1bhu1X4aF2YlT2TQKtPtnk=
+
+
+Name: res/layout/soft.xml
+SHA1-Digest: 8EO+TQFWask+H7sd/CuVN2eoXqY=
+
+
+Name: res/drawable/shape_liteorange_cornor.xml
+SHA1-Digest: Iq8XdfthE9Tgl3ssR+N1BcK63nk=
+
+
+Name: res/layout/liveservice_cancel_order_apply.xml
+SHA1-Digest: S3zebF+bXIGv3JxRuTC2uVSNFmo=
+
+
+Name: res/drawable/spread_progress_color_style.xml
+SHA1-Digest: TQab+Cquw3k8hIa5zSwg6D/ffDE=
+
+
+Name: res/drawable-nodpi/map_point.png
+SHA1-Digest: MJoGlt/+daiPQVbw/Hmp/cjq7Lk=
+
+
+Name: res/drawable-nodpi/icon_wexinpay.png
+SHA1-Digest: EGeFtcTsoUVbCAAb8WkvWmtC/zM=
+
+
+Name: res/layout/xchat.xml
+SHA1-Digest: Uyb7rBEu3swKnBojz+2j/n++TD8=
+
+
+Name: res/layout/dyn_videowebview.xml
+SHA1-Digest: 5BwWhsZXB/PsxaPWHEiCWVlGT6c=
+
+
+Name: org.jivesoftware.smack.im/smackim.providers
+SHA1-Digest: cpTggyhAZo27bgr4+S0VV/Xvtg0=
+
+
+Name: res/drawable-nodpi/image_editoricon32.png
+SHA1-Digest: fQ0PL272h/uX/cOjTTvlXDuAI4s=
+
+
+Name: res/drawable/radiobox_bg.xml
+SHA1-Digest: sYJK42e6FRD3aQsahc3mxW1K5eU=
+
+
+Name: assets/Icon_mark4.png
+SHA1-Digest: aO+806mdGudhrfRnuuWXiewohpQ=
+
+
+Name: res/drawable-nodpi/share_qzone_n.png
+SHA1-Digest: ctmpccJwv4N6VNxDtX9DLVWnE1U=
+
+
+Name: assets/drawable-hdpi/common_button_white_highlighted.9.png
+SHA1-Digest: O2HwGTEEsDv1ulTqoNw74gKpW2c=
+
+
+Name: res/layout/dialog_sel_act.xml
+SHA1-Digest: 8CLpbrpRfabhyDZHxv1F+r9vsww=
+
+
+Name: res/drawable-nodpi/dyn_msgsubmit_share.png
+SHA1-Digest: ilnc3xdiU9y+z6qo4oYCUEqU/FI=
+
+
+Name: res/layout/info_item_gridview.xml
+SHA1-Digest: hwRif6Ffc0tyj0hz+lDHuZfFCQs=
+
+
+Name: res/layout/dyn_search3012_shopitem.xml
+SHA1-Digest: 4KXFInWrvS8r0vuRiffJQUEfYQc=
+
+
+Name: res/layout/x_chathistory.xml
+SHA1-Digest: OcUU5OY+go6+Mj3lYyMvplii1Jo=
+
+
+Name: res/drawable-nodpi/pulltorefresh_arrow2.png
+SHA1-Digest: SfX6FQ2C7Y/N4JIpUtBKM3qmrc8=
+
+
+Name: res/drawable-nodpi/icon_coupon_soft.png
+SHA1-Digest: Ghqrx1L2AsJn/ls667CXAWoXJfg=
+
+
+Name: assets/drawable-xhdpi/get_code_button_highlighted.9.png
+SHA1-Digest: bXKz/2EaeshkGzZ9eUrea8yMKOc=
+
+
+Name: res/layout/liveservice_new_addmyaddress.xml
+SHA1-Digest: aA4bk3SOqC2s5hbhTTMRklkiMuo=
+
+
+Name: res/drawable-nodpi/chat_icon_service_circle.png
+SHA1-Digest: DRP7IYaJSLCG+Tl+N5Xm1JuySqM=
+
+
+Name: res/drawable/dot_white.xml
+SHA1-Digest: y1HHun0jVEpFpDaKh9LdiFvSiTI=
+
+
+Name: res/drawable-nodpi/p_login.png
+SHA1-Digest: /4mDsKzhTn0FYPvISyANQnxdZQo=
+
+
+Name: res/layout/buy_orderdetail_item2.xml
+SHA1-Digest: JD0Zin/xM32ec04D7ywokRpIMXg=
+
+
+Name: res/layout/powerwebview.xml
+SHA1-Digest: PvAwKoiHT0EMofnkb7ooGuODBNw=
+
+
+Name: res/drawable-nodpi/default_store_img.png
+SHA1-Digest: FSWWSXKTs1DcgQmMuoeW1YNDlkE=
+
+
+Name: res/drawable-nodpi/p_new.png
+SHA1-Digest: IOejquX2V7VS5HYuZPS4/n3y4UI=
+
+
+Name: res/layout/reserve_hotel_card_item.xml
+SHA1-Digest: e1JdvCfqZDeYOmIgJhDA1qBpxeE=
+
+
+Name: res/drawable-nodpi/icon_info_reject.png
+SHA1-Digest: Y5CSl2jJokh02Qmx+O3bbG/OgP8=
+
+
+Name: res/drawable/shape_banner_card.xml
+SHA1-Digest: P+j7sxys0JJp2Lrepf4wiYW+F/s=
+
+
+Name: res/drawable-nodpi/loading_image3.png
+SHA1-Digest: KchTadPidPtLu41dMSqDEJm6/34=
+
+
+Name: res/drawable-nodpi/call_yellow.png
+SHA1-Digest: 9PTX0bczbQSGJqvH0TldINl5+Pk=
+
+
+Name: assets/Icon_mark10.png
+SHA1-Digest: brhelZiL1AZTlMx8OTzOldR2G7A=
+
+
+Name: res/drawable-nodpi/p_collection.png
+SHA1-Digest: KH5ucmf3Sd3N5Ae6TbFgnMaBvWM=
+
+
+Name: res/drawable-nodpi/icon_personcenter_gift.png
+SHA1-Digest: k9BReaKFl5NaBnnskjCHm+119Ok=
+
+
+Name: res/layout/t_msg_item.xml
+SHA1-Digest: D7LxViaYmj4zvGjab6BVGi3POo8=
+
+
+Name: res/layout/dyn_gather_product_item5052.xml
+SHA1-Digest: jjQsAW3dy5BlGPOQYKfwQBeUTLQ=
+
+
+Name: res/layout/buy_tempordertop.xml
+SHA1-Digest: r2n1hZqtZD/vvRqyBVFAf7gLiME=
+
+
+Name: res/drawable/btn_foot_pull.xml
+SHA1-Digest: xINsXJMB+JaruYpZaEcJZwjKZbg=
+
+
+Name: res/drawable-nodpi/image_editoricon28.png
+SHA1-Digest: WqIpVGikctT6Ekoz7/XEYBjCXJk=
+
+
+Name: res/drawable-nodpi/image_editoricon5.png
+SHA1-Digest: kQeO2/5uc8uYXydL+PP80lcsBVg=
+
+
+Name: res/drawable-nodpi/icon_liveservice_succeed.png
+SHA1-Digest: CtTimOatRTF0fePidAm/Ml3pG5I=
+
+
+Name: res/layout/hotel_reserve_hotel_layout.xml
+SHA1-Digest: 2tOa16mBpoKtqOKPOBq/A+9MLBY=
+
+
+Name: res/layout/item_goods_attr_list.xml
+SHA1-Digest: 8SjtWUnRYyY916k8QfEk43xEqtc=
+
+
+Name: res/drawable-nodpi/label_rec.png
+SHA1-Digest: +Z4zRqBh7Ahg0j9ekJ0jZuFsWUk=
+
+
+Name: res/drawable/shape_liveservice_detail_home_popup.xml
+SHA1-Digest: r9xhSIayOp/VIvBKCM5PFzgO83w=
+
+
+Name: res/layout/navigation_history.xml
+SHA1-Digest: V1B8goLDVugPXLIjjtZe4leXKBg=
+
+
+Name: res/drawable-nodpi/icon_tab_up.png
+SHA1-Digest: ZGvx/338+Q6FDDrDlI2miDn75f8=
+
+
+Name: res/layout/spread_withdraw_history.xml
+SHA1-Digest: KG5oe+FRvs77If8O8uwp4CvT+jE=
+
+
+Name: res/drawable/red_rectangle.xml
+SHA1-Digest: 2d+tt44LB8LjpA8jpQM9t3gpWOo=
+
+
+Name: assets/countryCodeEn.txt
+SHA1-Digest: mdzf8t1l3UOAdnQiQViTliXCl8E=
+
+
+Name: res/drawable-nodpi/buy_dot9.9.png
+SHA1-Digest: 9whxdq87yjJ9EfGkL/7drWo25pU=
+
+
+Name: res/layout/person_lbsmsglist.xml
+SHA1-Digest: /UUudb3XWcggLn0SFEqcc21amW4=
+
+
+Name: assets/main_icon_zoomin_dis.png
+SHA1-Digest: stSuzVtJDvR1SBnpDgH/oTyY5Nk=
+
+
+Name: res/drawable-nodpi/icon_slider.png
+SHA1-Digest: IwaifIZ8mPsclXIYnHcZ0QiyauU=
+
+
+Name: res/layout/t_main_contenttop.xml
+SHA1-Digest: cO9pwNWZ9tQN6TDgqypuZXTEG+U=
+
+
+Name: res/drawable/dot_grayd9.xml
+SHA1-Digest: GuBQsni0Byej6tyvUGquY/3r+gU=
+
+
+Name: res/layout/xf_person_detail.xml
+SHA1-Digest: 0VFcjcEqBnzU60HFZCNPUYW5J0E=
+
+
+Name: res/drawable-nodpi/buy_delete2.png
+SHA1-Digest: d0puzbZ9jz0ZprfTRm9PtmBtugw=
+
+
+Name: assets/drawable-xhdpi/login_country_background.9.png
+SHA1-Digest: oYD83Xe/Iov316TXCpKgMrcMMyU=
+
+
+Name: res/drawable-nodpi/image_editoricon6.png
+SHA1-Digest: eJf8nu7lr5sLe0l+QockiiB70yk=
+
+
+Name: res/drawable/dot_normal.xml
+SHA1-Digest: C2n8PWHZXffpLthgNkx1Y+7if68=
+
+
+Name: res/drawable-nodpi/t_delete.png
+SHA1-Digest: +WIOAJY14AKmjWqbHfv06QIM0K0=
+
+
+Name: res/drawable-nodpi/share_close.png
+SHA1-Digest: rIZ3nCgpNOkYPXDsfkuabtAdGg4=
+
+
+Name: res/drawable-nodpi/buy_pay.png
+SHA1-Digest: TAQA/3L6P6MC83VxiXImvB4nKFk=
+
+
+Name: res/drawable-nodpi/p_clean.png
+SHA1-Digest: PhXEr18RMciZdqYyVa3VfZjpCmw=
+
+
+Name: res/drawable-nodpi/buy_btn_save.png
+SHA1-Digest: qD7eJSTX5k2szIgfXetLdpV5XG0=
+
+
+Name: res/drawable-nodpi/menu_line2.png
+SHA1-Digest: h6BEqjZBNPLfwAWaJcZsPD8Q2QE=
+
+
+Name: assets/drawable-hdpi/weibosdk_empty_failed.png
+SHA1-Digest: MyNc9WPep/xeS/YIe0AT4Vu9lBM=
+
+
+Name: res/drawable-nodpi/state_notsure.png
+SHA1-Digest: b6n88SBOkR3ZXEwUbBPHArR7pp0=
+
+
+Name: res/anim/anim_marquee_in.xml
+SHA1-Digest: zwuCGAUbb0lzhwRWKVJIerkA/e8=
+
+
+Name: res/drawable/layerlist_ratingbar.xml
+SHA1-Digest: M8X61p0kKqP3+Gq2E9u1ol6laAE=
+
+
+Name: assets/initFiles/clientBase.json
+SHA1-Digest: VPZcUdmpgWJoNxh5JuK6br672xc=
+
+
+Name: res/layout/item_deatil_base.xml
+SHA1-Digest: HpjSmFT0Olio55cTbiQ6bwv02uc=
+
+
+Name: res/drawable-nodpi/icon_shopping_history.png
+SHA1-Digest: l9V9v/nM1Cs7acB7PTv/k7A+MXA=
+
+
+Name: res/drawable-nodpi/buy_collection_no.png
+SHA1-Digest: kDj1YJpfEOUSEe8huyfRbNzNXU4=
+
+
+Name: res/drawable-nodpi/icon_publish.png
+SHA1-Digest: pkRKiH8i+hPQQ99ahgxZ2jQrAlY=
+
+
+Name: assets/initFiles/1521793827114_753499.png
+SHA1-Digest: 6SSkaA80FsuIjvr9e0mfU0AplZE=
+
+
+Name: res/drawable/shape_white_small_cornor_bg.xml
+SHA1-Digest: 4Ng0FyBSg0NgYczIoDRFlRSCU9A=
+
+
+Name: res/layout/buy_personcenter.xml
+SHA1-Digest: lRK5O362ZwZ6eK10Z+thWGzo76Y=
+
+
+Name: res/layout/buy_discount_activity.xml
+SHA1-Digest: nweg8V1XhR7ADwKfu1WrVIeDJ0o=
+
+
+Name: res/layout/activity_poi_search_item.xml
+SHA1-Digest: AuVvelymsIy63gtjW14yVFgCaP0=
+
+
+Name: res/anim/pop_enter.xml
+SHA1-Digest: MB5oJKOrI7kYyY9gl9wkqi8Q0Yc=
+
+
+Name: res/drawable-nodpi/buy_img_productreplay.png
+SHA1-Digest: 6AVvjQfxEd8xbO4vnNkQhqyX9Zk=
+
+
+Name: res/drawable-nodpi/image_editoricon43.png
+SHA1-Digest: EyZQxGR2rHwHCKH8QM9F8/GRtOc=
+
+
+Name: res/drawable-nodpi/liveservice_address_location.png
+SHA1-Digest: Uw4wq3HUslrk9iYbgSSdDQvXXAM=
+
+
+Name: res/layout/t_number.xml
+SHA1-Digest: 5nvLcWCXpkZ4Hk0zXCDYWR9uO0s=
+
+
+Name: res/layout/activity_default.xml
+SHA1-Digest: BRqQaL+lWyB9fN/L0MZChSt4now=
+
+
+Name: res/layout/dyn_location3013_item.xml
+SHA1-Digest: VuT6LmPeET4l60UvjFBt6EIEeCY=
+
+
+Name: res/layout/buy_viewhistory_item.xml
+SHA1-Digest: Ei+PgZLdDKdham6ULIws+fnAHxk=
+
+
+Name: res/drawable-nodpi/pulltorefresh_arrow.png
+SHA1-Digest: FPLapEuoToOTbwhCOLGb/OYdTbs=
+
+
+Name: res/drawable-hdpi/timebg.9.png
+SHA1-Digest: gb60X1TFu/HMMYTSWOAHwB+z4Xk=
+
+
+Name: res/layout/liveservice_detail_home_popupwindow.xml
+SHA1-Digest: ei8NU9O/bLEM4YwBIvy/4ENxAE0=
+
+
+Name: res/drawable-nodpi/buy_btn_validate.png
+SHA1-Digest: L2cCBWTdI7jG9ZK/KqmH5sSBQqo=
+
+
+Name: assets/main_bottombtn_down.9.png
+SHA1-Digest: kNR4pry92/OCOF/5HW1WIb6Q9CE=
+
+
+Name: res/layout/self_galleryitem4013.xml
+SHA1-Digest: D5en5KNnREvK9F8aiodExa84E74=
+
+
+Name: assets/countryCode.txt
+SHA1-Digest: xT1p4DY02Ey5OMCkRiGPFTloK5U=
+
+
+Name: res/layout/spread_order_list.xml
+SHA1-Digest: goXfjDChMO9x6uuTQXauEVO64fo=
+
+
+Name: res/drawable-nodpi/login_layout_3_icon_2.png
+SHA1-Digest: QlrXdwG6Qf+/2TSIx0PUz7rzaxo=
+
+
+Name: res/drawable-nodpi/gallery_topbar_bg.png
+SHA1-Digest: uwaID6j1z/tpGQlsMOQxTuSnVNc=
+
+
+Name: res/layout/liveservice_shop_detail.xml
+SHA1-Digest: Ao7cJgS5hy39T8SXbcalDWJJ3r8=
+
+
+Name: res/drawable-nodpi/rotating.xml
+SHA1-Digest: ED/v/rihKn57wCb1VHx3OBDTZ5g=
+
+
+Name: res/layout/hotel_comm_list_item.xml
+SHA1-Digest: BJOezIlfBwRFSUoayPF1Btvc4BM=
+
+
+Name: res/layout/dyn_shopdetail_layout.xml
+SHA1-Digest: MUAL5pXnB3gXDGV7Fv8ks/MYmZI=
+
+
+Name: res/drawable/gray_cornor_shape_btnbg.xml
+SHA1-Digest: 8Qd0Y5hJOnRy75sWxGfl2knnc9A=
+
+
+Name: res/drawable-nodpi/liveservice_notice.png
+SHA1-Digest: DWiqJD9z1hXR82qo6X7s9cW9ea0=
+
+
+Name: res/drawable-nodpi/icon_msg_news.png
+SHA1-Digest: 1iv0E9YXoRZWXrsC72MMaQO0Qn0=
+
+
+Name: assets/Icon_mark9.png
+SHA1-Digest: Hr7HMZrDP8VeXS+315R/nFkbCwY=
+
+
+Name: res/drawable-nodpi/t_mainbg.png
+SHA1-Digest: MC07Py+GQuBFZB1WSggI2/AUj5g=
+
+
+Name: res/drawable-nodpi/buy_collection.png
+SHA1-Digest: VMk8QJXT2W1dNeuAlMw7HBTLBMY=
+
+
+Name: res/drawable-nodpi/t_more_collect_share.png
+SHA1-Digest: Dv8TDkQNrTnH94IveTFvUt3VdXU=
+
+
+Name: res/drawable-nodpi/btn_white.9.png
+SHA1-Digest: c6OjrBqWtHF4VlJMFIJCd2UTP80=
+
+
+Name: res/drawable-nodpi/buy_barbg2.9.png
+SHA1-Digest: S3W6jJDaZX1MIQ2bMf1PhDUX/4A=
+
+
+Name: res/layout/spread_ninegrideview_item.xml
+SHA1-Digest: V4uy0h7hwndXqztMFs+A9npx8bE=
+
+
+Name: res/drawable-nodpi/bg_vip_level.png
+SHA1-Digest: Mq8zr1uB/VuIUP2YSDDQfvxcFFo=
+
+
+Name: res/drawable-nodpi/reverse_anim.xml
+SHA1-Digest: bLIkY7vmueYLlR9kE17R2tsSflU=
+
+
+Name: res/drawable-nodpi/icon_onlookers.png
+SHA1-Digest: gdtx+mh4UQj7QVcMlqgcLDZstXQ=
+
+
+Name: res/drawable-nodpi/mp4_play.png
+SHA1-Digest: pFjImhp11M6ebjKhCiAeYZAXQdg=
+
+
+Name: res/layout/share_weixin.xml
+SHA1-Digest: R6gVk+QmVHHcdBGrXpdwu+MNLYM=
+
+
+Name: res/layout/p_reg_new.xml
+SHA1-Digest: hhwllFVfPE+tGV7+kROvVAXrLZk=
+
+
+Name: res/layout/item_goods_attrs.xml
+SHA1-Digest: m2A76zNx75fLwDeP/EJbTbz+pSI=
+
+
+Name: res/drawable-nodpi/icon_shopping_payment.png
+SHA1-Digest: WtkhybB4yiX+XLtX+/dMQk1NapM=
+
+
+Name: res/layout/buy_buycar_new.xml
+SHA1-Digest: lRKFEI6oqKeofv6525izufy6fAQ=
+
+
+Name: res/drawable-nodpi/icon_error.png
+SHA1-Digest: FgBX2rz0D4pfTBJReljqBcMO3Wg=
+
+
+Name: res/drawable/shape_dialog.xml
+SHA1-Digest: euNoBjuP3ru2ARUohUACUQAhoG8=
+
+
+Name: res/drawable-nodpi/buy_hot2.png
+SHA1-Digest: RNBB4kY6jlBXe3P76EmownCuhVA=
+
+
+Name: res/layout/self_webview.xml
+SHA1-Digest: VJsNgVYjQhvEB/8niHVZGzzoaxg=
+
+
+Name: res/drawable-nodpi/label_purchased.png
+SHA1-Digest: ywMggjE73GnoGqO/Vwhh1XRRfJ8=
+
+
+Name: res/drawable-nodpi/icon_buyall.png
+SHA1-Digest: TFcw8RLf26kHLGLR39U4/1OyhSA=
+
+
+Name: res/drawable-nodpi/login_layout_2_icon_2.png
+SHA1-Digest: jeKaqjLxeOnCiQUzGL3aQ10fYmM=
+
+
+Name: res/drawable-nodpi/bg_manber_card_3.png
+SHA1-Digest: 6HUooGLQRH/Z7J7r8g5+NDMP3as=
+
+
+Name: res/layout/mz_banner_effect_layout.xml
+SHA1-Digest: KdpvnU7XCp2dyHSQWGUn/aksLsg=
+
+
+Name: assets/drawable-xxhdpi/get_code_button_highlighted.9.png
+SHA1-Digest: LER9RQIgIUNHIRMyev+PPIuaVKc=
+
+
+Name: res/layout/select_hotelstart_top.xml
+SHA1-Digest: IgStZ2G4XR7AajT53F87GI8FfNI=
+
+
+Name: res/drawable/shape_search_bg.xml
+SHA1-Digest: RCtZfB6syn1WFzDifLegoIcbkX8=
+
+
+Name: res/drawable-nodpi/soft_setbg.jpg
+SHA1-Digest: Bpmdd02r0TllINO/zGv/hBjpgKM=
+
+
+Name: res/drawable-nodpi/t_floor_more.9.png
+SHA1-Digest: AVxoexB8aOnawM6myVIuOFjddOs=
+
+
+Name: res/drawable-nodpi/label_soldout.png
+SHA1-Digest: wlZOnrcnqDgIZZ3cws0OSf4YM+E=
+
+
+Name: res/drawable-nodpi/buy_tip.png
+SHA1-Digest: jv9EWB+0K5BPrkxPJqOASagF6Xg=
+
+
+Name: res/drawable-nodpi/p_img_mytopic.png
+SHA1-Digest: TQC0Ih9emnHxDgcRjzJsGhcBIzY=
+
+
+Name: res/drawable-nodpi/p_tieba.png
+SHA1-Digest: qUCQh9loQ55MAAD2K5R3S7oKJFo=
+
+
+Name: assets/drawable-xhdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: lkSRJVEzrfjHQeB0uyyolAgJTTM=
+
+
+Name: res/layout/activity_more_address.xml
+SHA1-Digest: oGbv7hDPiAfp2FrL7Ueid0cvugY=
+
+
+Name: res/drawable/shape_orange_frame_bigcornor.xml
+SHA1-Digest: aQXRAvW24zIISC6BmjxTi06dg3U=
+
+
+Name: res/anim/dd_mask_out.xml
+SHA1-Digest: XsAQeZUZoKxCwe7UPuUKOo6VHH0=
+
+
+Name: res/layout/msgact.xml
+SHA1-Digest: 39dgIOzekbdWCmvjdUKDCnjvLYI=
+
+
+Name: assets/drawable-xhdpi/tableview_sectionheader_background.png
+SHA1-Digest: lZDp5kEqkpRMakwFiUPPhjk09Ho=
+
+
+Name: res/layout/scrollview_head.xml
+SHA1-Digest: IOpHcL8AVh8w11ijsZrrmRZ8Ufg=
+
+
+Name: res/layout/navigation_tab2.xml
+SHA1-Digest: IfiIxu9RafZMmFCbWPcmgdTC6UA=
+
+
+Name: res/drawable-nodpi/t_floor_more_btn.9.png
+SHA1-Digest: mBujh5tk8QXbdwRfkYX2C8A3OC4=
+
+
+Name: res/drawable/shape_gray_cornor.xml
+SHA1-Digest: MzoiNKmh/6sMJtR0pOPfxnfTMbA=
+
+
+Name: assets/cfg/a/ResPack.cfg
+SHA1-Digest: 5+TfE0zfY/Flf0zG0tjJ8Xu8aC8=
+
+
+Name: lib/armeabi/libBaiduMapSDK_radar_v3_7_3.so
+SHA1-Digest: DdGeMqrXKTCNw7Mmcf+6uzdKy30=
+
+
+Name: res/drawable-nodpi/buy_img_buycar2.png
+SHA1-Digest: +3sttCVOeZvSqAN9O+poRVA1nDM=
+
+
+Name: assets/initFiles/1521793855043_937138.png
+SHA1-Digest: 4SDCB/DexO+5Dr9InCP22Rw7rOQ=
+
+
+Name: res/drawable-nodpi/label_failed.png
+SHA1-Digest: qHwuSR/E5ZxuF+RpLfmMkfosxAQ=
+
+
+Name: res/drawable-nodpi/dyn_new_l.png
+SHA1-Digest: jJuYmyix2/JiIbkmTTdq7EgPKPc=
+
+
+Name: res/layout/auto_load_more_listview_footview.xml
+SHA1-Digest: CVq91rAcZ2noligg04iZ0ojcdAI=
+
+
+Name: res/layout/soft_item.xml
+SHA1-Digest: kxh+boi/qXyQe5sTcRWSYXqs878=
+
+
+Name: res/drawable-nodpi/view_btn_confirmsend.png
+SHA1-Digest: Brq0UIs7Ua6zAwUrXno1gsIBjvE=
+
+
+Name: res/drawable/style_sel_redbg.xml
+SHA1-Digest: HkmvDDnLm80AAa6bqep8DEhzqAM=
+
+
+Name: assets/drawable-hdpi/weibosdk_common_shadow_top.9.png
+SHA1-Digest: vZ/+6bI0SjRdEba25Yt8THu8VaU=
+
+
+Name: res/drawable/pic_selector_item.xml
+SHA1-Digest: EzXCUdFZG62xC5Qe0z3weURIEHY=
+
+
+Name: res/drawable-nodpi/icon_rank_star.png
+SHA1-Digest: FSxjGzsBmpfTI77CkpSJarz+t9M=
+
+
+Name: res/drawable-nodpi/icon_fav_posting.png
+SHA1-Digest: q/vLqG+a+h807/fdo+v+FYID4sQ=
+
+
+Name: res/drawable-nodpi/sort_common_down.png
+SHA1-Digest: MlS37KwmfpMMd22/mb+K4/Qw3Dw=
+
+
+Name: res/drawable/shape_white_corner.xml
+SHA1-Digest: MIPko5FrnWlmwgJtqcpbZyOQ23k=
+
+
+Name: res/drawable-nodpi/buy_paysel.png
+SHA1-Digest: J+x4UaIxa3sx2uIxz9JOw9Nelcw=
+
+
+Name: res/drawable-nodpi/et_bg2.9.png
+SHA1-Digest: baDi44trz7636fCxlAxWwcDJ4wU=
+
+
+Name: res/drawable-nodpi/bg_manber_card_4.png
+SHA1-Digest: 9onkoMF1nh9lMUBlKeEsFJGy7Zs=
+
+
+Name: res/anim/bottom_in_rotate.xml
+SHA1-Digest: qJWXPsyk3BmwiZIAplB/9D0uLG8=
+
+
+Name: AndroidManifest.xml
+SHA1-Digest: tiHxPBrv8qs4iygu62zIe0TSWHY=
+
+
+Name: res/drawable-nodpi/icon_collect_info.png
+SHA1-Digest: /oJ/Gs8ULlPappgGDJ1dSYfU+m0=
+
+
+Name: res/drawable-nodpi/dyn_selnum.png
+SHA1-Digest: TC+itJpAO78ZJj21roFWsX7zfAY=
+
+
+Name: res/layout/hotel_filterresultlist_layout.xml
+SHA1-Digest: an2wvUoUYTuArOELXUVjFkrfEtA=
+
+
+Name: res/layout/buy_personbuy.xml
+SHA1-Digest: osIVMdNj1hrQ176za8Lhw2T8FzM=
+
+
+Name: res/drawable-nodpi/liveservice_list_more.png
+SHA1-Digest: i7vXB0m5YObcilRVBe3SrlnNiyM=
+
+
+Name: res/drawable-nodpi/dyn_qq.png
+SHA1-Digest: fpkbUVLndG6IgHcBVlnHPP7g+WQ=
+
+
+Name: res/drawable-nodpi/icon_edit_grayx.png
+SHA1-Digest: pG9mvuczKvLqvi6WSGgbtRla3Ug=
+
+
+Name: res/layout/spread_point_history_layout.xml
+SHA1-Digest: urjiyVqAzDjmxyv+8h+meJdwLU8=
+
+
+Name: res/drawable-nodpi/icon_virtual_refund.png
+SHA1-Digest: pdGIZHpN96kXek/rpQvvgNw/e/c=
+
+
+Name: assets/initFiles/1521794057165_983890.png
+SHA1-Digest: HlObfxkD5jzCeP5qt9pRFRIE3Fk=
+
+
+Name: res/layout/self_listitem4002.xml
+SHA1-Digest: hIg3sT22918b1lJSLtZw4AvgGls=
+
+
+Name: assets/Icon_bus_station.png
+SHA1-Digest: ijMexAQ0II7KUGYEiaaiHPUGw44=
+
+
+Name: res/drawable/shape_white.xml
+SHA1-Digest: P+0B3YUPYejDFkdnyrF5T08l85Q=
+
+
+Name: res/layout/buy_buycar_item2.xml
+SHA1-Digest: c8I+XNW4poAmBrOTX6g+aL2hvAY=
+
+
+Name: res/drawable/loading_image3.png
+SHA1-Digest: KchTadPidPtLu41dMSqDEJm6/34=
+
+
+Name: org.jivesoftware.smack.tcp/smacktcp.providers
+SHA1-Digest: MkX5iqw4ZHtzw0b/3zOAiim2aaI=
+
+
+Name: res/layout/xf_handlernewfriend_head.xml
+SHA1-Digest: n7jYyG8RwbLqLbTSMol7cNdjAYc=
+
+
+Name: res/layout/dyn_payread_slide_sort_item.xml
+SHA1-Digest: Etc4UYZ94lSQoKMSs2l5Ch5cKhE=
+
+
+Name: res/drawable/shape_bg_point_enable.xml
+SHA1-Digest: XuGxIzHYj1NZ6twkrqAQfXvoFF0=
+
+
+Name: res/drawable-xhdpi/default_error.png
+SHA1-Digest: hoC5cmxdBo8BQdlz+zwngvgaNCQ=
+
+
+Name: res/layout/x_login.xml
+SHA1-Digest: 4m4O+7BZJAH/1+axLkLmRCDdaQc=
+
+
+Name: assets/drawable-hdpi/weibosdk_navigationbar_back_highlighted.png
+SHA1-Digest: FHTujJ+Ta4lt/c7KIphhDBpf5/Q=
+
+
+Name: res/layout/liveservice_address.xml
+SHA1-Digest: nXYmf4Sdqo8fkEcgtpNaN/+begw=
+
+
+Name: res/drawable-nodpi/liveservice_detail_imb_collection.png
+SHA1-Digest: XhF/jsWGBY/7EU8HOlyrFAqc6pM=
+
+
+Name: res/layout/dialog_close_layout.xml
+SHA1-Digest: atbnb+SF5k4dYBMdxqFNz5AfJWs=
+
+
+Name: res/drawable-nodpi/icon_hot.png
+SHA1-Digest: D+9x5ic1TYv5ixUqRwZposrp53I=
+
+
+Name: res/drawable/hotel_base_card_shape.xml
+SHA1-Digest: +K1nz9uXS8NnKQNKf4qIkhMZR0Y=
+
+
+Name: res/drawable/style_locationcity_bg.xml
+SHA1-Digest: hBRACyiJ56hktpLSUfc91nfweqM=
+
+
+Name: res/layout/shareact.xml
+SHA1-Digest: LmeBmTX/AjnttUyK1TPf6VFV3rQ=
+
+
+Name: res/layout/dyn_paysource_card_item.xml
+SHA1-Digest: vo2yE/g+EI+ZG8MaM895Don0JJQ=
+
+
+Name: res/drawable/xf_btn_shape2.xml
+SHA1-Digest: KXRDmrBWP62WKI6d9EGNMeaCrho=
+
+
+Name: res/layout/xf_friendfragment_layout.xml
+SHA1-Digest: ZGBaftgxOeRS47j6zkO7VtP97dA=
+
+
+Name: res/layout/persion_collection.xml
+SHA1-Digest: O3mgz+D54cn2tdaxqdnrpoHIcXk=
+
+
+Name: res/drawable-nodpi/icon_attention.png
+SHA1-Digest: H5ObI54M/5WJQKlhhhelYlVzw3k=
+
+
+Name: res/drawable/pic_cornor_tran.xml
+SHA1-Digest: JYsMTAb0olB08/LMgOVVhYgtMFo=
+
+
+Name: res/layout/t_main_rightmenu.xml
+SHA1-Digest: rGIR+SrL3IaKFUybs8Ur7hjZaHw=
+
+
+Name: res/drawable-nodpi/buy_user.png
+SHA1-Digest: hVYh1PIsvGEBwSfJWqkFlYn66K4=
+
+
+Name: res/anim/right_out.xml
+SHA1-Digest: WE1oqo+Yyi/IfHajnXYEWC05U7s=
+
+
+Name: res/layout/xchat_emo_item.xml
+SHA1-Digest: g754wR541WOYG8nGEObxPojoZRY=
+
+
+Name: res/drawable-nodpi/btn_close.png
+SHA1-Digest: uun9F2HahoZB73/eqyPFu3AD/Hg=
+
+
+Name: res/layout/liveservice_state_tracking_item.xml
+SHA1-Digest: WA3mipSHEwmocmEHAoDJD6auIsM=
+
+
+Name: res/layout/self_listitem4001.xml
+SHA1-Digest: e9f/9QvhtA/+nn78xXxBZCdJMbE=
+
+
+Name: res/drawable-nodpi/buy_btn_addcar.png
+SHA1-Digest: tfAro9/u0uGHSG2/Pspq3moAv80=
+
+
+Name: res/drawable-nodpi/icon_close_white.png
+SHA1-Digest: 5K4vfJaZh03nGPXozo29BCMkxWY=
+
+
+Name: res/drawable/shape_red_liveservice.xml
+SHA1-Digest: tW/IOOTFitjJr9EUZ28ZeBowQEo=
+
+
+Name: res/drawable-nodpi/soft_recomnosel.png
+SHA1-Digest: Rx6mECFw8rfTNYVMwlcqzT05oeU=
+
+
+Name: res/layout/banner_item.xml
+SHA1-Digest: GFNq36svwRiHxkxX5t8BpwZao64=
+
+
+Name: res/layout/initclient.xml
+SHA1-Digest: dMA2ICK1iHQ4dWl1b0ONuM/vZ2E=
+
+
+Name: res/anim/right_in.xml
+SHA1-Digest: tN+5A8l8yRi9ly/FtEw1K2+Uoow=
+
+
+Name: res/layout/liveservice_list_shop_home.xml
+SHA1-Digest: /UcwkSueEdiXjhzekAWrg6ZR140=
+
+
+Name: res/layout/info_subcategory_list_item.xml
+SHA1-Digest: KfSJUGACVUM5r/LCgZNhB8e9xWY=
+
+
+Name: res/drawable/shape_rect_btn_off.xml
+SHA1-Digest: n08VbeFD9imNytT38whbED/WGz0=
+
+
+Name: res/layout/person_lbsmsg_item.xml
+SHA1-Digest: ADTG9SQG2Sy9E1IFBDuj9bIw3zM=
+
+
+Name: res/layout/pull_to_refresh.xml
+SHA1-Digest: iLnicz0Q8UusaNj9H1LyZ/BPUbA=
+
+
+Name: res/layout/liveservice_comm.xml
+SHA1-Digest: cZwX1kogs2OLb0XmuknBtb+npgY=
+
+
+Name: res/drawable-nodpi/icon_empty_points.png
+SHA1-Digest: etVSq+4AAp8GIkFpCKwpfao30+Y=
+
+
+Name: res/drawable-nodpi/icon_tieba_history.png
+SHA1-Digest: C34+e1VaU9jmp8PkFQRGyUYavoY=
+
+
+Name: res/drawable-nodpi/p_icon_80.png
+SHA1-Digest: ObSWKAKIpHUcgrMxD9FlJ8sbp9M=
+
+
+Name: res/layout/liveservice_search_list_layout.xml
+SHA1-Digest: 7RNIrny2cL/Ja9a0O2MiG87okf4=
+
+
+Name: res/drawable-nodpi/shareact_press.png
+SHA1-Digest: 9FeuOHMUJ0VEWhJ/9fmxp7IgKvY=
+
+
+Name: res/layout/spread_product_list_layout.xml
+SHA1-Digest: hO8dj7pXeRjqp9qsLVUM91P0TkE=
+
+
+Name: res/drawable-nodpi/t_posts_expression_d.png
+SHA1-Digest: NwpFSGXgzscAbPd85NfmyihtBBU=
+
+
+Name: lib/armeabi/libBaiduMapSDK_map_v3_7_3.so
+SHA1-Digest: LAZ1E4cye6TvLgd/S1wSdn93cTA=
+
+
+Name: res/drawable/softlist_bg.xml
+SHA1-Digest: 1vCxLa+EM+c8FmSNXBuCK3tbG04=
+
+
+Name: res/drawable-nodpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+
+Name: res/layout/info_select_muti_item.xml
+SHA1-Digest: t6H7b1PoZWbWO8HS8GqW7TTGL58=
+
+
+Name: res/drawable/shape_red_bigcornor_frame.xml
+SHA1-Digest: yH9/Y1TypPZ+3ljoKTb4GjBuQDk=
+
+
+Name: res/drawable/red_shape.xml
+SHA1-Digest: BbMkbhl8BaxULmasDq+UDkOeRbc=
+
+
+Name: res/layout/t_topdetailpop.xml
+SHA1-Digest: VBEFDySrBTtsBTXFmaa7WQe19yU=
+
+
+Name: res/drawable-nodpi/image_editoricon19.png
+SHA1-Digest: mHxNnBn66lAqVrhg5HonPMG4jsU=
+
+
+Name: res/layout/s_togetherdetail.xml
+SHA1-Digest: nrMR+ez15P2i/5xdULJIITpuoqk=
+
+
+Name: res/layout/xf_msgcenter.xml
+SHA1-Digest: ps+FT9YNva/8ZGFiSsvQoYgRImQ=
+
+
+Name: res/drawable-nodpi/icon_collection_shop.png
+SHA1-Digest: 4qr6nvx/uphE9XRBpAUtd5UylEA=
+
+
+Name: res/layout/t_top.xml
+SHA1-Digest: jTY5qFUtM5RaFYjSStGt2G0D02U=
+
+
+Name: res/drawable/shape_popupwindow_list_bg.xml
+SHA1-Digest: seR6wQbGuSSR+AfBtXGHsrCIy0U=
+
+
+Name: res/drawable/star.xml
+SHA1-Digest: QsggVZFeLG1ltMLXehDy6wSTxjk=
+
+
+Name: res/drawable-nodpi/buy_cancel.png
+SHA1-Digest: SSMNAjJTPlHjBb4kGk8Am8hP22o=
+
+
+Name: res/layout/dyn_product_item5004.xml
+SHA1-Digest: 59PjRc99rHtxtURPQHe/yzrAyQo=
+
+
+Name: res/layout/hotel_gallery_item_layout.xml
+SHA1-Digest: 4OKEowoMpFd74ihCD9HVWZV05OQ=
+
+
+Name: res/drawable-nodpi/icon_full.png
+SHA1-Digest: k5/a6ebWzHhKQdk/XRtd/kbKVTM=
+
+
+Name: res/drawable-nodpi/buy_returnorder.png
+SHA1-Digest: LgaDCDe/riOHCh0kSfRy4d9Rhdw=
+
+
+Name: res/drawable-hdpi/icon_message_white.png
+SHA1-Digest: 3G30UKZmRNPpWc9a/RBot60eWKY=
+
+
+Name: res/layout/pull_to_refresh_foot2.xml
+SHA1-Digest: PqrB0BFsRJiUKyMiqUnHn8wdPJ4=
+
+
+Name: res/layout/dyn_gather_product5052.xml
+SHA1-Digest: QdMvpTm8QRxGr+qLOxl2g3fQirE=
+
+
+Name: res/drawable-nodpi/t_bg_commen.9.png
+SHA1-Digest: wllkeyaPfZ5XfzYMlLKzD28tAyc=
+
+
+Name: res/drawable-nodpi/icon_close.png
+SHA1-Digest: 0qTrMz9AlW7fVBmy5hDVrOkzdaU=
+
+
+Name: res/layout/list_item_camera.xml
+SHA1-Digest: +zBqMvTeBBqgug7AHs4IPO8zqmc=
+
+
+Name: res/drawable-nodpi/liveservice_detail_imb_share.png
+SHA1-Digest: 7FC1e+htXhu6omM6RoAoVHbXcAk=
+
+
+Name: res/drawable-nodpi/icon_shopping_delivery.png
+SHA1-Digest: E6Xpdaa/hm6GIY5QJKtbtsR3nV8=
+
+
+Name: res/drawable-nodpi/dyn_rec.png
+SHA1-Digest: 9s1YVi0G29ITYxHofJXE6z+KICk=
+
+
+Name: res/layout/p_vertifyphone.xml
+SHA1-Digest: Mic+LD2uHcXvhrS9iSCarwJ2fD4=
+
+
+Name: res/layout/x_chat_item_timeline.xml
+SHA1-Digest: SA43GgkXUua5ELjkdvU7WqxXDIU=
+
+
+Name: res/layout/s_msg_left.xml
+SHA1-Digest: A340qLk5Ws7BBRd3q7/nNGIbThM=
+
+
+Name: res/drawable-nodpi/icon_hotel.png
+SHA1-Digest: zx+irYLsjPSgfJBSTpq0NDZoRq4=
+
+
+Name: res/drawable-nodpi/buy_img_msg2.png
+SHA1-Digest: RqX+bRfg1tyZ9QjeU8zBVkSJvIM=
+
+
+Name: lib/armeabi/libweibosdkcore.so
+SHA1-Digest: lWm0P5iDfTsrukobrQza3M+vspY=
+
+
+Name: res/layout/info_complain_layout.xml
+SHA1-Digest: Op1krpHD7YVAsNB+4mjCBQYsxNg=
+
+
+Name: res/drawable-nodpi/icon_fav_store.png
+SHA1-Digest: zi0mPA0CqsnpW2zU1o23Q4z2ztY=
+
+
+Name: res/layout/dyn_msgitem5002.xml
+SHA1-Digest: tJINldebVsgpfqxuAONI6t0ofdU=
+
+
+Name: res/drawable-nodpi/btn_back.png
+SHA1-Digest: zDR9MKDBpaxjgLIbGaHif7L9hI8=
+
+
+Name: res/layout/buy_personmsg.xml
+SHA1-Digest: ohGqgyBFWDOh0E9K2HbY10m+go4=
+
+
+Name: res/layout/liveservice_cancel_reason.xml
+SHA1-Digest: 4dsSLNfLXbWjAuXvdUK0zEO3EWM=
+
+
+Name: res/anim/anim_marquee_out.xml
+SHA1-Digest: 9ExrckyuYi6mMXvGn7BEHPSloR4=
+
+
+Name: classes.dex
+SHA1-Digest: 9xSdWvwi3EhdbP5nWZQIk7l3s64=
+
+
+Name: res/layout/liveservice_shopdetail_popwindow.xml
+SHA1-Digest: z3wV4l+x+RBMG9vXr73ajdff5HU=
+
+
+Name: res/layout/reserve_hotel_base.xml
+SHA1-Digest: 3dmC1uNeRMG6JWzQs9x5OPxVzYU=
+
+
+Name: res/drawable/action_btn.xml
+SHA1-Digest: mlkIF0D4+UsiIjpjtkRepagGLb0=
+
+
+Name: res/drawable-nodpi/login_layout_2_icon_1.png
+SHA1-Digest: IJjPvjpNF8sPLTqErahpmSJUiao=
+
+
+Name: res/drawable-nodpi/btn_photo.png
+SHA1-Digest: UuPMCVxXImJ+Nv7LYOSHQ4ZziGs=
+
+
+Name: res/drawable/default_text_color.xml
+SHA1-Digest: niJupaRNr6ZB2ZgqhxhhMXlUIKI=
+
+
+Name: res/layout/picgallery.xml
+SHA1-Digest: Cl3KpuUv9Xm0Oi5vD8l0j2Y4RMY=
+
+
+Name: res/drawable-nodpi/icon_liveservice_waitsure.png
+SHA1-Digest: vel2B9/HV36G5/wGzqDB3FpIAE4=
+
+
+Name: res/layout/s_type_top.xml
+SHA1-Digest: k4Yzh+rZmElub/eKF1ecEsmPlAo=
+
+
+Name: org/xbill/DNS/windows/DNSServer_pl.properties
+SHA1-Digest: bQ/hmtJ5oqmwmjYyifHSTOcSqYE=
+
+
+Name: res/drawable-nodpi/icon_personcenter_points.png
+SHA1-Digest: BQThlACOulxf3Y6ki1f9oys2clg=
+
+
+Name: res/drawable-hdpi/icon_friends_white.png
+SHA1-Digest: fvEyxK0rJvsrB+Qysio7GRv6L4c=
+
+
+Name: res/drawable-nodpi/share_link.png
+SHA1-Digest: 2wFAYU1rWoJ+B8HGcRL01RZHiPY=
+
+
+Name: res/layout/dialog_show_txt.xml
+SHA1-Digest: 1PjoIrYOFOVQWIG9CMr2YSQ1HVs=
+
+
+Name: res/drawable/orange_shape.xml
+SHA1-Digest: XuqDlB6mwQjGuIAGQ5horIAbMMM=
+
+
+Name: res/drawable-nodpi/soft_recomsel.png
+SHA1-Digest: cux5voLQ0tPICWkpKYmW+yYXqmw=
+
+
+Name: res/layout/xf_handlernewfriend.xml
+SHA1-Digest: jr/qe7gtHo05aLZUXCxz4ACyA50=
+
+
+Name: res/layout/dyn_paysource_nine_item.xml
+SHA1-Digest: velg88uWzHc9NVM+7kNlzb+hDLs=
+
+
+Name: res/drawable-nodpi/buy_new.png
+SHA1-Digest: dRz6N/gzQAlXDGuL1H7ORNAgr6M=
+
+
+Name: res/drawable-nodpi/icon_picture_white.png
+SHA1-Digest: 7BzAuT0izfVhifdpS+DtdzwLRTs=
+
+
+Name: res/drawable-nodpi/evaluate.png
+SHA1-Digest: Zr0BJGbq3YvCJWX1Z8jHteGR3W4=
+
+
+Name: assets/drawable-hdpi/weibosdk_common_button_alpha.9.png
+SHA1-Digest: wrS0uSbj6UgfIsJywN4llRKUa5M=
+
+
+Name: res/layout/xnotification.xml
+SHA1-Digest: oKWT44hsQAI4+2SxkmIKDQr5PtM=
+
+
+Name: res/drawable-nodpi/buy_bg_num.png
+SHA1-Digest: W3umMtcqKnrnPXq3+R7AyAPwUu8=
+
+
+Name: res/drawable-nodpi/dyn_msg_collection.png
+SHA1-Digest: f0qrOHSvfBqyfCPjb3L7O78Etho=
+
+
+Name: res/anim/bottom_out.xml
+SHA1-Digest: OIk0Y7GvSc4wxv9/7vsYslJ4LVY=
+
+
+Name: res/drawable-nodpi/buy_searchbar.png
+SHA1-Digest: cqKU186yjZF/4SvVPJnWsjSK1pM=
+
+
+Name: res/drawable/folder_text_color.xml
+SHA1-Digest: giU2e+Ku70bZw1AISxaboskSxOg=
+
+
+Name: res/drawable-nodpi/delete.png
+SHA1-Digest: Ly+eg/3qxtgJQn3L75k8Lw6Mnmw=
+
+
+Name: res/drawable-nodpi/t_btn_delcell.png
+SHA1-Digest: OJgvsdQFxXIP+jcg+9buTBtfgXw=
+
+
+Name: res/drawable-nodpi/load_failed.png
+SHA1-Digest: I8oW34s1HrtiLp0nsOGqSkY7+gw=
+
+
+Name: res/layout/mz_banner_normal_layout.xml
+SHA1-Digest: 7RCZOlJ58psDGg6gQkxsn9BlNiI=
+
+
+Name: assets/drawable-xhdpi/weibosdk_empty_failed.png
+SHA1-Digest: OFxmMyi+YS4fM1+C5cfft8v/Xms=
+
+
+Name: res/drawable-nodpi/soft_return.png
+SHA1-Digest: rgiSPUmrUCgIfW55ubLHH4vOg/o=
+
+
+Name: res/drawable/shape_red_big_cornor_solid.xml
+SHA1-Digest: w57oyBtwK+aqmK2xhdbS4DU9ck8=
+
+
+Name: res/drawable-nodpi/icon_spread_mall.png
+SHA1-Digest: O5N/7cv7rRgpu3d3tuL2rDKxrI0=
+
+
+Name: res/drawable-nodpi/icon_message.png
+SHA1-Digest: tmQFpdRRTGIhRTNuBhiRGus+XwU=
+
+
+Name: res/layout/password.xml
+SHA1-Digest: XbZp8QJNElS1kLLPE2UCpyq9XbA=
+
+
+Name: res/drawable-nodpi/icon_circle_morex.png
+SHA1-Digest: k7cqssAA2Bzjn3JhSNu9N5ju0Fo=
+
+
+Name: res/drawable/shape_liveservice_comm_no.xml
+SHA1-Digest: cBSVK3uKzC4h8CzpF2b787NxYYU=
+
+
+Name: res/layout/liveservice_predefined_success.xml
+SHA1-Digest: i0kqiN/suZQk2vEIBvU01GfsZdM=
+
+
+Name: res/layout/navigation_tab2item.xml
+SHA1-Digest: gxiU/oCh93BVJ0RGbGvGFX3YnuM=
+
+
+Name: res/drawable/circle_corner_buy.xml
+SHA1-Digest: /b6rofBmucfstuADcO2b5/zG7pY=
+
+
+Name: res/layout/buy_buycar.xml
+SHA1-Digest: 619+5bLk8qYIuv8csAAQZxo0v4c=
+
+
+Name: res/drawable-nodpi/icon_next.png
+SHA1-Digest: XwjUtWhxXmAWay0Z99dlDzfrRvU=
+
+
+Name: res/drawable-nodpi/image_editoricon27.png
+SHA1-Digest: mXRUanU55om6Ud2ShPDtBFONTHA=
+
+
+Name: res/drawable-nodpi/image_editoricon2.png
+SHA1-Digest: ZeRBFWFXJkwXDYzh8B2xg7hqTXk=
+
+
+Name: res/layout/liveservice_select_address_item.xml
+SHA1-Digest: BhS9lDW1C2b2hD6CgH8avK8TFEc=
+
+
+Name: res/drawable-nodpi/dyn_mask_r.png
+SHA1-Digest: yWmyzPjDeRkjY7SMHJ0SUS9EvJk=
+
+
+Name: assets/logo_h.png
+SHA1-Digest: NiIXDIWMhuIXwHmFVSalyGsn3g0=
+
+
+Name: res/drawable-nodpi/menu_close.png
+SHA1-Digest: 0t4kXt62DMl10mlgmhV97p8NquE=
+
+
+Name: res/layout/liveservice_search_shop.xml
+SHA1-Digest: pZWNua/cMPUmRLhAncQpXkqkLN4=
+
+
+Name: res/drawable-nodpi/dyn_msg_menubg.png
+SHA1-Digest: EksFIBaJ1AktRMPwupnzSsMLJM8=
+
+
+Name: res/drawable-nodpi/t_barbg.png
+SHA1-Digest: MjGZWdEWS9ewLVksJJZK1iAjEz8=
+
+
+Name: res/layout/buy_selarea_item.xml
+SHA1-Digest: V8r++if6roGlrpo0+OSjsKtuKLo=
+
+
+Name: res/drawable-nodpi/icon_click_check.png
+SHA1-Digest: RYUZfmtH9v5dhS6yBQ54fR3xqGU=
+
+
+Name: assets/initFiles/1521793577626_191085.jpg
+SHA1-Digest: /PRdXuOLkolgEn30TnNjM5gwc9I=
+
+
+Name: res/drawable-nodpi/image_editoricon9.png
+SHA1-Digest: V0Q9QkY8d6nliLI15ThSPqd7Lpk=
+
+
+Name: res/layout/t_commentlist_top.xml
+SHA1-Digest: sIFrvVEdiwZkf7pRaL5KYu7QoXc=
+
+
+Name: res/drawable-nodpi/dyn_com.png
+SHA1-Digest: OynTLC7Mo3+y6hR9psfKOIE/GIE=
+
+
+Name: res/drawable-nodpi/image_editoricon24.png
+SHA1-Digest: krhGi5dPt3VxHEyOFG2SiomwQyw=
+
+
+Name: res/layout/xf_search_friend.xml
+SHA1-Digest: jf/2S8fUdsTZnSKdni+sHJT0Bpo=
+
+
+Name: assets/initFiles/1521794117522_829023.png
+SHA1-Digest: Ue9tkGIXcwf5WdK0S+N+7xVknb8=
+
+
+Name: lib/armeabi/libBaiduMapSDK_util_v3_7_3.so
+SHA1-Digest: xEup8tTHbOjar/wG9HwYEW55ryc=
+
+
+Name: res/drawable-nodpi/dyn_baseinfobg.png
+SHA1-Digest: tqv0/nAPLN5bXqx0KZiqk1YpR0c=
+
+
+Name: res/drawable-nodpi/buy_btnbg.9.png
+SHA1-Digest: uaNdpypqqOlRWAwe5K1vIDWYytg=
+
+
+Name: res/drawable-nodpi/soft_topbg.png
+SHA1-Digest: k/zWSpWlvX7GR0huJktSSfsc6tk=
+
+
+Name: res/drawable-nodpi/liveservice_list_back.png
+SHA1-Digest: yjPd2f8+MdBAePV7hcuCx5WsS8o=
+
+
+Name: res/drawable-nodpi/icon_hand_curr.png
+SHA1-Digest: AChc6ESgqOQ/CQ59mt76Spq/rxI=
+
+
+Name: res/layout/dialog_native_default.xml
+SHA1-Digest: flhbEbcwv1ArPb6J9DubjZZ7+Wg=
+
+
+Name: res/layout/buy_vip_card_item.xml
+SHA1-Digest: t29B0ncv2tFQ/3SjaKE7qSZMM+Y=
+
+
+Name: res/layout/location_current_address_layout.xml
+SHA1-Digest: GlIl9dOS3HqlPtCKDyM5/UUH+mo=
+
+
+Name: res/drawable-nodpi/buy_img_default.png
+SHA1-Digest: ndJo1E0ejzxh1PNiPRDMaRJvJBQ=
+
+
+Name: res/drawable-nodpi/icon_new.png
+SHA1-Digest: Bt6TIJq90Y4PuQwHsBdq88fHETQ=
+
+
+Name: res/layout/s_product_item5033.xml
+SHA1-Digest: PGbdm5HGgW55tOjTDiaTOViZ/WU=
+
+
+Name: res/layout/soft_doubgallery.xml
+SHA1-Digest: /S7doBfuTvRqicg6zTF2v9lbr2o=
+
+
+Name: res/drawable-nodpi/liveservice_reservations_prompt.png
+SHA1-Digest: g2iKFUWHbiLQRB5nABHUcxI/UvQ=
+
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: bid50ZgMS/gQ5ZecVJVZXdGpiMI=
+
+
+Name: assets/city.json
+SHA1-Digest: KxHRJLRQbJ4htjthZZfbZ+15FoI=
+
+
+Name: res/drawable-nodpi/soft_listsel.png
+SHA1-Digest: Fq06nXWDZAH6Mg4tKQxgNgF5ZaE=
+
+
+Name: res/drawable-nodpi/buy_line2.png
+SHA1-Digest: 4xbXlljRODyjAlyg/5DypjzbCJw=
+
+
+Name: res/drawable-nodpi/share_qzone.png
+SHA1-Digest: rYUf7H8kFTHQwQmzkxKywJK4B+Y=
+
+
+Name: res/drawable-nodpi/menu_sure.png
+SHA1-Digest: NntroThfoQcinax7R4dFvJOD58c=
+
+
+Name: res/drawable-nodpi/buy_virtual_call.png
+SHA1-Digest: 8QAc69mcDtUyJyd85AfVgWnIA1A=
+
+
+Name: res/drawable/tb_style_list_bg.xml
+SHA1-Digest: JQuNYAqTBigQlZcshLPmrPc7Uos=
+
+
+Name: res/drawable-nodpi/p_forgetpass.png
+SHA1-Digest: T+OVnod8+JP2GVvz+OdLyaZb4Ro=
+
+
+Name: res/drawable-nodpi/buy_btn_buycar.png
+SHA1-Digest: /HNIxjMHCfXvXN4mVrvQmByWDtM=
+
+
+Name: res/drawable-nodpi/buy_img_user.png
+SHA1-Digest: p2BS05CHVHwSdpeCe0LApJnkrTI=
+
+
+Name: res/drawable-nodpi/buy_sex.png
+SHA1-Digest: NBrXWFmc6QPP8b/ShTbuSJy9ynA=
+
+
+Name: res/drawable-nodpi/slider_bar_white.png
+SHA1-Digest: PsSuVuvPSKGsa11sIn1fRpI6PsM=
+
+
+Name: res/drawable-nodpi/icon_triangle.png
+SHA1-Digest: mbursoa/damsCB1TBsvx5Laz//4=
+
+
+Name: res/drawable-nodpi/icon_close_circle_white.png
+SHA1-Digest: vk5Xwde7/LyJ514AV03knVtTuto=
+
+
+Name: res/drawable-nodpi/icon_emoji_bad.png
+SHA1-Digest: e0S9T/zsFggzx1nWslqSFtCq6AA=
+
+
+Name: assets/cfg/h/DVHotMap.cfg
+SHA1-Digest: LQmgSNG41VbYnU1yOUfp4jS15Zs=
+
+
+Name: res/drawable-nodpi/mp4_back.png
+SHA1-Digest: C5g+0j+ZC2zoqOLNOtyJScwE9z8=
+
+
+Name: res/drawable-nodpi/loading_image7.png
+SHA1-Digest: JB8EGs+auMn7VMDvSBvGmGcTxnc=
+
+
+Name: res/drawable-nodpi/loading_image6.png
+SHA1-Digest: qdMOfihVluKoYLYeejEK9QOe2Yo=
+
+
+Name: res/layout/p_findpass.xml
+SHA1-Digest: wvxTA6dQopbCtmVSeF0IcoXgIrQ=
+
+
+Name: assets/initFiles/page_d7d19658-e9cb-4172-b110-92b27c982e6a.json
+SHA1-Digest: ooQfRsZ0rKpfWFU/J4SRMRDT5eU=
+
+
+Name: res/drawable-nodpi/label_xiajia.png
+SHA1-Digest: DQ7DCzTN99tIgetbwR19V6jPZow=
+
+
+Name: res/layout/fun_baidu_mapview.xml
+SHA1-Digest: gOKvdrSOW2V918O33yu2OEAvsAI=
+
+
+Name: res/drawable/lines.xml
+SHA1-Digest: WN+/gLc15EvKeTIFKJaoj4pDeOY=
+
+
+Name: res/drawable/orange_square_shape.xml
+SHA1-Digest: esY8rJaLnCbRKBNrNfCcJ+iipDk=
+
+
+Name: res/layout/info_subcategorysource_layout.xml
+SHA1-Digest: hpNCzNk7rEoLF/r9NIzXHZkVgvE=
+
+
+Name: res/drawable/thirty_tran_shape.xml
+SHA1-Digest: c2hpES4I/+Qo2IKUPPLgk+jri2s=
+
+
+Name: res/drawable-nodpi/state_finish.png
+SHA1-Digest: q4Ou5+MWoH21xRgV1VP0+gsWUGQ=
+
+
+Name: res/layout/dyn_search5007_act2.xml
+SHA1-Digest: WzhKu5ifCNWYbxN70TXgS57nAWY=
+
+
+Name: res/layout/activity_view_pager.xml
+SHA1-Digest: yKk/UJ1z/cGRguUCH7ftupeA/J4=
+
+
+Name: res/drawable-nodpi/icon_friends.png
+SHA1-Digest: 9WZ3ASX+iNBctHFjCX5hFk8jLc0=
+
+
+Name: res/drawable-nodpi/menu_bg.png
+SHA1-Digest: ca8VF90qAikNvpdYL0XvgcU6q2M=
+
+
+Name: res/drawable/purple_shape.xml
+SHA1-Digest: qscWZ65K9vaNSldpef4xLpD/ZK4=
+
+
+Name: res/drawable-nodpi/share_weixin_f_n.png
+SHA1-Digest: vn/WdPCmX6MDH6ICgeCwxBrtb74=
+
+
+Name: res/drawable-nodpi/image_editoricon12.png
+SHA1-Digest: ja5lzh2nFBjo5axHNrKBzRO3R5E=
+
+
+Name: res/drawable/shape_help_category_tv_bg.xml
+SHA1-Digest: IbPui6K6dvfVe2LC4Wru5u0VqaI=
+
+
+Name: res/drawable-nodpi/icon_msg_tieba.png
+SHA1-Digest: B4oUyWCUNSC1fAPN8/V4Ag1Xjkw=
+
+
+Name: res/drawable-nodpi/bg_currentpoint.png
+SHA1-Digest: vVF/NPOnjit9rFmvD890VAwLdSY=
+
+
+Name: res/layout/buy_coupon_item.xml
+SHA1-Digest: /iCXr75f7RmvCDvw8DjT6JrG2Xg=
+
+
+Name: assets/drawable-xxhdpi/login_country_background.9.png
+SHA1-Digest: gh06seDmoSvNArqD8TlLfV8qTkk=
+
+
+Name: res/drawable/shape_refund_type1.xml
+SHA1-Digest: vJ2om4TQkpNVZbQMKBZIUJoVeQM=
+
+
+Name: res/drawable-nodpi/p_pass.png
+SHA1-Digest: 25WgUvYZY2Z+nq+6LHUqg3X6j4I=
+
+
+Name: res/layout/pull_to_refresh_foot.xml
+SHA1-Digest: Y06gGpEhYvhkY2nk6z6JSjEPG0I=
+
+
+Name: res/drawable-nodpi/icon_emoji_good_selected.png
+SHA1-Digest: wBSCs3rSF+n+Vtw4LQqWW9jFkL0=
+
+
+Name: res/drawable-nodpi/icon_collection_service.png
+SHA1-Digest: nLBzcxuQWsGlz4Xh+EuuVND9hjw=
+
+
+Name: res/drawable-nodpi/icon_call_yellow.png
+SHA1-Digest: fuy08qKW+ccMpH8G3BDLefrjR8Q=
+
+
+Name: res/layout/s_together_item5042.xml
+SHA1-Digest: 2WLFpD2Kzt4UXc/XkT8qF0nZjsE=
+
+
+Name: res/drawable-nodpi/gallery_bottombar_next.png
+SHA1-Digest: QEQZwycQKnCcHWxk5ozwROKOhLw=
+
+
+Name: res/drawable/loading_image4.png
+SHA1-Digest: wHemxku0mznuuj5qD852/gMoQHQ=
+
+
+Name: res/layout/dyn_paysource_purchased.xml
+SHA1-Digest: hlKHKIWzqTUGSHvpmBFDMzJR620=
+
+
+Name: res/drawable-nodpi/buy_btn_fav.png
+SHA1-Digest: uCUdWjA8ZJc39gcn1vH7b5hOWqw=
+
+
+Name: res/layout/buy_productcommentlist.xml
+SHA1-Digest: Qf6ECCCrCNHLbgibwJExfSgPt/4=
+
+
+Name: res/drawable-nodpi/p_rec.png
+SHA1-Digest: X3OJgy0BHdxs7adGUGmfceetlv0=
+
+
+Name: assets/main_icon_zoomout.png
+SHA1-Digest: xi3mWmqozWo0HjMa8zYNyTogCi4=
+
+
+Name: res/layout/msgfragment_layout.xml
+SHA1-Digest: cGiK7eKakIilLelVNT5jx6Lbtw0=
+
+
+Name: res/drawable-nodpi/soft_mustnosel.png
+SHA1-Digest: 4QtBD3WcjXxZSatuhCPk+EFDW/M=
+
+
+Name: res/drawable-nodpi/buy_img_myorder.png
+SHA1-Digest: tVL4426AU9RfnyoOCGgY6xzXBgU=
+
+
+Name: res/drawable-nodpi/buy_btn_done.png
+SHA1-Digest: MBFbYrDsWR00t+jAFY7wmMyfZLU=
+
+
+Name: res/drawable-nodpi/dyn_btn_send.png
+SHA1-Digest: 08AkDXJf76maa5X+bGvMe0jV1hU=
+
+
+Name: assets/temp.dat
+SHA1-Digest: 4UIQGMWbnIQ0Lz7DSLmZtWt1hcY=
+
+
+Name: res/drawable-nodpi/icon_user_yellow.png
+SHA1-Digest: I7tqHfNA+/p82Y65GvVwcLZWC80=
+
+
+Name: res/layout/main.xml
+SHA1-Digest: lDZXqbjyYJMqLlb2aHsb3wM0YgE=
+
+
+Name: res/drawable-nodpi/icon_virtual_payment.png
+SHA1-Digest: rVPiKkYMyEV+XEM83FssSAkn88w=
+
+
+Name: res/drawable-nodpi/icon_shopping_cart.png
+SHA1-Digest: er4/Wnw95LBghXSdpzsYtj8lSY8=
+
+
+Name: res/drawable-nodpi/call_shop.png
+SHA1-Digest: z2ihGYkWeRcADP5opMKQXW8sdtw=
+
+
+Name: res/drawable-nodpi/image_editoricon3.png
+SHA1-Digest: VV54ZlKPiuArLqebFd6DWfKXgVQ=
+
+
+Name: res/drawable-nodpi/buy_add_cart_n.png
+SHA1-Digest: XHkIeNfdC1bi+eRRhMh4J865Ffc=
+
+
+Name: res/drawable-nodpi/buy_btn_personcenter.png
+SHA1-Digest: 0K+jBYSsWjS0jDK4EXeaYXByuvM=
+
+
+Name: res/drawable-nodpi/buy_cry.png
+SHA1-Digest: SK3Q5rIyEdUdcddqA11d5/GRj4c=
+
+
+Name: res/drawable/selector_emo_group.xml
+SHA1-Digest: Ddu8O88wdf9A5Ucy6HWVRcjvNHM=
+
+
+Name: res/drawable-nodpi/icon_rank_star_selected.png
+SHA1-Digest: +jks6Rviw1BYHG927QvWGeAuiqQ=
+
+
+Name: res/layout/t_main_articleitem.xml
+SHA1-Digest: QmvJ5sHhL3xMUGr9uMUZ91/rr/g=
+
+
+Name: res/layout/dialog_remotepic.xml
+SHA1-Digest: v4KK3PCWsPjoiBxRAGOO4LctKr8=
+
+
+Name: res/layout/p_reg_new_step2.xml
+SHA1-Digest: FPFL4yYecUHutexvsr4tqDAVBLY=
+
+
+Name: res/drawable-nodpi/icon_hand.png
+SHA1-Digest: EMQDk1Hve7lRiTf6EnYVixb47+k=
+
+
+Name: res/anim/rotating.xml
+SHA1-Digest: grFfSreO5N6k5R/bfwLVrNVgmSo=
+
+
+Name: res/layout/headline_single_layout.xml
+SHA1-Digest: 6HOM2EGpIaqo4WWa8E/wojqxlzk=
+
+
+Name: res/drawable/shape_sign.xml
+SHA1-Digest: G3xBVM7ls6cZx5r4qHx0keM2zM8=
+
+
+Name: res/layout/spread_apply_withdraw_layout.xml
+SHA1-Digest: dN/sj/E3L/DNuzMuQY91GlKe9Cw=
+
+
+Name: res/layout/dyn_product5005.xml
+SHA1-Digest: dUXuG/kEcHz12RIx6L3UxoRyj8Y=
+
+
+Name: res/layout/hotel_pricedetail_dyn_item.xml
+SHA1-Digest: vyfu3lkUwM33afV+as2zaCPV/tg=
+
+
+Name: res/layout/dyn_product_item5013.xml
+SHA1-Digest: tO0YQbWAkctNbql1lCFimKG4+ks=
+
+
+Name: res/drawable-nodpi/default_check_s.png
+SHA1-Digest: 8fyg2dcrCC8ObupsfZ4WZmCJECY=
+
+
+Name: assets/Icon_mark3.png
+SHA1-Digest: 10OVxu8Hw/b6BCt9qISWaAsJCEU=
+
+
+Name: res/drawable-nodpi/soft_bg.jpg
+SHA1-Digest: gV+oy0AICogoawVof5zd8Dd0z/E=
+
+
+Name: res/drawable-nodpi/image_editoricon39.png
+SHA1-Digest: BWHpr0SutjU47INJN7cv0QK6kzY=
+
+
+Name: res/layout/buy_buycar_item.xml
+SHA1-Digest: Vl9MnFG3hYpnDBTKQUIEoClmE28=
+
+
+Name: res/drawable-nodpi/dyn_btn_close.png
+SHA1-Digest: zf/Cfcnd9dPA5GdL4ylZhfwzsP0=
+
+
+Name: res/drawable-nodpi/p_friend.png
+SHA1-Digest: KgGoHT9d7HeqQPi0yOOVEddi810=
+
+
+Name: res/layout/liveservice_free_detail.xml
+SHA1-Digest: HYIeyphhAoOqwURFNWNK2i8ta0A=
+
+
+Name: res/drawable-nodpi/dyn_com2.png
+SHA1-Digest: bOnEUL5xQefwytbUcwLUavhj2ic=
+
+
+Name: res/layout/pull_to_refresh_header.xml
+SHA1-Digest: 8f1QSPJ9OdJvNNQbNUZjjXdFoU4=
+
+
+Name: res/drawable-nodpi/menu_setting.png
+SHA1-Digest: Vdy+w0cDucsCyqKMHXHhabgpdQY=
+
+
+Name: assets/cfg/a/mapstyle.sty
+SHA1-Digest: PL2cJ9n+RCDZMJNcU42yIwVoUic=
+
+
+Name: res/drawable-nodpi/dyn_new.png
+SHA1-Digest: ns+nVqiMtMIa+lxOJO4CegqKdVQ=
+
+
+Name: res/drawable-nodpi/buy_loginoff.9.png
+SHA1-Digest: x6e10fMoJ/AsrAUl8T0tpQFVw/c=
+
+
+Name: res/drawable/style_hotkey_bg.xml
+SHA1-Digest: xi9iO8+QtsM6QWoJUaoJExAs6Lo=
+
+
+Name: res/drawable/shape_rect_btn_orage.xml
+SHA1-Digest: buo+dEreoXOpQhkDIJRkY7LMNog=
+
+
+Name: assets/Icon_road_yellow_arrow.png
+SHA1-Digest: RDWwUfjcWrNv0o/SuGNkxuEz7/I=
+
+
+Name: res/drawable-nodpi/line1.png
+SHA1-Digest: YpmYtIkIST1Qybqk1j/NzW5JJpQ=
+
+
+Name: res/drawable-nodpi/icon_audit.png
+SHA1-Digest: 73EoNUB1WzIHvUrLcgm8grSgQnc=
+
+
+Name: res/drawable-nodpi/pullup_icon_big.png
+SHA1-Digest: fCGY3uM9+UmvTCtxYr6lVudyG08=
+
+
+Name: res/drawable-nodpi/image_editoricon42.png
+SHA1-Digest: 1Q+4wGIBlhw3K5Mj8QgzQyZveJI=
+
+
+Name: res/drawable-nodpi/image_editoricon18.png
+SHA1-Digest: xVCrUXqAU3XfR3MPkC8eY5u4QAg=
+
+
+Name: res/drawable-nodpi/share.png
+SHA1-Digest: 9z27YShYBFItptFJEaLnhNDj3tI=
+
+
+Name: res/drawable-nodpi/state_notpay.png
+SHA1-Digest: 4J1u1ZNhZWaGg4jxowVy08rNib0=
+
+
+Name: res/drawable-nodpi/icon_help_red.png
+SHA1-Digest: j2MfpRrmbC95wfHB7GSTsFEwReE=
+
+
+Name: res/drawable-nodpi/soft_open.png
+SHA1-Digest: ZAUy9Mmnezvp7YX238fjS2gBqUE=
+
+
+Name: res/drawable-nodpi/liveservice_high_down.png
+SHA1-Digest: bP7tU7gWaAkpeIU0RJmhmoOToEA=
+
+
+Name: res/drawable-nodpi/share_weixinlogo.png
+SHA1-Digest: 323TEF/0dGntPD0bQfTNQK0kYt0=
+
+
+Name: res/drawable-nodpi/buy_updown_sel.png
+SHA1-Digest: lN8F/sIgLiki9nRsK1Vz+VFXzNk=
+
+
+Name: res/layout/hotel_reserve_price_detail.xml
+SHA1-Digest: 89tbZiu2XQE8Tcj7dNGlrzt/qdA=
+
+
+Name: res/layout/buy_productcommentlist2_item.xml
+SHA1-Digest: xcJ/X9NPJ26OnQQ1zPOTkFRPxRQ=
+
+
+Name: res/drawable-nodpi/icon_call.png
+SHA1-Digest: JcWxfz+nPNSXyH+mpMxN0NJq6yY=
+
+
+Name: res/drawable-nodpi/p_arrow2.png
+SHA1-Digest: 1l74XPYJUtRkn1aKBCE8VnmmtwQ=
+
+
+Name: assets/cfg/l/DVHotMap.cfg
+SHA1-Digest: QDy7zXuBlzO1yvSe0qWNZURB6Z0=
+
+
+Name: res/drawable-nodpi/alipay_payment.png
+SHA1-Digest: 5dJgeXIoYvGlpGU8J2EK4X56irs=
+
+
+Name: assets/cfg/l/DVSDirectory.cfg
+SHA1-Digest: sOaPWOFUuvEUjCsGXUO+73ZSNf0=
+
+
+Name: res/drawable-nodpi/liveservice_list_search.png
+SHA1-Digest: OKY+0HQxgBZOhO2MOPukuTX9hbM=
+
+
+Name: res/drawable-nodpi/ic_menu_back.png
+SHA1-Digest: MlQZmoW+ZraIxlBetceE0Wr6ABA=
+
+
+Name: res/drawable-nodpi/default_head.png
+SHA1-Digest: xllzdiXb8KviP11HPkmi1wAJCmI=
+
+
+Name: res/layout/dyn_msg5010.xml
+SHA1-Digest: RiNtHhreU9dP/kfYyUsclU0s5MM=
+
+
+Name: res/drawable-nodpi/liveservice_detail_home_down.png
+SHA1-Digest: oKulTrlRyc3wKYw8zrl7s9w7XvQ=
+
+
+Name: res/drawable-nodpi/wait_pay.png
+SHA1-Digest: WzdAH9HneOxiy6Vfm1RsDK4rt2g=
+
+
+Name: res/drawable-nodpi/login_layout_2_line_2.png
+SHA1-Digest: 7UdUeCpKcQ169EyI7/Kms8Z5g84=
+
+
+Name: res/layout/hotel_citylist_layout.xml
+SHA1-Digest: oZcJS3NeUx3AlBSU0YE7oAEiaBw=
+
+
+Name: res/layout/spread_mall_category_layout.xml
+SHA1-Digest: jqxA0UfWpE/L+1TGHwfDsMiiJnc=
+
+
+Name: res/drawable-nodpi/loading_image2.png
+SHA1-Digest: 7hLIBv4hxC8IcE+fieWB2Q0MWxk=
+
+
+Name: lib/armeabi/libBaiduMapSDK_cloud_v3_7_3.so
+SHA1-Digest: Ng/O1AWhwqcd6NFBr7MdJmTK4ns=
+
+
+Name: res/drawable-nodpi/buy_add_cart.png
+SHA1-Digest: RPSnUy2k7qNoCYH2NbjIMa95QYM=
+
+
+Name: res/layout/hotel_cancel_pop_item.xml
+SHA1-Digest: 7A++vGXM8XCEs3F69QQqhKoYs/E=
+
+
+Name: res/layout/calendarview.xml
+SHA1-Digest: a4GZZO0vjNJ3E26wDcQxZXJRn5A=
+
+
+Name: res/drawable-nodpi/icon_liveservice_waitpay.png
+SHA1-Digest: hIgAe5brDkT9zSu81ZjgQ1L8EKA=
+
+
+Name: res/drawable-nodpi/t_posts_camera_n.png
+SHA1-Digest: zxAIy0Y4fvKU6TmimBFJXRHeuEo=
+
+
+Name: res/drawable-nodpi/bg_coupon_2.png
+SHA1-Digest: atNjSLsy0qoM5cqomNPVErG8oQk=
+
+
+Name: res/layout/liveservice_baidumap.xml
+SHA1-Digest: 4p+AsA4jW4CzcED4+h6RWSpDIPQ=
+
+
+Name: res/drawable-nodpi/pick_photo_small.png
+SHA1-Digest: 3qkgDTkMSuivA+0mLzwePsRFjkQ=
+
+
+Name: res/drawable-nodpi/icon_fav.png
+SHA1-Digest: dQXtNuk0Hs5cb9VIryggHF++JKw=
+
+
+Name: res/drawable-nodpi/buy_img_mycollection.png
+SHA1-Digest: 4rnYAKiPhuEHSGSJexsFOroEOdU=
+
+
+Name: res/layout/pulldownlistview_head.xml
+SHA1-Digest: KdUZVEwSI3f2Puiu0DSBrA+rH0s=
+
+
+Name: assets/drawable-xhdpi/weibosdk_notification_icon.png
+SHA1-Digest: 4TU+lmKXlG2e3nSUDGDm3jW0XsI=
+
+
+Name: res/layout/item_liverservice_banner.xml
+SHA1-Digest: BXh2295qkIjItJgTqY5uOIhmozs=
+
+
+Name: res/drawable-nodpi/x_incoming.9.png
+SHA1-Digest: C+5RyKxry6I3mtdrCyADUZumjZE=
+
+
+Name: assets/drawable-xhdpi/login_country_background_highlighted.9.png
+SHA1-Digest: +RsQEW+ogJy39670RqrpcY1CFzA=
+
+
+Name: res/layout/t_history_item.xml
+SHA1-Digest: 6r1LtYLTIhjXm2m24erTt8sOXjo=
+
+
+Name: res/drawable-nodpi/icon_blacklist.png
+SHA1-Digest: 7cXj7xXOhVCsC29TM0+3HdOIlNU=
+
+
+Name: res/layout/liveservice_servicedetail.xml
+SHA1-Digest: 5sl1ti3zjGevntWLsMmrW61Kei0=
+
+
+Name: res/drawable/bottom_icon_text_selector.xml
+SHA1-Digest: +gO9hblyciKyu0i5unjNsnS9BhU=
+
+
+Name: res/drawable-nodpi/icon_success_sm.png
+SHA1-Digest: 5aDyi4pXMjL4baN/IpJdjZL1TXI=
+
+
+Name: res/drawable/orange_shape_style2.xml
+SHA1-Digest: R1mXn5AIhBsGG91LtfpXEGH39Xo=
+
+
+Name: res/layout/spiner_item_layout.xml
+SHA1-Digest: +4S5ovM7mQCSgg29V5RSx1B0OI4=
+
+
+Name: res/layout/recycleview_head.xml
+SHA1-Digest: 1C7Fuz4UQ+lqUHyboC89lDOv0BA=
+
+
+Name: res/drawable-nodpi/soft_hot.png
+SHA1-Digest: s8mZEiTkMg2glUavbvkKz7k8jQY=
+
+
+Name: res/layout/buy_discount_up_item.xml
+SHA1-Digest: Ih+tILsQI0/0XXQx+iv2c+0rQ2Y=
+
+
+Name: assets/Icon_mark2.png
+SHA1-Digest: NHBeA/o9A//4UUN6/FBMPcIK0Yc=
+
+
+Name: res/layout/info_category_nine_layout.xml
+SHA1-Digest: 3VMcQeC7SmXKe1pmBnGrSUpzehg=
+
+
+Name: res/drawable-nodpi/image_editoricon48.png
+SHA1-Digest: JHdhc+F7NDITA5RxfaF9jC/IML4=
+
+
+Name: res/drawable-nodpi/label_free.png
+SHA1-Digest: Ld++b9efDjdOCJkqYnq6nfWSuYc=
+
+
+Name: res/drawable-nodpi/none.png
+SHA1-Digest: kQVQy07gLNDARNPvcITEXfvNYnc=
+
+
+Name: res/layout/item_liveservice_myaddree.xml
+SHA1-Digest: jFM1u8ginFxBqRrtfPtAj02RhcY=
+
+
+Name: res/drawable/shape_red_stroke_bottom_cornor.xml
+SHA1-Digest: 6WJW+/N0dhc+1XAunqsnkCtu/ts=
+
+
+Name: res/layout/buy_temporder_group_item.xml
+SHA1-Digest: qbObYTNRaj7Ahe1jDKAO8HioMbQ=
+
+
+Name: res/layout/t_topicdetail_top.xml
+SHA1-Digest: uN9hJGxVTrlXc4HzjQ1YWlw9KYI=
+
+
+Name: res/drawable/listview_divider_padding.xml
+SHA1-Digest: Y3tLoK4QMvz3FESzc2pa6PZii1k=
+
+
+Name: res/layout/dyn_paysource_video_head.xml
+SHA1-Digest: ZCcg1XB1JdPgHAE8LSsYMmo/Tig=
+
+
+Name: res/drawable-nodpi/image_editoricon38.png
+SHA1-Digest: P8n5BPkb8Bmkb+ZtbZ0oFXE/3LY=
+
+
+Name: res/layout/dyn_comment.xml
+SHA1-Digest: C0AY3/Ik4GEAeLg0gZpxJL71Mxo=
+
+
+Name: res/drawable-nodpi/buy_nopaysel.png
+SHA1-Digest: 9vh+td+h47hs7S1ULJxf25dzdUs=
+
+
+Name: res/drawable/shape_liveservice_comm_green.xml
+SHA1-Digest: rhZ6yB8PLExHPBEbUhVnSbqTRD8=
+
+
+Name: res/drawable-nodpi/et_bg.9.png
+SHA1-Digest: KHrAXQJNZjUJKmQHlmklP1uCj1o=
+
+
+Name: res/drawable-nodpi/soft_btn_close.png
+SHA1-Digest: 2vea+RrgyW58liH365kI/Rh1aFc=
+
+
+Name: res/drawable-nodpi/t_comment.png
+SHA1-Digest: ir2jkp/ONNchBUu/b8qz7A7f+3Q=
+
+
+Name: assets/Icon_road_nofocus.png
+SHA1-Digest: Uwg7gBCrh1S1FYmr4OscByLpvUg=
+
+
+Name: res/drawable-nodpi/icon_empty_withdraw.png
+SHA1-Digest: PcmEm9rfc9lnOjZnoAnU40FprOg=
+
+
+Name: res/layout/fragment_multi_image.xml
+SHA1-Digest: k1DASYg61nG++4DR9CJzrTOsRkk=
+
+
+Name: res/drawable-nodpi/arc_mask.png
+SHA1-Digest: Seqnl3o7vE0XyFBRwCpFKSrLFcM=
+
+
+Name: res/drawable-nodpi/buy_img_buycar.png
+SHA1-Digest: 1GxuMeLeDTK93VpbH29Cv6ZIjNk=
+
+
+Name: res/layout/s_type_cell_left.xml
+SHA1-Digest: uQWL+bu3fBKQmHm5ObigPCkLHwA=
+
+
+Name: res/layout/popup_goods_details.xml
+SHA1-Digest: lKbd+G9MkvlHRzGRCAuDUmB/9EE=
+
+
+Name: res/drawable-nodpi/image_editoricon31.png
+SHA1-Digest: jvHtFxgV9JC/Tumara7THsR6aFI=
+
+
+Name: res/drawable-nodpi/t_more_collect_n.png
+SHA1-Digest: mZXoqnxwcOSozSbsFNbsX19rmRg=
+
+
+Name: res/layout/dialog_selpic.xml
+SHA1-Digest: xyuSBgv6UJ6gU97GP/DZdMOiONE=
+
+
+Name: res/layout/xf_blacklist_item.xml
+SHA1-Digest: mHkZGCOMtR125nL7C51LoZmKoc4=
+
+
+Name: assets/drawable-mdpi/weibosdk_notification_icon.png
+SHA1-Digest: SK3NNXzfsDrYp3YGO6S97dJE0Zg=
+
+
+Name: res/drawable-nodpi/buy_nameitem.png
+SHA1-Digest: p2BS05CHVHwSdpeCe0LApJnkrTI=
+
+
+Name: res/drawable-nodpi/buy_sureorder.png
+SHA1-Digest: WStGjO+ulD2S8d0WEgjI8O2oVQo=
+
+
+Name: res/layout/buy_orderdetail_item.xml
+SHA1-Digest: BmIRymkbGSGEqDVfxBEDY+a1lvk=
+
+
+Name: res/layout/s_product_left.xml
+SHA1-Digest: u3w3u2XHdXCTQyifR6VbzPv9z9M=
+
+
+Name: assets/initFiles/page_51485a38-14a5-4358-aadf-5492f222f831.json
+SHA1-Digest: C7+XcGjuOuEOVtM5PhizCgg5UNw=
+
+
+Name: assets/icon_scale.9.png
+SHA1-Digest: qIUctUAkthqkey8qZs8wMv+8+ow=
+
+
+Name: res/layout/buy_vip_card.xml
+SHA1-Digest: PcVYSg3HLR+g2lzoxokOCBSJRck=
+
+
+Name: res/drawable-nodpi/icon_liveservice_wait.png
+SHA1-Digest: 4rkMb5JrtUV9frBQgulq5u0W340=
+
+
+Name: res/drawable-nodpi/view_btn.png
+SHA1-Digest: WHTuc/yPh2Lj0L0BU5mf5JktJWQ=
+
+
+Name: res/drawable-nodpi/image_editoricon25.png
+SHA1-Digest: 0RxbYBPDgmNBRI5UFn2MJcOqRZo=
+
+
+Name: res/drawable/seekbar_progress_drawable.xml
+SHA1-Digest: HcgKd7dq/lzqnjEt9hvjem77WR8=
+
+
+Name: res/layout/t_mycomment_item2.xml
+SHA1-Digest: 8Bq3iAQJFLL+KllCzH3Z+gnm0As=
+
+
+Name: res/drawable-nodpi/dialog_btn.9.png
+SHA1-Digest: 1i4jrJtqQApM02oHiR4AaUfzWhM=
+
+
+Name: res/layout/t_main.xml
+SHA1-Digest: 9D9/f4kV3puuNCDjDts0Fb9HAIQ=
+
+
+Name: res/drawable/selector_bg_point.xml
+SHA1-Digest: aDUZGQ325Osg6kXWKhfJAJT7u/s=
+
+
+Name: assets/initFiles/page_b75b2866-f7f0-41f9-9ea1-3e0f1e1fd775.json
+SHA1-Digest: ewOkzvXcAqhsZrBO3glbtFY6Aq4=
+
+
+Name: res/layout/buy_collection_item.xml
+SHA1-Digest: MAXWfwiyj+gZoNugYWXs/m12cp0=
+
+
+Name: res/drawable-nodpi/icon_alipay.png
+SHA1-Digest: 5dJgeXIoYvGlpGU8J2EK4X56irs=
+
+
+Name: res/drawable-nodpi/gps_red.png
+SHA1-Digest: FTazgewgEJtr683Vy9LNWZqF+UQ=
+
+
+Name: res/layout/share_sina.xml
+SHA1-Digest: XjOaa4dpq4vxz88+5cO20PgFsa4=
+
+
+Name: res/layout/buy_collection_item2.xml
+SHA1-Digest: Y2DyjUbd834dDRbcF503FhPs1/k=
+
+
+Name: res/drawable-nodpi/buy_hot.png
+SHA1-Digest: fI1XHqADzA0eC1meVK6b6C1nKmA=
+
+
+Name: res/drawable/shape_down_cornor.xml
+SHA1-Digest: vwGXQYGCu75ExqEpbnFmbOZzVMs=
+
+
+Name: res/drawable-nodpi/buy_btn_close.png
+SHA1-Digest: 6+cI1YWVAVAgrEcbMla6skYBTlI=
+
+
+Name: res/layout/item_liveservice_comm_list.xml
+SHA1-Digest: nEefv20dZlJQfqOTZoiZFqVZmTM=
+
+
+Name: res/drawable-nodpi/label_done.png
+SHA1-Digest: kSvhNMRQzDMQVz+rZEP+1hv03Dk=
+
+
+Name: res/drawable-nodpi/image_editoricon44.png
+SHA1-Digest: vH3EdDPiihOvzR84iaEkj+ClVu8=
+
+
+Name: res/xml/set.xml
+SHA1-Digest: S7AwM2i3sBbTBpui2ZWJkLs5c3c=
+
+
+Name: res/drawable/shape_liveservice_myappointment.xml
+SHA1-Digest: SS6rfjybqdl/Dj06smKnrAA3Q9M=
+
+
+Name: res/layout/soft_down.xml
+SHA1-Digest: 07J7lidyUX4vdGdgP8lsSwkh2NQ=
+
+
+Name: res/layout/xf_search_view.xml
+SHA1-Digest: cNu4p/S+DXTpAFRwvEJVLYasAAI=
+
+
+Name: res/drawable-nodpi/share_weibo.png
+SHA1-Digest: +bQI9B96c1350RskdzESdIu/qvM=
+
+
+Name: res/drawable-nodpi/liveservice_money.png
+SHA1-Digest: OWjCw9IzlronFBzjcgmO1WDnGuk=
+
+
+Name: res/layout/info_release_search_layout.xml
+SHA1-Digest: 9ZZm+f6FYjjfNImdbGmJs7dhdH0=
+
+
+Name: res/drawable-nodpi/point.png
+SHA1-Digest: 9AfbEbclV3c4BRWTubWSDvpj5Bs=
+
+
+Name: assets/drawable-xhdpi/weibosdk_common_button_alpha_highlighted.9.p
+ ng
+SHA1-Digest: 5PVQoLeEC8TkJpbRvYa+FcW+o08=
+
+
+Name: org.jivesoftware.smack/jul.properties
+SHA1-Digest: Z6mN7LvvzG2XUKQm/IxhlcK3t6E=
+
+
+Name: lib/armeabi/libyygycheck.so
+SHA1-Digest: H1YN244q1D8nYu8vvCxOhOrfUm0=
+
+
+Name: res/drawable-nodpi/login_layout_2_btn_03.png
+SHA1-Digest: v36H882TGJf4S4Qhh0dPtNDXfa4=
+
+
+Name: assets/initFiles/1521792805632_1025603_114.png
+SHA1-Digest: O+38DieTVYA6PsareulQAP78GTU=
+
+
+Name: res/layout/t_historylist.xml
+SHA1-Digest: 16xe2aEqF0f/G71wjE1QCsoQpTg=
+
+
+Name: assets/libwbsafeedit
+SHA1-Digest: /WPw1+DlgBrRMrerHyu+xogtvIQ=
+
+
+Name: assets/drawable/weibosdk_dialog_bg.9.png
+SHA1-Digest: WXvo3k+6TIebf1AC+9PbdGgTOF4=
+
+
+Name: res/drawable-nodpi/t_delete_xmpp.png
+SHA1-Digest: d0puzbZ9jz0ZprfTRm9PtmBtugw=
+
+
+Name: res/drawable-nodpi/liveservice_appointment_location.png
+SHA1-Digest: iEbvKLVBLDQjO4IRHXN64qcM+Ic=
+
+
+Name: res/drawable-nodpi/t_pic_fresh_bg.png
+SHA1-Digest: ZIMgMHy8PzvYq7oCp1cvtkEHZs4=
+
+
+Name: res/drawable-nodpi/buy_img_phone.png
+SHA1-Digest: l94AHZSlXLlmh1PtHlkw0OPIdf4=
+
+
+Name: res/drawable-nodpi/buy_btn_confirm_receive.png
+SHA1-Digest: MKQl36cv3oLZwCR6j/C2I1pfMyo=
+
+
+Name: com/sina/weibo/sdk/net/cacert_cn.cer
+SHA1-Digest: FnE+tMPhmbXBjTOnmkDlfeUWhUI=
+
+
+Name: res/layout/liveservice_comm_detail_layout.xml
+SHA1-Digest: CnIlQrrc3uJVZK2FIxB6dQoArpk=
+
+
+Name: res/drawable-nodpi/dyn_fav.png
+SHA1-Digest: Ja5BtoGqHI8f/1+tkfsEzp0bwLc=
+
+
+Name: res/drawable-nodpi/buy_logo_weixin.png
+SHA1-Digest: DwHfmJqjSFyA/wE0MKVxYFhIcNc=
+
+
+Name: res/drawable-nodpi/soft_btn_download.png
+SHA1-Digest: mQhpU3JArnGs9Dx7PfbfdYrZSj0=
+
+
+Name: res/drawable-nodpi/buy_edit.png
+SHA1-Digest: DcNl2edmn/X3tKRxtN25KpHQaZ4=
+
+
+Name: assets/initFiles/1521793582406_1047561.jpg
+SHA1-Digest: 24T5RJPSn8A02jPW2tBVtGkmDxI=
+
+
+Name: res/drawable-nodpi/icon_fav_gray.png
+SHA1-Digest: RFDOQ2LljLG2D3b7qg9UFH1MT0A=
+
+
+Name: res/layout/dyn_location3013.xml
+SHA1-Digest: 6aKccMMACLxVBwji0RNs4X7iOis=
+
+
+Name: res/drawable-nodpi/shop_icon.png
+SHA1-Digest: ZEbC8F80sc66XsZVftezYtxKhrM=
+
+
+Name: res/layout/buy_activitydetail_webview.xml
+SHA1-Digest: mLtbsO31OqXsp0A3kUT6BBo/3X8=
+
+
+Name: res/drawable-xhdpi/default_check.png
+SHA1-Digest: e+jczoo4FlO4h0JVU+w7I5z21AA=
+
+
+Name: res/drawable-nodpi/login_layout_4_input_bg.9.png
+SHA1-Digest: kbMm5HlIvEcyZWacQySLJSJpLhg=
+
+
+Name: res/layout/buy_productdetail.xml
+SHA1-Digest: OmSsGYAVpXRTQJdK9E81oWqPFAM=
+
+
+Name: res/drawable/transparent_circle_shape.xml
+SHA1-Digest: HVVhPJBMK1tZyJdM9wHnw5/yrt0=
+
+
+Name: res/layout/info_release_banner_twopic_layout.xml
+SHA1-Digest: 69rls6H/0Vk4nt4VvYyP6D0Zwzk=
+
+
+Name: res/layout/t_pop.xml
+SHA1-Digest: GeOqlX3xS15hXDsmA3IHjnxIlrg=
+
+
+Name: res/drawable-nodpi/et_bg3.9.png
+SHA1-Digest: xcTnhCWe2/+y7RZPfgaJRNbtyV4=
+
+
+Name: res/layout/s_msg_item5023.xml
+SHA1-Digest: 5uhUEPou9jYLnht6ytKhwQlktn4=
+
+
+Name: assets/clientBase.json
+SHA1-Digest: h75G2AIPtv9kF2bE8RIad2hlNaI=
+
+
+Name: res/layout/softlist.xml
+SHA1-Digest: mf/SEUVKF9rvBJtgCuzeGfidJEo=
+
+
+Name: res/drawable-nodpi/icon_wexinpay_small.png
+SHA1-Digest: leAANNbB01A3WNxGmh6ESUiuyD0=
+
+
+Name: res/drawable-nodpi/icon_empty_order.png
+SHA1-Digest: NOq12skyV523JGEsfG5X+GZLTjs=
+
+
+Name: org.jivesoftware.smack.extensions/extensions.providers
+SHA1-Digest: vZbwKpoouKQXWFGYLZ6QDVxIoPo=
+
+
+Name: org.jivesoftware.smack.experimental/experimental.providers
+SHA1-Digest: GSwCA+DGUqBGt+eEtY5PMmmBv40=
+
+
+Name: org/xbill/DNS/windows/DNSServer.properties
+SHA1-Digest: O5PVXjJyDSq5KIIQPOGfe6/kD00=
+
+
+Name: res/drawable-nodpi/liveservice_appointment_number.png
+SHA1-Digest: JXVKzAfxojHtTqqHrO21OpDKDpw=
+
+
+Name: res/drawable-nodpi/def_images_100.9.png
+SHA1-Digest: 7+Jwoi5Q7DeqqPYC4CMwCQdQBiw=
+
+
+Name: res/layout/shopcar_shop_item.xml
+SHA1-Digest: zSsa/yQb38DAmXQZ/qs6l2rTNNA=
+
+
+Name: res/drawable-nodpi/xf_female.png
+SHA1-Digest: et+q2fYe0bwPJm4l7HWkZQAt9CE=
+
+
+Name: res/drawable-nodpi/soft_line.png
+SHA1-Digest: 25m6UUwZIXgju1vV+pGsGMMk4vI=
+
+
+Name: res/layout/xf_searchfriend_item.xml
+SHA1-Digest: IQrp03rb3jP1pBkxeTJpUpm8YFU=
+
+
+Name: org/xbill/DNS/windows/DNSServer_de.properties
+SHA1-Digest: wOCpO32llmVH2mumRMPr5VH6ag8=
+
+
+Name: res/drawable-nodpi/icon_payread_fav.png
+SHA1-Digest: 2HJEtz8pNiWLf5BJkvC/Wwz5Pj0=
+
+
+Name: res/layout/dyn_search5007_act.xml
+SHA1-Digest: GHptCmLwg/vrLw33Iqgk+aPkz7g=
+
+
+Name: assets/drawable-xxhdpi/login_country_background_highlighted.9.png
+SHA1-Digest: fa6t8ZMMxXxEeSkD1hDCql564hI=
+
+
+Name: res/drawable-nodpi/p_checkupdate.png
+SHA1-Digest: uKQt578WA/V3KbP5ZOrDTS0JMAg=
+
+
+Name: res/layout/shopcar_second_item.xml
+SHA1-Digest: gydnTRnhgcixR4CZG3isljag1HY=
+
+
+Name: res/layout/infolist_item.xml
+SHA1-Digest: OIbda2CM0x6e6GA1uQfniHeOAPg=
+
+
+Name: res/layout/dyn_gather_product_item5051.xml
+SHA1-Digest: RL63Fqm1a1K1RVppvbFJAWxZDic=
+
+
+Name: res/anim/t_scale_in.xml
+SHA1-Digest: mey2Fy6kceViTfbb5cbE6Njfya0=
+
+
+Name: res/drawable-nodpi/t_host_pb_bar_s.png
+SHA1-Digest: RmPVRVCzoyIibDbiZNZjSkwiyZE=
+
+
+Name: resources.arsc
+SHA1-Digest: pxssaLVaiA1w8oCGVcE3Xr7s+MU=
+
+
+Name: res/drawable/style_search5007bg.xml
+SHA1-Digest: iQJkQFdihU/zYATdlBL+qmzGgCY=
+
+
+Name: res/drawable-nodpi/juad_close.9.png
+SHA1-Digest: TUEUgP0f9HOQeSC+6BwCCilMJvA=
+
+
+Name: res/layout/hotel_detail_foot.xml
+SHA1-Digest: KilxB/2+z7zyvnrIochXglYsjMw=
+
+
+Name: res/layout/dyn_messagesubmit.xml
+SHA1-Digest: hvsxd0otpwUbHChI+rLV2mZzOz0=
+
+
+Name: res/drawable-nodpi/buy_tips_bg.9.png
+SHA1-Digest: r9b8ay/rf6LumlcqsYcLJF011Gk=
+
+
+Name: res/drawable-nodpi/bg_mall_title_two.png
+SHA1-Digest: JIxJt/ZH85BSmEKX5rSUF9uCRyI=
+
+
+Name: assets/initFiles/loading.png
+SHA1-Digest: lvIfYEtPqaDjs/dpxQNN2EB+FE0=
+
+
+Name: res/layout/dyn_paysource_slide_item.xml
+SHA1-Digest: gnuR7NL2ewBohlzbmsyesWx8DTM=
+
+
+Name: res/drawable-nodpi/share_qq.png
+SHA1-Digest: SvRZL47ZgHDf5k8YoNHuqyBJhNY=
+
+
+Name: res/drawable-nodpi/btn_backspace.png
+SHA1-Digest: kj2H1Dre6KuSx6B8b0VDEL+9r0s=
+
+
+Name: res/drawable-nodpi/icon_eye2.png
+SHA1-Digest: UyJlIsCZBRpHYrU8izcfMmCudE8=
+
+
+Name: res/layout/shop_product_fragment_left_item.xml
+SHA1-Digest: lv+QnTKWxIT81od2dgw4OeKWYKg=
+
+
+Name: res/layout/liveservice_state_tracking.xml
+SHA1-Digest: Yb6CGCDTJSWgfV4WAXxcjaqCX58=
+
+
+Name: res/layout/p_msgcenter.xml
+SHA1-Digest: 9qdr0enrA17ONU6ctTWZ77e5WEQ=
+
+
+Name: res/layout/info_myrelease_item_layout.xml
+SHA1-Digest: pcJuUOyhZsKI00ibOe6h2yx6OUA=
+
+
+Name: res/drawable/circle_corner_address.xml
+SHA1-Digest: R7g80EC+DHAKLCX8HnFGHwOY1og=
+
+
+Name: res/layout/buy_webview.xml
+SHA1-Digest: PAmkgc76+Kw9QDyaGLJkK4l1yMs=
+
+
+Name: res/layout/buy_temporder_item2.xml
+SHA1-Digest: w+I24i0tKPXPMapncEpjCE8isvc=
+
+
+Name: res/drawable-nodpi/bubble_backgroundf.9.png
+SHA1-Digest: QUhEGlCzCzmIE/CVx7t6kd8+eq0=
+
+
+Name: assets/drawable-xhdpi/weibosdk_common_shadow_top.9.png
+SHA1-Digest: 4rZQApOouEEOo6WShKdVUPd3+Wk=
+
+
+Name: res/drawable-nodpi/expander_ic_minimized.9.png
+SHA1-Digest: YI851Urb3Db73RaWwbhQcU7GWOA=
+
+
+Name: res/drawable-nodpi/icon_fav_h.png
+SHA1-Digest: lkhwnxobv5oZmhCef/hg9wE2VCo=
+
+
+Name: res/drawable-nodpi/icon_liked.png
+SHA1-Digest: 7HQoZu0adlHLpDmJtoz4ykW2iy0=
+
+
+Name: res/drawable-nodpi/p_img_msg.png
+SHA1-Digest: Cpp95ICIVYWv2WhvVnGeQPg6Swc=
+
+
+Name: res/drawable-nodpi/t_host_pb_bar.png
+SHA1-Digest: LvIM2sdZiPdRsuLXvp5uDTLibxA=
+
+
+Name: res/drawable-nodpi/buy_img_defaultaddres.png
+SHA1-Digest: 2qW8wak7s3A9gDFRscacVKpL5ZM=
+
+
+Name: res/layout/reserve_hotel_detail.xml
+SHA1-Digest: TTlIIA02wq3Z+eswycBa9kc9NGk=
+
+
+Name: res/drawable-nodpi/buy_btn_edit.png
+SHA1-Digest: OeWGkp/QvIXscxqkWDEyQWndwuI=
+
+
+Name: res/drawable/xf_btn_reg.xml
+SHA1-Digest: WlRNamRBzFkK7KSS+pzzpbTu4NY=
+
+
+Name: res/drawable-nodpi/soft_new.png
+SHA1-Digest: 0Pemc/PEtTtR4kr/uzMBbyJPGMM=
+
+
+Name: res/drawable-nodpi/bg_point_detail.png
+SHA1-Digest: eX7uMRlWU32CK72CQc8rfRljbwI=
+
+
+Name: res/drawable-nodpi/login_layout_3_btn.9.png
+SHA1-Digest: z80c9iUx37AZgaf0+qWv+xzXXBs=
+
+
+Name: res/drawable-nodpi/icon_empty_member.png
+SHA1-Digest: Fby7JIMzZw5Rof8qvZXZqnJ6ZFM=
+
+
+Name: res/layout/xf_myfriendlist.xml
+SHA1-Digest: rN+L4SmzHEHPQtjO9v6eXZES3kc=
+
+
+Name: assets/Icon_walk_route.png
+SHA1-Digest: /ms0l+rN0Zkzr/GD/nbaJPgD5Zs=
+
+
+Name: res/drawable-nodpi/webviewtab_back_pressed.png
+SHA1-Digest: bnN+erHm8Smv4qQ6RcUR35MCbtw=
+
+
+Name: res/drawable-nodpi/icon_store.png
+SHA1-Digest: yv2S9DqDfR6NGDGutSgnAOXwWM0=
+
+
+Name: res/drawable-nodpi/share_back.jpg
+SHA1-Digest: OK7PIWqt33eKKZq79pNnZfPboDw=
+
+
+Name: res/layout/soft_must.xml
+SHA1-Digest: SVeMfu8tnQ7sjvGExAEH3ETZ8u4=
+
+
+Name: res/drawable/shape_refund_type2.xml
+SHA1-Digest: dRy/WlTiaplKXjCFSnnIOSkQ3dw=
+
+
+Name: res/drawable-nodpi/icon_recommand.png
+SHA1-Digest: EL4jw0ydh3aya3eK4GcGm7ID3+o=
+
+
+Name: res/drawable-nodpi/persondetail_backicon.png
+SHA1-Digest: R5vno2N7txac6ynE9g8GGZia06A=
+
+
+Name: res/drawable-nodpi/soft_line2.png
+SHA1-Digest: 5Hr67FcHPJ1mYGqhxJJQJZ3Vkxk=
+
+
+Name: res/drawable-nodpi/dia_bg.9.png
+SHA1-Digest: Yfb45PCH8yGr8SxzLudGgaETjjw=
+
+
+Name: res/layout/info_release_dyn.xml
+SHA1-Digest: 1PdAkWPvKJK/ITqvxPXN22+9Hy0=
+
+
+Name: res/drawable-xhdpi/btn_unselected.png
+SHA1-Digest: +OJLu5vQjaSnVD1hzmGepAGo3CU=
+
+
+Name: res/drawable-nodpi/load_succeed.png
+SHA1-Digest: CCEaDKPo6SBD/q1FJ+VBsdNtn50=
+
+
+Name: res/drawable-nodpi/play_pause.png
+SHA1-Digest: VXJJAjFn1ksvpMucGn9TiSVJ2w0=
+
+
+Name: res/layout/hotel_singlecomm.xml
+SHA1-Digest: gcv/jWqEzLazOcB2VOBIzx5UktU=
+
+
+Name: res/drawable-nodpi/icon_shopping_refund.png
+SHA1-Digest: fnNaxDCXpTEHxV1XK5UeJ4BEaR4=
+
+
+Name: res/layout/t_commentlist_item.xml
+SHA1-Digest: 5RONvsY0aq8wvcGpCDdFTwT1PDc=
+
+
+Name: res/drawable-nodpi/line2.png
+SHA1-Digest: Tkfj8bsgz26EKSrhlTRM2glFD2A=
+
+
+Name: org.jivesoftware.smack.im/smackim.xml
+SHA1-Digest: IlO9Lczk0BZ93TOReN/8xg/766k=
+
+
+Name: com/sina/weibo/sdk/net/cacert_com.cer
+SHA1-Digest: PPEejzH42pAoiGsQTsqGfGF74fg=
+
+
+Name: res/drawable-nodpi/p_eye.png
+SHA1-Digest: /HrasoXLfv3RvN2amOY26XXiVX8=
+
+
+Name: res/drawable-nodpi/buy_img_replay.png
+SHA1-Digest: FHqAY2oOcWePI975hsN6j5/Yn7w=
+
+
+Name: res/drawable/gradient_shape_trans.xml
+SHA1-Digest: 4QtOvODNMzqovp8wXaGMuSCCrmo=
+
+
+Name: res/drawable-nodpi/buy_img_search.png
+SHA1-Digest: 1LIEr6iyZfYghhK3xeKWv/Kjvc8=
+
+
+Name: res/drawable-nodpi/buy_downup_sel.png
+SHA1-Digest: W2DLYUrSPBYCJN2jHO4ME/0wIDs=
+
+
+Name: res/drawable-nodpi/icon_hotel_refund.png
+SHA1-Digest: NBrR+e9zOIYjpQ1i7ofo9jM6KCc=
+
+
+Name: res/layout/buyvirtualorderdetail.xml
+SHA1-Digest: w7MWMdWaJFnPmmL/kLcpwQV/2Oc=
+
+
+Name: res/drawable-nodpi/buy_btn_subbg.png
+SHA1-Digest: 4/81ZbsHQgVn/f88A3ANXIwlxEM=
+
+
+Name: res/layout/t_collection_item.xml
+SHA1-Digest: 41Fr480A7W2PkTgDY3wzrjds7wE=
+
+
+Name: res/drawable-nodpi/liveservice_address_alldown.png
+SHA1-Digest: oKulTrlRyc3wKYw8zrl7s9w7XvQ=
+
+
+Name: res/drawable-nodpi/buy_btn_send.png
+SHA1-Digest: QSjjCCzvno3kNjIdu52SNKdQx+s=
+
+
+Name: res/drawable-nodpi/t_back.png
+SHA1-Digest: xk7IQ1vwwBKVlFOH8/piOqnS3bk=
+
+
+Name: res/drawable-nodpi/image_editoricon21.png
+SHA1-Digest: urMXmoBHVuZVshMSGM2cIATiPOQ=
+
+
+Name: res/layout/paysource_txt_layout.xml
+SHA1-Digest: a8BPBLpQYASU8aUClOsH3Tu0I+s=
+
+
+Name: res/drawable-nodpi/image_editoricon10.png
+SHA1-Digest: 3/yj/SCI3r0yO9uYullUNKDMIMA=
+
+
+Name: res/drawable-nodpi/t_more_reverse_n.png
+SHA1-Digest: Zd+ZPRlvR7At/Rv/uTaup+HZE5k=
+
+
+Name: res/drawable/circle_corner_distance.xml
+SHA1-Digest: dUB2VgaTv3RsMYAJEw/NzsUdLUc=
+
+
+Name: res/layout/p_reg_sms.xml
+SHA1-Digest: qNKiSvuRE3jfZ02c6n0OrXqY/Bw=
+
+
+Name: res/drawable-nodpi/buy_btn_clear.png
+SHA1-Digest: ii6TwFx2YL+7TWUsBJjvIukfHIY=
+
+
+Name: res/drawable-nodpi/t_floor_host.png
+SHA1-Digest: sVYauf0BzFTlxzbZiJ6tlkamRV0=
+
+
+Name: res/drawable/loading_animation.xml
+SHA1-Digest: 1jRlV5CIXXR+FAeKkg0t8Z1SVPY=
+
+
+Name: res/layout/dyn_paysource_sort_detail.xml
+SHA1-Digest: qyI8yYsZsL219GuhLt+Lb1QPUCg=
+
+
+Name: res/drawable-nodpi/pull_icon_big.png
+SHA1-Digest: QHd8oXWkIGPGe/Ytd509nVu00Wg=
+
+
+Name: res/drawable-nodpi/buy_seetransport.png
+SHA1-Digest: s6WThPA0BLgMWSZsPEOsZ/I4q7s=
+
+
+Name: res/layout/dyn_paysource_base_head.xml
+SHA1-Digest: c+NqXbpHcJIPyzJ2z+m5WiEOm5M=
+
+
+Name: assets/drawable-xhdpi/common_button_big_blue_highlighted.9.png
+SHA1-Digest: /XNFobbv5fhjDvERLi/tvfDh7mg=
+
+
+Name: res/drawable/gradient_shape.xml
+SHA1-Digest: XJVkHOFQM4PHzEr94qdLAFsrL2c=
+
+
+Name: res/drawable-nodpi/icon_sex_f.png
+SHA1-Digest: UxLXfqBnaCg7d8ibYpcfWqCHxzM=
+
+
+Name: res/drawable/shape_red_bigcornor_solid.xml
+SHA1-Digest: CLS5VyZSnNn+sIMGzDSRG6TipV8=
+
+
+Name: res/anim/left_out.xml
+SHA1-Digest: MC9PH5Ja1HIYnwTVTBI+d/9pQXQ=
+
+
+Name: res/drawable-nodpi/p_msg2.png
+SHA1-Digest: Ep1ANAkq82f5CmW00N2s9TNpcSU=
+
+
+Name: res/drawable-nodpi/icon_like.png
+SHA1-Digest: WlJvyVrfHjrA4WFSbw8vWPheXIg=
+
+
+Name: assets/drawable-xhdpi/login_bottom_background.9.png
+SHA1-Digest: JX35zy+t+awTjcsK38jHrDnuHjE=
+
+
+Name: assets/cfg/h/DVVersion.cfg
+SHA1-Digest: Q1ShB9R5dPmXl8in4aerZ6YsuHY=
+
+
+Name: res/drawable-nodpi/bg_myspreadcenter.png
+SHA1-Digest: BGjWGfqSOslDz83iUv94vna2iiY=
+
+
+Name: res/drawable/half_transparent.xml
+SHA1-Digest: fr7xvlUcuk5N/7vbwV+KiAFcQ0g=
+
+
+Name: assets/main_topbtn_down.9.png
+SHA1-Digest: VnXcx1vInp4SHjuI2lVi1+EbFSE=
+
+
+Name: res/layout/dyn_search3012_tiebaitem.xml
+SHA1-Digest: nAY6lC4+794EgSIC1Qp8Sj5wJ3U=
+
+
+Name: res/drawable-nodpi/liveservice_share.png
+SHA1-Digest: 7FC1e+htXhu6omM6RoAoVHbXcAk=
+
+
+Name: res/drawable-nodpi/image_editoricon26.png
+SHA1-Digest: VEsiq2srgS79AboTTOj7pRsSEdw=
+
+
+Name: res/drawable-nodpi/dyn_msg_share.png
+SHA1-Digest: 16SaUZJhQ8xfMpjt0GyAlEMkA5E=
+
+
+Name: res/drawable-nodpi/bg_point_history.png
+SHA1-Digest: euiwcBf7706gj0A40YjeMSlRk84=
+
+
+Name: res/layout/hotel_filter_sort_poplayout.xml
+SHA1-Digest: uydZjFA+UqYoeN7/af+vv+inu7o=
+
+
+Name: res/layout/refresh_head.xml
+SHA1-Digest: An+1XxaXYCrw9EUWhvFpsHZjyFg=
+
+
+Name: res/layout/dyn_search3012_tabcell.xml
+SHA1-Digest: p1uy3W53qY2KoVvp9J2OYIJiJ5U=
+
+
+Name: res/layout/buy_collection.xml
+SHA1-Digest: WEeDNZK+B2h43NIz5ostwD48OtA=
+
+
+Name: res/layout/dyn_location3013_head.xml
+SHA1-Digest: vv8JCuhX7+Lq6SJETHVROYmzVU8=
+
+
+Name: res/drawable-nodpi/p_info.png
+SHA1-Digest: GAQ5Stahyxx5SeFPOWNwCtFOPjQ=
+
+
+Name: res/drawable-nodpi/soft_downnosel.png
+SHA1-Digest: NLskMLDIcmb/mT7Xo8KvDz2ff7s=
+
+
+Name: res/layout/spiner_window_layout.xml
+SHA1-Digest: G8Z6Vi//FPMBGxQnzUW6OY6bpxQ=
+
+
+Name: res/drawable/shape_orange_cornor.xml
+SHA1-Digest: QoiWso7sKRv4sV1C+yKuIIO1MHU=
+
+
+Name: res/drawable-nodpi/icon_spread_previlege.png
+SHA1-Digest: 1RaTddzUYS5KSFBf9+Fqx7qKduY=
+
+
+Name: res/drawable-xhdpi/asy.png
+SHA1-Digest: h43U3W/TnJUMN+FICivAGFAV7M4=
+
+
+Name: res/layout/t_mytopic_item.xml
+SHA1-Digest: uqBtQ+CapFnGXDMuEylPd0QKd7M=
+
+
+Name: res/drawable-nodpi/icon_alipay_small.png
+SHA1-Digest: GcEEIi5ECxP4Xm4vwK5eMBaxkuk=
+
+
+Name: res/drawable-nodpi/icon_trash_red.png
+SHA1-Digest: 1i9fEfhn4SVx6KxAf5TIBVRJ1Y4=
+
+
+Name: res/layout/buy_updateinfo.xml
+SHA1-Digest: /91OzGblnGEEHtap9GFL/jlEhEw=
+
+
+Name: assets/initFiles/1521793581129_627421.jpg
+SHA1-Digest: 0dHRPIAe+rqgx3gfJhKP2nqrY3w=
+
+
+Name: assets/drawable-hdpi/weibosdk_common_button_alpha_highlighted.9.pn
+ g
+SHA1-Digest: kxfoxurSITb2na/H+j90g8rJyyg=
+
+
+Name: res/layout/xf_search_roster.xml
+SHA1-Digest: HaRKKF2vlEIE3t+m3dZTXHOWRIY=
+
+
+Name: res/drawable-nodpi/buy_dot.png
+SHA1-Digest: KMrT2usfSJhVAZak8QxC2B/63L4=
+
+
+Name: lib/armeabi/libBaiduMapSDK_base_v3_7_3.so
+SHA1-Digest: q+AAMiQBsW660UdQuc2Qi/5v3gU=
+
+
+Name: assets/drawable-xhdpi/search_clear_btn_normal.png
+SHA1-Digest: ZRnqWx03Ww6VozsVZcZOr821pRM=
+
+
+Name: res/drawable-nodpi/pay_sucess.png
+SHA1-Digest: 7AOi9ijT9rC2VHc+VcIsN2m9Lsk=
+
+
+Name: res/layout/soft_recom_gallery.xml
+SHA1-Digest: j5vTzrzbwtuTUe3gvEzwHv5haYI=
+
+
+Name: res/drawable-nodpi/gallery_bottombar_bg.png
+SHA1-Digest: ndfkxbM9aRlKTdaJg50vnI7QbUY=
+
+
+Name: res/layout/hotelcommlist_layout.xml
+SHA1-Digest: esM5MtnZTCnF62ZcNWPokksX5p4=
+
+
+Name: res/drawable-nodpi/liveservice_nomoney.png
+SHA1-Digest: 4G2JKyY1Fl45k9Wd2TThC2gX4Io=
+
+
+Name: lib/armeabi/libijkffmpeg.so
+SHA1-Digest: lbx7KSm7+6sZEIokhJgwAqFWTow=
+
+
+Name: res/layout/item_liveservice_base.xml
+SHA1-Digest: jR+Tbc5cL5C/MxqVvwWQ1Kjh6IM=
+
+
+Name: res/drawable-nodpi/buy_btn_add.png
+SHA1-Digest: j6g+3HPLuRpzYzQO1mXJ2Ey6cUA=
+
+
+Name: res/drawable/text_cursor.xml
+SHA1-Digest: FOOK7madJQc8WFv7PwIQxP55R24=
+
+
+Name: res/drawable/xf_btn_shape1.xml
+SHA1-Digest: /uymOC1uHE4GBpSXl7kxOiQ/wrw=
+
+
+Name: res/layout/self_galleryitem4012_view.xml
+SHA1-Digest: bdexsaC5Ecf7CnBn12PwcOknsho=
+
+
+Name: res/drawable-nodpi/bg_coupon_1.png
+SHA1-Digest: gP2extTUiM/Wcib8Zx9aM1n9tI4=
+
+
+Name: res/layout/head_pull.xml
+SHA1-Digest: arUyA3NZulFfDfwpMUyVUjD0cM8=
+
+
+Name: res/drawable-nodpi/buy_searchleftsel.9.png
+SHA1-Digest: q+iudZ/wmKpbZs7awg2JzNZjuo0=
+
+
+Name: res/drawable-nodpi/chat_box_mask_left.9.png
+SHA1-Digest: 9SgeRix7KhRYIPqtMtUWNY98dYw=
+
+
+Name: res/drawable/loading_image1.png
+SHA1-Digest: 16x2p2NdLvWVNB7dkRxVw9avhyg=
+
+
+Name: res/drawable-nodpi/share_msg.png
+SHA1-Digest: AzOzfQL1uJEKgIo5uC0DDru6dJU=
+
+
+Name: res/drawable-nodpi/label_float.png
+SHA1-Digest: aEkPnC7faYphbNInkviNXiFhrZo=
+
+
+Name: assets/drawable-hdpi/weibosdk_notification_icon.png
+SHA1-Digest: aVvE0mGlVEZwd2hVHfQVJOjDmnk=
+
+
+Name: res/anim/push_right_out.xml
+SHA1-Digest: YbVd+y21pYOXZ+QNoTyvIelhLtE=
+
+
+Name: res/layout/t_main_item.xml
+SHA1-Digest: br3cugcNkKPiEl854XoFCpJ62zU=
+
+
+Name: assets/drawable-xhdpi/get_code_button.9.png
+SHA1-Digest: blO3z0kwjqah/ooWSSRS2fegSZM=
+
+
+Name: res/layout/list_item_image.xml
+SHA1-Digest: DDsze57l59zXg77f5kuISkO99xY=
+
+
+Name: res/layout/hotel_detail_item_roomitem.xml
+SHA1-Digest: 6e1HOq0xKx1PSE9atAPG4IvUIwk=
+
+
+Name: assets/main_icon_zoomout_dis.png
+SHA1-Digest: m3GfohDDe+ge31OgT78dtXkbWWs=
+
+
+Name: res/drawable-nodpi/point_gray.png
+SHA1-Digest: /pVOGj6OsY5E18q4DrJtt+TZCcw=
+
+
+Name: res/drawable/buy_style_personcenter_bg.xml
+SHA1-Digest: b5bpFK2cVSjDeF3NA+WrTFmk+Is=
+
+
+Name: assets/initFiles/1521793582788_828303.jpg
+SHA1-Digest: /8O3t/z+REhWcCvbs6nbWoQPSb4=
+
+
+Name: res/drawable-nodpi/circle_grey.png
+SHA1-Digest: 8iAFsIELoEgoYagXVyvYvM5KfA0=
+
+
+Name: res/drawable/dialog_bg.xml
+SHA1-Digest: XkhTu9WUQ1m02TSiFRFnCb++ayk=
+
+
+Name: org.jivesoftware.smack.experimental/experimental.xml
+SHA1-Digest: nAD28z/YbaQjDL8KXpp60pJelKc=
+
+
+Name: res/layout/info_myreleaseinfo_layout.xml
+SHA1-Digest: i0Afxwq0JWouUY+yfM0qhZtMBhw=
+
+
+Name: res/drawable/shape_solid_white_cornor.xml
+SHA1-Digest: cMV4iDMTzQ4Dch6caB/OoYDM7Rc=
+
+
+Name: res/layout/dyn_paysource_slide_singleitem.xml
+SHA1-Digest: smL6LBHtGomIxDO/dT+zfN93mFI=
+
+
+Name: assets/drawable-xhdpi/weibosdk_common_button_alpha.9.png
+SHA1-Digest: QfuS+znHWtI6Pb096PEhYQQzAg0=
+
+
+Name: res/drawable-nodpi/zlll.png
+SHA1-Digest: wYGJrzTnpJxeYXafRGZmbTMYMjU=
+
+
+Name: res/drawable-nodpi/p_buycard.png
+SHA1-Digest: nN8ZdCd+g3xheKFJ8g0JTQ+x0PM=
+
+
+Name: res/drawable-nodpi/icon_empty_product.png
+SHA1-Digest: KGFpTQBbVjS74m/vjExzQB9uWGg=
+
+
+Name: assets/cfg/a/satellitestyle.sty
+SHA1-Digest: 5ld7g4AJjIty68BF01gGBDGQliA=
+
+
+Name: res/layout/buy_productdetail_standard.xml
+SHA1-Digest: mtY3k6FjxiD/gJ/PBwtEZ9zpFNo=
+
+
+Name: res/drawable-nodpi/dyn_headbg.png
+SHA1-Digest: uFmKUgRo5yBnz0hjDb7/vNL+tvE=
+
+
+Name: assets/drawable-hdpi/common_button_white.9.png
+SHA1-Digest: GhCdbx6PAaiR5O/XfBlh6uIw96k=
+
+
+Name: res/drawable/liveservice_weather_bg.xml
+SHA1-Digest: eVu3ybLZ9HJL2S71Eok6ic8QEHA=
+
+
+Name: res/drawable-nodpi/image_editoricon11.png
+SHA1-Digest: ONjDmt+TJ9FUD7Otm+6O/IDhshk=
+
+
+Name: res/drawable-nodpi/image_editoricon49.png
+SHA1-Digest: hE6wyswm/FIIhnyBIo1e4uKnfuw=
+
+
+Name: res/drawable-nodpi/icon_company_trans.png
+SHA1-Digest: vm03fI1i9jJBALvzp2dkryROuPY=
+
+
+Name: res/layout/buy_payresult.xml
+SHA1-Digest: 6lut6CGZbyCSTxihPU/O+PetImA=
+
+
+Name: res/layout/xf_chat_history.xml
+SHA1-Digest: 128lZU1lFQC4u5n/jW6+hZlpxBw=
+
+
+Name: res/drawable-nodpi/slider_bar_red.png
+SHA1-Digest: zsfnmbFbPyUtODtDuclpl5LWjiI=
+
+
+Name: res/drawable-nodpi/camera.png
+SHA1-Digest: YwUbttq02VVbTHQwtc1k9/gXQDw=
+
+
+Name: res/drawable-nodpi/liveservice_detali_imb_share.png
+SHA1-Digest: 7FC1e+htXhu6omM6RoAoVHbXcAk=
+
+
+Name: res/drawable/style_sel_bg.xml
+SHA1-Digest: JQuNYAqTBigQlZcshLPmrPc7Uos=
+
+
+Name: res/drawable/bubble_background.xml
+SHA1-Digest: eTYLENPSu7mN87RefpiI3IpIauM=
+
+
+Name: res/drawable-nodpi/liveservice_reservations_time.png
+SHA1-Digest: Q6NGPqrcZmI2b2x7mvEv/Iy7K0o=
+
+
+Name: res/drawable-nodpi/image_editoricon30.png
+SHA1-Digest: Ty9rl+Ph0s5eXl3g0NEfxtpLJbA=
+
+
+Name: assets/drawable-hdpi/weibosdk_navigationbar_back.png
+SHA1-Digest: 1Fx9kX3NnTSg1sKMop+2mgdh/8A=
+
+
+Name: res/layout/hotel_detail_listitem.xml
+SHA1-Digest: 4XAe+tdJLUZqpFONWSFUfTvMqRE=
+
+
+Name: assets/Icon_line_node.png
+SHA1-Digest: dK/CGB9imvWReQfRrkGjiDX2mkI=
+
+
+Name: res/drawable-nodpi/buy_img_history.png
+SHA1-Digest: O1QOiujMyBeY1PmzhdgiHhFeVWw=
+
+
+Name: assets/cfg/h/DVSDirectory.cfg
+SHA1-Digest: sOaPWOFUuvEUjCsGXUO+73ZSNf0=
+
+
+Name: res/drawable-nodpi/reservation_location.png
+SHA1-Digest: iEbvKLVBLDQjO4IRHXN64qcM+Ic=
+
+
+Name: res/drawable-nodpi/rank_bar_bg.png
+SHA1-Digest: RKDP31t517gFz4NysvbSsnxju4I=
+
+
+Name: res/drawable-nodpi/icon_msg_service.png
+SHA1-Digest: oKj67ODC/p7/Wbq38jKTIEG+ctw=
+
+
+Name: res/layout/spread_exchange_product_layout.xml
+SHA1-Digest: WpudwKe8j9+U4vIpvfSx6tHeifE=
+
+
+Name: res/layout/buy_collectionmsg.xml
+SHA1-Digest: ssYXc9Hp8R2xMda9sCNa8gfYm24=
+
+
+Name: res/drawable-nodpi/icon_eye.png
+SHA1-Digest: B5chbNwhHkQymgnY1KcyAvxIzqY=
+
+
+Name: res/drawable-nodpi/dyn_msgbg.png
+SHA1-Digest: uv0IQWt67iwVV60MtWYJ3UGPeaY=
+
+
+Name: res/layout/slide_view_merge.xml
+SHA1-Digest: cu6yx9n5B8a3aJl0D43auYsFu10=
+
+
+Name: res/layout/spread_mall_layout.xml
+SHA1-Digest: LDnvhAO3cXj8fdTbhuI7naoqIAY=
+
+
+Name: res/drawable-nodpi/p_arrow.png
+SHA1-Digest: hqvLRPX7Po4i1AE7MaRdAH46MMo=
+
+
+Name: res/layout/buy_msgcommentitem.xml
+SHA1-Digest: h47BXCPgVQTIg4uyYPOQXIQCkeo=
+
+
+Name: res/drawable-nodpi/buy_img_email.png
+SHA1-Digest: LNFl80p+0bc91sjQYnngzH/Rc6U=
+
+
+Name: res/layout/liveservice_pay_detail.xml
+SHA1-Digest: zwZSyx9XCiaIaLLbmOdBJX5RFoQ=
+
+
+Name: res/layout/info_orderpay_layout.xml
+SHA1-Digest: vPwhYsaugmprN39UIYa1cOUcbqA=
+
+
+Name: res/drawable/red_shape_style2.xml
+SHA1-Digest: YcP4z8rDcSSoFkeUtreV0G6k1DA=
+
+
+Name: res/drawable-nodpi/bubble_backgroundn.9.png
+SHA1-Digest: JDhOL/+v5lveN+PXlMud3Jc6jbc=
+
+
+Name: res/anim/rotate.xml
+SHA1-Digest: 1TgidtGHUT41euxm/GvVfID5RtE=
+
+
+Name: res/layout/selfview_banner_item2.xml
+SHA1-Digest: nSaRmt0jDM0z8rg8CDnvDdCiPk8=
+
+
+Name: res/drawable-nodpi/loading_image4.png
+SHA1-Digest: wHemxku0mznuuj5qD852/gMoQHQ=
+
+
+Name: res/drawable-nodpi/t_edit.png
+SHA1-Digest: E18GsbzcVOUylYlp0DOnZxy2O+Q=
+
+
+Name: res/drawable-nodpi/dyn_logintitlebg.png
+SHA1-Digest: ma+4Fxxpxxler/p2veW0xYvDf9Q=
+
+
+Name: res/layout/buy_ordermanager.xml
+SHA1-Digest: bgQ1ke9Bp2kbGBypQCIcw8396c8=
+
+
+Name: assets/drawable-ldpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: K/kUN8WUKzwZfXiS+GGgFcVb/ok=
+
+
+Name: res/drawable/goods_attr_unselected_shape.xml
+SHA1-Digest: nJpebPGchHmwJrzEYBi5g/yB0O8=
+
+
+Name: res/drawable-nodpi/buy_comment.png
+SHA1-Digest: 1Ay4mG6FRrTEjT/1YwHkS/vCMEk=
+
+
+Name: res/drawable-nodpi/p_btn_notgetmsg.png
+SHA1-Digest: ea47TGUad81U7ssX3/f0+B7cL18=
+
+
+Name: res/drawable-nodpi/icon_trash_white.png
+SHA1-Digest: 8XNbjQ779Un4svZwZRFYPd2KKgQ=
+
+
+Name: res/layout/x_chatlist.xml
+SHA1-Digest: sY0yPlLHpBIBV+rZZUM9GSYeZas=
+
+
+Name: res/drawable-nodpi/gallery_bottombar_pre.png
+SHA1-Digest: jgyrP7WwUZaqL6lnDI+ns0ezVy0=
+
+
+Name: res/layout/spread_member_list.xml
+SHA1-Digest: IUs8M6cwrq5881Y0qsUi8A0n0bY=
+
+
+Name: res/layout/s_msg_top.xml
+SHA1-Digest: ZCDBMan8vkXRxJyC7ZPmqEfOCCE=
+
+
+Name: res/drawable/indicator_selected.xml
+SHA1-Digest: XoUzKcuiX0u7Cbe9d5t+ECexOs4=
+
+
+Name: res/drawable-nodpi/buy_img_password.png
+SHA1-Digest: FUSB+M5msiT4Q7jzkQN49xWWbsI=
+
+
+Name: res/drawable-nodpi/t_more_back_n.png
+SHA1-Digest: LV2I3li3k7CPwPByqHOL7XGrDYw=
+
+
+Name: res/drawable-nodpi/login_layout_2_btn_011.9.png
+SHA1-Digest: oDozr4g1aKWsA34A8iwutsBFdcA=
+
+
+Name: assets/countryCodeTw.txt
+SHA1-Digest: VklWca+CgzqRpRU48iPapxEK/AI=
+
+
+Name: res/drawable-nodpi/clean.png
+SHA1-Digest: //GOcyorAPukNUtvoT/CVO/sKKE=
+
+
+Name: res/anim/push_left_in.xml
+SHA1-Digest: Y4DDDoO4jAxEMIc/8kw1xymv2ag=
+
+
+Name: assets/initFiles/1521794088669_182555.png
+SHA1-Digest: HC2bb/UWXG2lF8fH26UKhpXkq6w=
+
+
+Name: res/layout/t_msglist.xml
+SHA1-Digest: q1Vy5djiO0A1LtXBnxDoFQms5s4=
+
+
+Name: assets/drawable-xhdpi/common_button_big_blue.9.png
+SHA1-Digest: Zv/84ctPRlwdAgYKyGJC2EpkQOo=
+
+
+Name: res/drawable-nodpi/buy_btn_register.png
+SHA1-Digest: iOaKxWujjJxq4d8Yx8UMj633vGI=
+
+
+Name: res/drawable/loading_image7.png
+SHA1-Digest: JB8EGs+auMn7VMDvSBvGmGcTxnc=
+
+
+Name: res/drawable/shape_pass.xml
+SHA1-Digest: 6zGmdzmEIROpa5lAcONmameBLZA=
+
+
+Name: res/drawable/indicator_normal.xml
+SHA1-Digest: PjfqUt/bYPdXoRZEdy4H2cdH+j0=
+
+
+Name: res/drawable-nodpi/mp4_pause.png
+SHA1-Digest: kWNpRdtfBllmkloSo1d0BgvRllA=
+
+
+Name: res/drawable-nodpi/icon_emoji_bad_selected.png
+SHA1-Digest: zvb4DlJ87hQGNIKm0XROYAVMUQQ=
+
+
+Name: res/layout/buy_suborderresult.xml
+SHA1-Digest: D+9xPQJGGmV0Mc/Ud+y/qHM3msY=
+
+
+Name: res/drawable/goods_attr_selected_shape.xml
+SHA1-Digest: U7wGl5163FtM6UYy1jtGEY34fQY=
+
+
+Name: res/drawable-nodpi/landscape.png
+SHA1-Digest: L4ER85nwEckGp9fH2/6fp7eICHM=
+
+
+Name: res/drawable/shape_gray_top_cornor.xml
+SHA1-Digest: RViDHVM6x4d+meP77a/dTgiIclI=
+
+
+Name: res/layout/info_pic_select_gridview_item.xml
+SHA1-Digest: fmZEWzhtnoDyPG1gQ0Dsk9LLyaQ=
+
+
+Name: res/drawable-nodpi/image_editoricon35.png
+SHA1-Digest: Huv2ooar4vkj8cVh5Vs65PWZZMk=
+
+
+Name: assets/initFiles/1521794017907_872094.png
+SHA1-Digest: LDIB3Xt0bNu1nLtnUTmqLUC8PEc=
+
+
+Name: res/drawable-nodpi/share_msg_n.png
+SHA1-Digest: DCmYEym0nmLaPMEtAa2w6EQbsyA=
+
+
+Name: res/drawable-nodpi/p_checksel.png
+SHA1-Digest: SQKh6sxPl35G2U2gcVverDvxXXY=
+
+
+Name: res/drawable/shape_white_grayline.xml
+SHA1-Digest: i/LAikqcKXvorKk7A3Cvi/b8j/c=
+
+
+Name: res/drawable-nodpi/t_floor_host2.png
+SHA1-Digest: 5PegVjDFxI44xcWbJvv3tOmgYbg=
+
+
+Name: res/drawable-nodpi/soft_starblack.png
+SHA1-Digest: IoEGvCcsjLL6TqwCZ8uRwZTzntk=
+
+
+Name: res/drawable-nodpi/selector_indicator.png
+SHA1-Digest: 24R3SFyKHceCG+3TbBCQfeEEzrs=
+
+
+Name: res/drawable-nodpi/loading_image1.png
+SHA1-Digest: 16x2p2NdLvWVNB7dkRxVw9avhyg=
+
+
+Name: assets/drawable-xxhdpi/get_code_button.9.png
+SHA1-Digest: pRMGYVLNMlgZl81JK7PCh0zsjzg=
+
+
+Name: res/drawable-nodpi/dyn_phone.png
+SHA1-Digest: Pkg/rvUGHmCKocYVgx0/hFYBk1A=
+
+
+Name: res/drawable-nodpi/icon_discount.png
+SHA1-Digest: OYklnm/R+YTze8imuEbknkme7o0=
+
+
+Name: res/drawable/product_virtual_shape.xml
+SHA1-Digest: K2k/Du9gYujoj6/oJvcgfUNWD6E=
+
+
+Name: res/layout/info_release_dyn_pic_selector.xml
+SHA1-Digest: o7juqSDLWaZHyKpL/C00G/fi8Xk=
+
+
+Name: res/layout/hotel_reserve_detailmsg.xml
+SHA1-Digest: fXeo2QzuE4HbYzHHQZSZLMmKGac=
+
+
+Name: res/drawable-nodpi/triangle_up_red.png
+SHA1-Digest: pDs4U7bMPM7wjhaYB18Q3x03MXY=
+
+
+Name: res/drawable-nodpi/p_reg.png
+SHA1-Digest: xzGQU1niD51GLUcRdfslgXiZAkM=
+
+
+Name: res/drawable-nodpi/soft_downsel.png
+SHA1-Digest: 51d3IGcebHg9ktVd6pw2MfY3sko=
+
+
+Name: res/layout/dyn_search5007.xml
+SHA1-Digest: Y0qJvLzPoyFKXGwOdpcaJCIFsfo=
+
+
+Name: res/layout/dyn_pay_source_base.xml
+SHA1-Digest: bYyRR4/kLS08I/PMYHoLAbjcgkE=
+
+
+Name: res/layout/dyn_paysource_orderpay_item.xml
+SHA1-Digest: PswaHLEvUR9JCZifUZzUeY+DgJU=
+
+
+Name: res/drawable-nodpi/dyn_address.png
+SHA1-Digest: FhkenV+NvuMTqinMVhbOUKswmbM=
+
+
+Name: res/drawable-nodpi/p_vertifyphone_gray.png
+SHA1-Digest: ghu2YMU52v4lOXuiI9JMp/oS7jU=
+
+
+Name: res/drawable-nodpi/icon_address_.png
+SHA1-Digest: Ab5PV7mDgAnUsWHLcHsvX3A1LJo=
+
+
+Name: res/drawable-nodpi/ico_superadmin.png
+SHA1-Digest: P3gXBGvsnjiC/i29sQouH6+3+YI=
+
+
+Name: assets/cfg/a/CustomIndex
+SHA1-Digest: dGutVIfNVEsKscctYdvHTP3ac9s=
+
+
+Name: res/layout/overlay_popup.xml
+SHA1-Digest: Tcxss/xBVcaBi3xWUNKELCGtFTQ=
+
+
+Name: res/layout/xf_newfriend.xml
+SHA1-Digest: fV3NySzXTbwDD4xOXOW/ZphxI4w=
+
+
+Name: res/drawable-nodpi/checkbox_false.png
+SHA1-Digest: N8nExvM91ZnMvWl4f3I5ft+yTDI=
+
+
+Name: res/drawable-nodpi/icon_fav_checked.png
+SHA1-Digest: iI0Fjw+RF44Kz4kdsoPxaeLwer0=
+
+
+Name: res/drawable/shape_up_corner.xml
+SHA1-Digest: bdc7Ps6T0xHsTYw1/Uw7p/UVZGo=
+
+
+Name: res/drawable-nodpi/icon_circle_fav.png
+SHA1-Digest: D4p5ZZ70mVfhww0c0/1V/nAnHws=
+
+
+Name: res/layout/liveservice_appointment_detail.xml
+SHA1-Digest: EDV3sIz+bxqR/KCVZ0Gkms8cK/c=
+
+
+Name: res/drawable/shape_orange_stroke.xml
+SHA1-Digest: 1oe3ESo1qw5hZg6RVvKsMmWQDZs=
+
+
+Name: res/layout/dyn_product5013.xml
+SHA1-Digest: sUJHTF0jDo5+LmNXXoUqVBLCQBY=
+
+
+Name: res/layout/shop_rightlistview_stict.xml
+SHA1-Digest: fD1zAbH+WmSc3EfEXaWr16f7Qp8=
+
+
+Name: res/layout/dyn_flipper_item_layout.xml
+SHA1-Digest: peSFam97KUQZmL8C4ITRUB9Z7jw=
+
+
+Name: res/drawable-nodpi/icon_fav_news.png
+SHA1-Digest: 0AQrx9utiHTja/OsGeMyGDVvx/I=
+
+
+Name: res/drawable-nodpi/buy_updown.png
+SHA1-Digest: xUN3mh4fwZ8g7Ypsu+ZqTmsgcVo=
+
+
+Name: res/drawable-nodpi/menu_about.png
+SHA1-Digest: n+ITqwcwezoqmVtJOF/J+p/2OsE=
+
+
+Name: res/drawable-nodpi/icon_spread_nextprevilege.png
+SHA1-Digest: mLJx89f7MEZp343KHxPt5fuQl2E=
+
+
+Name: assets/drawable/sdk_weibo_logo.png
+SHA1-Digest: rW8UPTPzFCloGCi9aDYH0RNdKfM=
+
+
+Name: res/layout/liveservice_specification.xml
+SHA1-Digest: TY5Ob6ZRcvhG12qaioLWdjKuboM=
+
+
+Name: res/layout/buy_orderdetail.xml
+SHA1-Digest: 5qt1qKBHVaQ6vPG+yuviZ7D22kU=
+
+
+Name: res/layout/t_collectionlist.xml
+SHA1-Digest: TyzheJY+qdBW60LQD0yp2mCl7sE=
+
+
+Name: res/drawable-nodpi/image_editoricon34.png
+SHA1-Digest: RvPjy/90YqwvzUM+ZF3/QfAviiU=
+
+
+Name: res/drawable-nodpi/icon_emoji_best.png
+SHA1-Digest: x7SgfAu5sYx911Zt8lq7v3utvFc=
+
+
+Name: assets/initFiles/page_19a18adf-047a-43f3-9c3e-a7cd1cbb6dbe.json
+SHA1-Digest: P2rPsrqv1+9YIbED3vft5LDStEc=
+
+
+Name: res/layout/loaddata.xml
+SHA1-Digest: jwN/cEjPeKHrxt4wjKDyhK0twic=
+
+
+Name: res/layout/p_findpass_sms.xml
+SHA1-Digest: D9Xg9QwRTMTVu20Kj0q6eqvSWig=
+
+
+Name: res/drawable-nodpi/icon_image.png
+SHA1-Digest: WlBXZQngd/dPIZ51nRKeYJIrLtA=
+
+
+Name: res/drawable-nodpi/p_delcache.png
+SHA1-Digest: TI3yUGPv4TbXPu9xsQr9Y3oPqLY=
+
+
+Name: res/drawable/tb_circle_corner.xml
+SHA1-Digest: MsDc4GkhHa2bifMVVkDKxSPg4As=
+
+
+Name: res/layout/alimama_coupon.xml
+SHA1-Digest: XaSPfSOt/eCqUtQcKlPt0o8GDtc=
+
+
+Name: res/drawable-nodpi/icon_notice.png
+SHA1-Digest: V4wyu8p1byYtiOY96QOEy7+r4Bc=
+
+
+Name: res/drawable-nodpi/icon_play.png
+SHA1-Digest: 1NVuGB8cHVCQ/vNlkc4rdcR8Mkc=
+
+
+Name: res/drawable-hdpi/bg_waiting.png
+SHA1-Digest: mC0aADMj/xGgPiVKRZnFjLtO4Sc=
+
+
+Name: assets/Icon_mark5.png
+SHA1-Digest: fhXU60vSeWOscJdoLYlS5RHB4xU=
+
+
+Name: res/drawable-nodpi/soft_yellowpoint.png
+SHA1-Digest: f2EGlHNswN50l2YG1rrDWcmoG1E=
+
+
+Name: res/drawable-nodpi/buy_delete.png
+SHA1-Digest: hCve6T69BhC18H+QNwC7jqyemtU=
+
+
+Name: res/layout/buy_ordertemplist_item.xml
+SHA1-Digest: dJVZnuB7pBvIu85LVQqbEiviG+o=
+
+
+Name: res/layout/s_product_top.xml
+SHA1-Digest: kHBESwVt2Hq/1xaBRWHjqmRS33Y=
+
+
+Name: res/drawable-nodpi/buy_btn_cut2.png
+SHA1-Digest: xa8AYXFC0NYImESiAv3HduxFyHM=
+
+
+Name: res/layout/dyn_gather_product5051.xml
+SHA1-Digest: RrSRl3MkyrZEB3NUM1NCEPI4d+E=
+
+
+Name: res/drawable-nodpi/icon_service.png
+SHA1-Digest: Pi1m8gmzX4d6+80uLrprpKiLKWU=
+
+
+Name: res/drawable-nodpi/t_menubg.png
+SHA1-Digest: 5DmtSUTqGAbeL7r4CkvnW7Ro4ck=
+
+
+Name: res/drawable-nodpi/webviewtab_refresh_pressed.png
+SHA1-Digest: yAZiLuZbilNCHjRjqJPrem1eB/U=
+
+
+Name: res/drawable-nodpi/img_map.png
+SHA1-Digest: 29IO9UFz9r8lY2v2j+agSmAnikQ=
+
+
+Name: res/drawable-nodpi/wechat_payment.png
+SHA1-Digest: EGeFtcTsoUVbCAAb8WkvWmtC/zM=
+
+
+Name: res/drawable-nodpi/t_delete_white.png
+SHA1-Digest: MrfTBdXZ+dexsRMZqIameHzhiB0=
+
+
+Name: res/drawable-nodpi/icon_order_yello.png
+SHA1-Digest: X8h/hufr+TY65QSt6cNHc0AP0vk=
+
+
+Name: res/drawable-nodpi/buy_product_msgsend.png
+SHA1-Digest: Exx/dZ3fY/vrZII3/MEuWA/RBN4=
+
+
+Name: res/layout/mybtnclick.xml
+SHA1-Digest: 9YOK9pwcGep6WyJ1faNzlbkjmNk=
+
+
+Name: res/drawable-nodpi/icon_hotel_notsure.png
+SHA1-Digest: 4q4Hi4O4Pioytb6Vgiw8h5Hneh4=
+
+
+Name: res/drawable-nodpi/icon_detail.png
+SHA1-Digest: Ch1s9Ct21LH/pj9TRh+ZlOE+Kgk=
+
+
+Name: res/drawable-nodpi/buy_code.png
+SHA1-Digest: PjDmUSI+KHpxSoxhCoJ1XSLWvh0=
+
+
+Name: res/drawable-nodpi/image_editoricon45.png
+SHA1-Digest: NBurXAtEW3x4Y85t+5h84bnqKaA=
+
+
+Name: res/layout/p_login_2.xml
+SHA1-Digest: vcrMZtKV98KxmR3LBurtVDy6yBk=
+
+
+Name: res/drawable-nodpi/shop_next.png
+SHA1-Digest: XwjUtWhxXmAWay0Z99dlDzfrRvU=
+
+
+Name: res/drawable-nodpi/buy_btn_buycarsel.png
+SHA1-Digest: OZ93vXpuiX85DPg2YL90cQrxM4A=
+
+
+Name: assets/Icon_road_green_arrow.png
+SHA1-Digest: 7SiwhSFNOH0S3qFMlVc7ra7cVac=
+
+
+Name: res/layout/t_mycomment_item.xml
+SHA1-Digest: JhyPMAIZXAFjUZMnHFx1+xdP4SA=
+
+
+Name: res/drawable-nodpi/t_more_reverse_s.png
+SHA1-Digest: QHzUAZgJbcB0m1gsT4tqypMUbcs=
+
+
+Name: res/layout/list_item_folder.xml
+SHA1-Digest: glFas8/5ctaD44OadGFAsL+kpm8=
+
+
+Name: assets/main_icon_zoomin.png
+SHA1-Digest: MDS6SJ5t2e2iKxiwctOiuZ38u6U=
+
+
+Name: res/drawable-nodpi/login_layout_2_btn_051.9.png
+SHA1-Digest: kSxsmtZseb5/nhhUMGIw97V3XKw=
+
+
+Name: res/drawable/loading_image0.png
+SHA1-Digest: u+mc3oG5RDLD6aomgiusbY4SJfs=
+
+
+Name: assets/Icon_end.png
+SHA1-Digest: LBMaCfaSy+zZcqGqKqu/dkvhnK0=
+
+
+Name: org.jivesoftware.smack/version
+SHA1-Digest: 78sQJUHeD1+y+9euIoxwUof+w/E=
+
+
+Name: res/layout/cmp_customer_actionbar.xml
+SHA1-Digest: mrZx38j0SF2N8xH7TINkZoBL8e0=
+
+
+Name: res/drawable-nodpi/p_btn_getmsg.png
+SHA1-Digest: gsZxxQRAkV0M9hG+odtqFnUmjeY=
+
+
+Name: res/drawable/loading_image5.png
+SHA1-Digest: NAMfIvx9vXSy3w3P1O0VgFo601Q=
+
+
+Name: res/drawable-nodpi/btn_gallery.png
+SHA1-Digest: O4YNJNkRX4Jd6BFxOyzRW4R5o8E=
+
+
+Name: res/layout/dyn_gather_product_item5053.xml
+SHA1-Digest: SSZHgIqNdEbjQm7YcPtnec+g9P8=
+
+
+Name: res/layout/s_msg_item5021.xml
+SHA1-Digest: 6SW81LIg4ilF6f5ogueUu7bUlxA=
+
+
+Name: assets/Icon_start.png
+SHA1-Digest: U0bO85R4iXAolnKrTCo/XWsbh5Q=
+
+
+Name: res/layout/t_main_content.xml
+SHA1-Digest: k2u4Kli9dB53udqbCjNkJ6Q53So=
+
+
+Name: res/drawable/shape_sign_type2.xml
+SHA1-Digest: UQbMdUe92dunTdXYXMgEagU436U=
+
+
+Name: res/drawable-nodpi/liveservice_smile.png
+SHA1-Digest: wBSCs3rSF+n+Vtw4LQqWW9jFkL0=
+
+
+Name: res/drawable-nodpi/dyn_rec_l.png
+SHA1-Digest: X3OJgy0BHdxs7adGUGmfceetlv0=
+
+
+Name: res/drawable-nodpi/login_close.png
+SHA1-Digest: 3sWmBAVAxP1ysDZZiDWhEXF3B9o=
+
+
+Name: res/anim/t_scale_out.xml
+SHA1-Digest: Tp3CV5BTj9jBEtmFQP4cXktZv/w=
+
+
+Name: res/layout/spread_member_list_item.xml
+SHA1-Digest: nuMV7q9im0VoADCOkmk5KnWyqh0=
+
+
+Name: res/drawable-nodpi/icon_tips.png
+SHA1-Digest: VTkWnvijkn874LUmcpVt3ZOQYTQ=
+
+
+Name: res/drawable-nodpi/icon_shopping_coupon.png
+SHA1-Digest: 2v8I4wW1Wp5jU1GPVtsi3f+o1ws=
+
+
+Name: res/layout/dyn_product_item5005.xml
+SHA1-Digest: KQGzTv1Rw2Jk1u+hc2Rnb3xWFfU=
+
+
+Name: org/xbill/DNS/windows/DNSServer_fr.properties
+SHA1-Digest: W3+Cx3VEfUJ7UbqxeJPAU/8jl7M=
+
+
+Name: res/drawable-nodpi/btn_blue.9.png
+SHA1-Digest: Hk48LRFIz85ZsJJ8/C4VFklryT4=
+
+
+Name: assets/initFiles/1521793668694_397261.png
+SHA1-Digest: sP6giRa4I6B3poonbycHsGRwCq0=
+
+
+Name: res/drawable-nodpi/p_eye_show.png
+SHA1-Digest: HXIIYcqIKKdR7poumcPniAnmhJs=
+
+
+Name: res/drawable-nodpi/dyn_mask_l.png
+SHA1-Digest: P5sP9JAGIG/j8mrK7/0UT9tnhOI=
+
+
+Name: res/drawable-nodpi/buy_btn_delete.png
+SHA1-Digest: Djf60D6dZdMtzMLyn3MnGTz9ccg=
+
+
+Name: res/drawable/shape_liveservice_comm_big_no.xml
+SHA1-Digest: D1HLzGX9tObMjD4slmcxuo42xYY=
+
+
+Name: res/layout/xf_valiate.xml
+SHA1-Digest: HzQ1bhcSReIsbmcvQXoDW84A+XU=
+
+
+Name: res/drawable-nodpi/person_icon_setting.png
+SHA1-Digest: IQOeylRvtTvufw91b6UfcD8HOWQ=
+
+
+Name: res/drawable/buy_style_buycar.xml
+SHA1-Digest: GS0aQ06HHmf2FjWhK6bLUWwTFKs=
+
+
+Name: res/drawable-nodpi/image_editoricon4.png
+SHA1-Digest: EpTSQ1SoL6ufzSjPZWGm3CWx1zs=
+
+
+Name: res/drawable-nodpi/onekey_more_default_back_btn.png
+SHA1-Digest: D/HDbSkT+N+VgmXvs0CXTKMraQY=
+
+
+Name: res/drawable-nodpi/label.png
+SHA1-Digest: 30Q4rjQRUN9hAxUF3AvHGcb63IM=
+
+
+Name: res/drawable-nodpi/icon_next_yellow.png
+SHA1-Digest: WLOc0M8voBAcQ4UIb5d6HRKYTB0=
+
+
+Name: res/layout/buy_temporder_item_new.xml
+SHA1-Digest: dtleVtK0J4JA4WV/qRWGoaCaI6k=
+
+
+Name: res/drawable-nodpi/icon_info_publish.png
+SHA1-Digest: 8VpHqVtBRbvjIXCrPBvDOzmEH6o=
+
+
+Name: res/layout/t_edit.xml
+SHA1-Digest: QkLRZf6D2B6+w9eNNSAc5jObpcI=
+
+
+Name: res/layout/dyn_rssitem5003.xml
+SHA1-Digest: Sb1iiTUEys9ioeNp6792MBarzis=
+
+
+Name: res/drawable-nodpi/icon_paytype.png
+SHA1-Digest: UZIlPLc9G9djI0eLicMrM1vtSUE=
+
+
+Name: res/layout/dyn_msgitem5010.xml
+SHA1-Digest: vRNhELC4PwS1peWw1yguHRUao4s=
+
+
+Name: res/drawable-nodpi/t_top.png
+SHA1-Digest: EhAxbjqe1CHeKO98dU+y4Qw6bac=
+
+
+Name: res/drawable-nodpi/menu_shadow.png
+SHA1-Digest: Uuy9BaxfopxdqwGbe4o/Nna1oFc=
+
+
+Name: res/layout/buy_personinfo2.xml
+SHA1-Digest: iDG3WKnuERY+GfdC4qqj1XemBNo=
+
+
+Name: res/layout/share_qzone.xml
+SHA1-Digest: nuJs4G1/c9APJ8U62iVoIusUAkU=
+
+
+Name: res/anim/left_in.xml
+SHA1-Digest: n6ilyn6VKuOe7Gk+PXeAdPmPtFM=
+
+
+Name: res/layout/hotel_comm_detail_layout.xml
+SHA1-Digest: 19Qp1f+6F+H1Y5W9dzjnK1mPl4M=
+
+
+Name: res/drawable-nodpi/icon_info_yellow.png
+SHA1-Digest: b8SWk4/LfaKaD6gFyYOk36U35/M=
+
+
+Name: res/layout/dot.xml
+SHA1-Digest: 1pthkmwaqsG53ir0mehddJNanLQ=
+
+
+Name: res/drawable-nodpi/share_weixin_c_n.png
+SHA1-Digest: VVdXZd0sa9wcUOU7nvjnrUshNLQ=
+
+
+Name: res/drawable-nodpi/dyn_eye2.png
+SHA1-Digest: 5yXt04HltRBBJcxUnkoRmQua1m8=
+
+
+Name: res/drawable-nodpi/chat_icon_service_white.png
+SHA1-Digest: SbZ0w+ppWRXt3eD5WAcoX9tzbh4=
+
+
+Name: res/layout/shop_product_fragment_right_item.xml
+SHA1-Digest: o4jcYOE1O20fH/lzD4FvSN+cXCM=
+
+
+Name: lib/armeabi/libliteavsdk.so
+SHA1-Digest: fISL4aUYc9dkv5q/6cnHsLm4cVY=
+
+
+Name: res/drawable-nodpi/liveservice_myappointment_search.png
+SHA1-Digest: wayLMbwtIKPQXzRA2jm2EnWYnA0=
+
+
+Name: res/drawable-nodpi/t_del_emjo.png
+SHA1-Digest: sCyUXKglHlGRATucDVAlRI7hkKo=
+
+
+Name: res/drawable-nodpi/liveservice_reservations_add.png
+SHA1-Digest: /OBgiXknv/MOky4D64jczhgFDcc=
+
+
+Name: res/drawable-nodpi/buy_recom.png
+SHA1-Digest: DCW3jzkHuMQvUSELnwdsoejrlqM=
+
+
+Name: res/drawable-nodpi/state_readysend.png
+SHA1-Digest: NxaysCzDc7ZnsXG6dXlSa6gvqws=
+
+
+Name: res/drawable-nodpi/image_editoricon36.png
+SHA1-Digest: 0O9/IIugzmFaa7d7KudBaGJ3B/o=
+
+
+Name: res/layout/buy_temporder_new.xml
+SHA1-Digest: 2m/vOcmUPRabrdMKDKLqQieuaT0=
+
+
+Name: res/drawable-nodpi/dyn_hot_l.png
+SHA1-Digest: x2bAtfXAbe6pE/lUt1/byFAHIGY=
+
+
+Name: assets/Icon_subway_station.png
+SHA1-Digest: 8FR6NAAChDPCs8r2j53QSLY4GQg=
+
+
+Name: res/layout/buy_couponcard.xml
+SHA1-Digest: vMuFLDpuv3C+Bxo6fhqTba+iDmg=
+
+
+Name: res/drawable-nodpi/t_back_new.png
+SHA1-Digest: inmC51IpoHeOv93YgnNKiyunyA0=
+
+
+Name: res/layout/s_productbaseinfo.xml
+SHA1-Digest: ROzQJX5/khzaKtd0bDry7Yhskow=
+
+
+Name: res/layout/buy_vipcard_detail.xml
+SHA1-Digest: +vsfxSEmzgxc0CFo0VVzOKkK1eo=
+
+
+Name: res/layout/payread_buylist_item.xml
+SHA1-Digest: Unq4Y4ITpcdZ4ixrTh+y7NQMUtk=
+
+
+Name: res/drawable-nodpi/bg_userinfo.png
+SHA1-Digest: 4Z4LwCZRxUvlmzubwiCw+2GMlMQ=
+
+
+Name: res/layout/spread_product_list_item.xml
+SHA1-Digest: Cnx5VY6WpBL7i/F0XtPrfrVsT+o=
+
+
+Name: res/layout/liveservice_online_payment.xml
+SHA1-Digest: vJJmnZY6Y+oLjgQnL48l1ljBUSw=
+
+
+Name: res/drawable-nodpi/icon_new_spread.png
+SHA1-Digest: 9f5VrJhoS92b9Tn0i4jsRE6m90g=
+
+
+Name: res/drawable-nodpi/image_editoricon22.png
+SHA1-Digest: ViBFZdnE8kT+WrCISvc2CI4rcfs=
+
+
+Name: res/drawable-nodpi/dyn_hot.png
+SHA1-Digest: r7gaGGVgTiheEU82765ItN+ORto=
+
+
+Name: res/drawable-nodpi/x_outgoing.9.png
+SHA1-Digest: bXi99S8s8s7C6NOZo892YAhsGVQ=
+
+
+Name: res/layout/hotel_head_stick.xml
+SHA1-Digest: 5subnVXdq/szve7/G+/OKRz02N0=
+
+
+Name: res/layout/s_together.xml
+SHA1-Digest: +u97wThNAgvYTdmVSPeL05BjvnE=
+
+
+Name: res/drawable-nodpi/icon_coupon_used.png
+SHA1-Digest: qtnbVvCV/+7NjTMMb6zWaeONZ7g=
+
+
+Name: res/drawable-nodpi/bg_checkbox_checked.png
+SHA1-Digest: /5TJPLb3JZoiQ/3cptR4XSJqENA=
+
+
+Name: res/drawable-nodpi/t_more_pb_bar.png
+SHA1-Digest: kIcpfwaqgImpcT69cSag6+wY1aM=
+
+
+Name: res/layout/pulldownlistview_foot.xml
+SHA1-Digest: 3JRDxciR/Q62DyVfM5IgLTnekGc=
+
+
+Name: res/anim/reverse_anim.xml
+SHA1-Digest: xwLvamIQIxZAQf9PA6qVuSiKXIU=
+
+
+Name: res/layout/t_topiccomment_item.xml
+SHA1-Digest: t0g7kzCzx7aU8u1hkS0m6ukiVgA=
+
+
+Name: res/drawable-nodpi/login_layout_3_icon_1.png
+SHA1-Digest: bCL6qYYNFefSpP8WxRH8anmlRtA=
+
+
+Name: res/drawable-nodpi/buy_btn_login.png
+SHA1-Digest: llyALlGZgfjpPjx5eIr34YX3Dco=
+
+
+Name: res/drawable-nodpi/t_posts_camera_d.png
+SHA1-Digest: uTpohfdy4M3hqLBqCALHFVYEduE=
+
+
+Name: res/drawable-nodpi/xf_icon_person_detail.png
+SHA1-Digest: HaSOWTAqiTe+o5h6Onj30+UR1V8=
+
+
+Name: res/layout/hotel_detailmsg_layout.xml
+SHA1-Digest: r/F/K9sFLdaMF6yKhn2GphJz5XY=
+
+
+Name: res/drawable-nodpi/def_pic_186.png
+SHA1-Digest: /CzvzDcKDcExIS7NEgOy+GASaZw=
+
+
+Name: res/drawable-nodpi/menu_checkupdate.png
+SHA1-Digest: cDmMiLZcWqfaQZEGGcbG8VP+2HY=
+
+
+Name: res/drawable-nodpi/et_arrow.png
+SHA1-Digest: uxMNmt0RMfdBDw8/V3CfgE4Jijs=
+
+
+Name: res/drawable-nodpi/p_secret.png
+SHA1-Digest: ADIvFbWxT9GhGIaydevs8WlBOlo=
+
+
+Name: res/layout/self_mapview.xml
+SHA1-Digest: HGuX28Tbm2BqKT4Of8QGqBg78F8=
+
+
+Name: res/layout/hotel_comm_list_filterroom.xml
+SHA1-Digest: Zo+zw1i/8fX3Dr/fME/FU0kPkS8=
+
+
+Name: assets/lineDashTexture.png
+SHA1-Digest: +/nYUlVgUpTAXggl82nRmgpS0Bw=
+
+
+Name: assets/pinyinindex
+SHA1-Digest: KsVt2z0Hd1AbEuoIXM/2Jxxv0vg=
+
+
+Name: org/xbill/DNS/windows/DNSServer_ja.properties
+SHA1-Digest: kbXeMCSyQeZ2SpYf1lwkvf9UZRU=
+
+
+Name: res/drawable-nodpi/share_weibo_n.png
+SHA1-Digest: 38h/evwKVcQzTxhfOvK4wuU17wY=
+
+
+Name: res/drawable/shape_tran_bigcornor.xml
+SHA1-Digest: ZE8XJ/HBaUoyuZae0SmcH3sx0oo=
+
+
+Name: res/drawable/liveservice_specification.xml
+SHA1-Digest: 5iDJEp0lWuSMDLLKLxxpSLdrb2I=
+
+
+Name: res/layout/xchat_emo.xml
+SHA1-Digest: gq1o60Ah66rFl2yJiaqLlq6Ogcg=
+
+
+Name: assets/drawable-xhdpi/common_button_white_highlighted.9.png
+SHA1-Digest: /dMYCuW+4uu+jdLhG+XN4KPLMKU=
+
+
+Name: res/anim/dd_menu_in.xml
+SHA1-Digest: 9kI+UWi310rfdK2JzD1NvUpgZ14=
+
+
+Name: res/drawable/shape_gold_cornor_circle.xml
+SHA1-Digest: UNjMk4wAONngSGNIVAvLYpa8HMI=
+
+
+Name: res/drawable-nodpi/icon_liveservice_refund.png
+SHA1-Digest: GYj38ezjch/I4PxoNTHYLI96Tx4=
+
+
+Name: res/layout/hotel_reserve_orderlist_layout.xml
+SHA1-Digest: nLWyeMwEcDJsbe2oopS9P+KSRVQ=
+
+
+Name: res/layout/consumption_code_cell.xml
+SHA1-Digest: gcAoXWJ7NtpfTtBviIdanozw/0c=
+
+
+Name: res/layout/dialog_onebtn.xml
+SHA1-Digest: 6BL8Q57YGljbthQ3VOhaQ/x2Fbc=
+
+
+Name: res/layout/p_login_3.xml
+SHA1-Digest: JK0kWfkdAk2ZiMLxdqtXV59aQC0=
+
+
+Name: res/drawable-nodpi/icon_fav_white.png
+SHA1-Digest: VcvFUPlC/uE7V9efIu/w2GOMRYM=
+
+
+Name: res/anim/dd_menu_out.xml
+SHA1-Digest: OWHQGpN/cngY9v81eyiXGZqTjGI=
+
+
+Name: res/drawable-nodpi/pulltorefresh_circle.png
+SHA1-Digest: lrkXh8AVZi4ynNT1gvEbX5DOgKk=
+
+
+Name: res/drawable-nodpi/icon_fav_hotel.png
+SHA1-Digest: bcSoMX61EQMDDOhznp/NpjliyVo=
+
+
+Name: res/drawable-nodpi/checkbox_checked.png
+SHA1-Digest: WEvu56xvni+KgiLJ10OR2M4wv7g=
+
+
+Name: assets/initFiles/1521793577940_642792.jpg
+SHA1-Digest: u3nQ2rYS8cbF+qRDLu7lxpM3ino=
+
+
+Name: res/drawable-nodpi/play_seekbar_icon.png
+SHA1-Digest: vAr9CJXCkQRP37AE8hmwuaelpmU=
+
+
+Name: res/drawable-nodpi/login_layout_2_line_1.png
+SHA1-Digest: HkM5g3Sci9d4FDWMwJFpiZJm8JY=
+
+
+Name: lib/armeabi/liblocSDK6a.so
+SHA1-Digest: SWVhc5wzBpMJaDHdF8m9JMZ2S6c=
+
+
+Name: res/drawable-nodpi/buy_btn_order_cancel.png
+SHA1-Digest: xoXMnf4o5odi+upA6q0LPNne6is=
+
+
+Name: res/layout/menu.xml
+SHA1-Digest: KQnKs4w3PHOH6Y5nSL3v/Tcip5A=
+
+
+Name: res/drawable-nodpi/shadow_bg.9.png
+SHA1-Digest: plDOj8tVoOXQWAU+mkelAg7I2q0=
+
+
+Name: assets/Icon_mark6.png
+SHA1-Digest: sLqXOe/Pkf8RC0la1z7FEJtfrbw=
+
+
+Name: res/drawable/circle_corner_hotkey.xml
+SHA1-Digest: n9R31j4ikueMBCayR8zo4P3Cmks=
+
+
+Name: res/layout/shop_product_fragment_layout.xml
+SHA1-Digest: y4xyswglSkIWlt6wiGgR3XaaUoU=
+
+
+Name: res/layout/t_mytopicandcomment.xml
+SHA1-Digest: OLyIjC1VWWJuomTgW8Mhrh3XS8I=
+
+
+Name: assets/cfg/h/DVHotcity.cfg
+SHA1-Digest: jinm74DNd8BUC0KVMsSbJL6oy5w=
+
+
+Name: res/layout/s_together_item5043.xml
+SHA1-Digest: 7Z7tycVLO7wxyFDQ4zfAqwD/Eus=
+
+
+Name: res/drawable/icon.png
+SHA1-Digest: dQdQu+C6OmLAu0uAYqlv6Cqhq+M=
+
+
+Name: res/drawable-nodpi/liveservice_list_locatiion.png
+SHA1-Digest: FUYpG/qr5WWOVUo18jatymlQngg=
+
+
+Name: res/layout/xf_handlefriend_item.xml
+SHA1-Digest: F4c3oD8vuRYxQA91avh1mrkqS20=
+
+
+Name: assets/initFiles/page_c0709d65-a410-4718-8b0d-0861e5b631bd.json
+SHA1-Digest: f1iRDyqbr1bkoadtUGYY0JXDBVE=
+
+
+Name: res/drawable-nodpi/icon_more_white.png
+SHA1-Digest: 0YXJTFKDRvH064J79bAaZWDbuho=
+
+
+Name: res/drawable/circle_corner.xml
+SHA1-Digest: RmyCg62VDnpaxIVEzlUCo9CWXUg=
+
+
+Name: res/drawable/style_list_bg.xml
+SHA1-Digest: b5bpFK2cVSjDeF3NA+WrTFmk+Is=
+
+
+Name: res/layout/info_release_detail_layout.xml
+SHA1-Digest: q8McleevQ3hXHa0fqsNw53OzqQo=
+
+
+Name: res/drawable/item_selector.xml
+SHA1-Digest: SGWKV9HTwXy9AI3yGZvB/2o2X/w=
+
+
+Name: res/drawable-nodpi/icon_payread_buy.png
+SHA1-Digest: URrCoW0Tyv41j3M/be6AdNs3c4k=
+
+
+Name: res/layout/dyn_personcenter.xml
+SHA1-Digest: 23pdLl/ZY5mrxjoJNb4XSEo41Xs=
+
+
+Name: assets/drawable-xhdpi/weibosdk_navigationbar_background.9.png
+SHA1-Digest: d35q9gjKIrP0t5z3gFaV5Y7SZi0=
+
+
+Name: lib/armeabi/libijksdl.so
+SHA1-Digest: LERCTL4wjvubkDivMVzP9WkVgj4=
+
+
+Name: res/drawable/loading_image2.png
+SHA1-Digest: 7hLIBv4hxC8IcE+fieWB2Q0MWxk=
+
+
+Name: res/layout/liveservice_businerss.xml
+SHA1-Digest: 0nDisDGjkoc4bMR0R3vdUMcKQes=
+
+
+Name: res/drawable-nodpi/share_bar.png
+SHA1-Digest: Z8ipHo2VNtSWRIxNfcGOJpDyMDc=
+
+
+Name: res/drawable-nodpi/t_more_collect_n2.png
+SHA1-Digest: +eG1SXvJfIT9AzTOFZrtj7J9e5o=
+
+
+Name: res/anim/bottom_in.xml
+SHA1-Digest: hVP/JZyZ3bT2G+QA2q77V5+azQE=
+
+
+Name: res/drawable-nodpi/icon_shopping_shipment.png
+SHA1-Digest: jg+1j7ERzwjAHnr35CrmUgX1Cgk=
+
+
+Name: res/drawable-nodpi/bg_mall_title.png
+SHA1-Digest: vv6jGIYxp2snUbF4fMxHsffWXR8=
+
+
+Name: assets/drawable-xhdpi/common_button_white.9.png
+SHA1-Digest: m3sajDenkTSeLLmAjqDDm5DvkCA=
+
+
+Name: res/drawable-nodpi/service_detail.png
+SHA1-Digest: Ch1s9Ct21LH/pj9TRh+ZlOE+Kgk=
+
+
+Name: res/drawable-nodpi/loading_image5.png
+SHA1-Digest: NAMfIvx9vXSy3w3P1O0VgFo601Q=
+
+
+Name: res/drawable-nodpi/soft_staryellow.png
+SHA1-Digest: VTYh77RjAj6HWkeWT4ijqG3ARHs=
+
+
+Name: res/layout/infonine_item.xml
+SHA1-Digest: iww526qkTjYeM+5l2pAf5kvQ/+U=
+
+
+Name: res/layout/buy_addaddress.xml
+SHA1-Digest: OTS3Z0GsrftJp1K0jesI9KChm6k=
+
+
+Name: res/drawable-nodpi/icon_hotel_notpay.png
+SHA1-Digest: iEMQU5pM1tCmeTMJK5dVzF9Fdqo=
+
+
+Name: res/layout/t_topicdetail.xml
+SHA1-Digest: 46sWu8uOyetODXk0aLhWLDWVwZ4=
+
+
+Name: res/layout/buy_msgcommentrep_item.xml
+SHA1-Digest: nRHukBKeNUxhmh6XU4iZqnq4ysI=
+
+
+Name: res/layout/buy_selarea.xml
+SHA1-Digest: zvVAL7jXSj0/hpsH0Fw66TEwuw8=
+
+
+Name: res/drawable-nodpi/buy_img_addaddress.png
+SHA1-Digest: vDks5H86vPZOqINF+Svwtvih0aM=
+
+
+Name: res/layout/buy_orderdetail_item1.xml
+SHA1-Digest: 1hcKHDK7ihsJCmbYTyXyISz9LY8=
+
+
+Name: res/drawable-nodpi/icon_hotel_yellow.png
+SHA1-Digest: OtJasYTLW7TIweJ5HlUlbN4xYk8=
+
+
+Name: res/layout/persion_mytieba.xml
+SHA1-Digest: ormRpWw6x4+8fXo9CIeBNsqFaQE=
+
+
+Name: res/layout/p_piccode.xml
+SHA1-Digest: cjnEiRbdC2juUs5e9adb0n3kujc=
+
+
+Name: res/drawable-nodpi/image_editoricon41.png
+SHA1-Digest: H3lwf1JwNbMsJdzz0kVlYxITSsY=
+
+
+Name: res/drawable-nodpi/arrow_left.png
+SHA1-Digest: fd5RFQmAiZXHJ7iFdPpUBLBneno=
+
+
+Name: res/layout/liveservice_detail_home.xml
+SHA1-Digest: QNDBuu5b5Vh6qb2Rx4J/p9O1X18=
+
+
+Name: res/drawable-nodpi/icon_adress_red.png
+SHA1-Digest: zjspvykc9XVhv41FQwwg9nTQEMM=
+
+
+Name: res/layout/buy_collectionshop_item.xml
+SHA1-Digest: CRG2nLVkLyKd6dXdzACDDTbZMLU=
+
+
+Name: assets/Icon_mark1.png
+SHA1-Digest: RMqITX92JYEbzb7P/39eL+9AfT0=
+
+
+Name: res/drawable-nodpi/label_new.png
+SHA1-Digest: 7I/876RMSo51NFNL8Huwhqzv9eM=
+
+
+Name: res/layout/hotel_detail_head.xml
+SHA1-Digest: k8w++QDr08xstcLrbkWel1rNCko=
+
+
+Name: res/drawable-nodpi/label_spread_new.png
+SHA1-Digest: gryuZE/UVAJZ/GjW/yU9dkRDWKI=
+
+
+Name: res/layout/buy_timelimit_discount.xml
+SHA1-Digest: PrZaIDilWOgRL+YGeY+VzTlqPlM=
+
+
+Name: res/layout/xf_friendlist.xml
+SHA1-Digest: +sKGuHnWaUxvaSZ2AZoouAWqx0I=
+
+
+Name: res/drawable-nodpi/chat_box_mask_right.9.png
+SHA1-Digest: 2VwuiuH4YZAyzgxdsChnp+s24bo=
+
+
+Name: res/layout/dyn_flipper.xml
+SHA1-Digest: nBff5tvMkDwwjBYl8aqiQCbe3V8=
+
+
+Name: res/layout/spread_member_list_layout.xml
+SHA1-Digest: nNxgfkBNJQMgbJgqD4t281oERYM=
+
+
+Name: res/layout/buy_selectremark.xml
+SHA1-Digest: VkslJ9aj+Pq93d5hiwStoXCihJg=
+
+
+Name: lib/armeabi/libBaiduMapSDK_search_v3_7_3.so
+SHA1-Digest: Z8Wh8YiSMcw26c02S7jhICiIMUY=
+
+
+Name: res/drawable-nodpi/xf_newfriend.png
+SHA1-Digest: IZ4bLNVTvGfA2fkSUtZpGiR5nbw=
+
+
+Name: res/layout/t_choosepic_item.xml
+SHA1-Digest: DA9e8/ODPWY67haYRBkxPBSDBCU=
+
+
+Name: res/drawable-nodpi/icon_hotel_waitin.png
+SHA1-Digest: 3zE4BxTKZZMtMhFWr/H6AmYhaJw=
+
+
+Name: res/drawable-nodpi/login_layout_2_input_bg.9.png
+SHA1-Digest: fSdoT8uWokPDUI2MC9bj4vHUDNE=
+
+
+Name: res/layout/buy_collectionmsg_item.xml
+SHA1-Digest: LHLswtisGDqlZ7Gzkp6NsGJiqWY=
+
+
+Name: res/drawable-nodpi/liveservice_time.png
+SHA1-Digest: LS/Rv2+LHjbpeFal3Ap/r0mO+4U=
+
+
+Name: res/drawable-nodpi/t_refbg.png
+SHA1-Digest: dQ1Lx8xbVrIP/6ZwxyZpMwmx1Xg=
+
+
+Name: res/drawable-nodpi/p_loginoff.png
+SHA1-Digest: D1fXo8pU/RAdeEs2pCowNoNt8RM=
+
+
+Name: res/layout/s_together_item5041.xml
+SHA1-Digest: mlKQS4o24yImGpfEmXw0s5oZG5A=
+
+
+Name: res/drawable-nodpi/icon_virtual.png
+SHA1-Digest: /GFKO8q7LulQaBgiut1RSGRxq3k=
+
+
+Name: res/drawable-nodpi/image_editoricon20.png
+SHA1-Digest: yRf9LgCdyfTbWjr5IqbiMWjSkCg=
+
+
+Name: res/drawable-nodpi/icon_clock.png
+SHA1-Digest: twvZnawepKqT3LXVaKq8wG6Kfj4=
+
+
